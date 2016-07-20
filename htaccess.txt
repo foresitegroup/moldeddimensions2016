@@ -1,0 +1,27 @@
+RewriteEngine On
+
+Redirect 301 /product-development http://www.moldeddimensions.com/product-development.php
+Redirect 301 /product-development/project-review http://www.moldeddimensions.com/project-review.php
+Redirect 301 /product-development/project-management http://www.moldeddimensions.com/project-management.php
+Redirect 301 /product-development/material-engineering http://www.moldeddimensions.com/materials-engineering.php
+Redirect 301 /product-development/quality http://www.moldeddimensions.com/quality.php
+Redirect 301 /capabilities http://www.moldeddimensions.com/capabilities.php
+Redirect 301 /capabilities/rubber-molding http://www.moldeddimensions.com/rubber-molding.php
+Redirect 301 /capabilities/polyurethane-molding http://www.moldeddimensions.com/polyurethane-molding.php
+Redirect 301 /capabilities/glocalsource http://www.moldeddimensions.com/glocalsource.php
+
+Redirect 301 /our-company http://www.moldeddimensions.com/our-company.php
+Redirect 301 /our-company/history http://www.moldeddimensions.com/history.php
+Redirect 301 /our-company/mission-strategy http://www.moldeddimensions.com/mission-strategy.php
+Redirect 301 /our-company/certifications-awards http://www.moldeddimensions.com/certifications-awards.php
+Redirect 301 /our-company/wbe-esop http://www.moldeddimensions.com/wbe-esop.php
+Redirect 301 /our-company/community http://www.moldeddimensions.com/community.php
+Redirect 301 /our-company/industries-served http://www.moldeddimensions.com/industries-served.php
+Redirect 301 /news-feed http://www.moldeddimensions.com/news-feed.php
+Redirect 301 /news-feed/blog http://www.moldeddimensions.com/blog
+Redirect 301 /molded-dimensions-named-one-of-the-top-workplaces-for-2015 http://www.moldeddimensions.com/molded-dimensions-named-one-of-the-top-workplaces-for-2015.php
+Redirect 301 /contact-us http://www.moldeddimensions.com/contact-us.php
+Redirect 301 /contact-us/careers http://www.moldeddimensions.com/careers.php
+Redirect 301 /contact-us/directions http://www.moldeddimensions.com/directions.php
+Redirect 301 /contact-us/rfq http://www.moldeddimensions.com/rfq.php
+Redirect 301 /contact-us/rmi http://www.moldeddimensions.com/rmi.php
