@@ -18,11 +18,11 @@
     </ul>
   </li>
   <li class="m4">
-    <a href="<?php echo $TopDir; ?>#">Knowledge Center</a>
+    <a href="<?php echo $TopDir; ?>knowledge-center.php">Knowledge Center</a>
     <ul>
-      <li><a href="<?php echo $TopDir; ?>#">Design &amp; Engineering Guide</a></li>
-      <li><a href="<?php echo $TopDir; ?>#">Material Guide</a></li>
-      <li><a href="<?php echo $TopDir; ?>#">Part Examples</a></li>
+      <li><a href="<?php echo $TopDir; ?>design-engineering-guide.php">Design &amp; Engineering Guide</a></li>
+      <li><a href="<?php echo $TopDir; ?>material-guide.php">Material Guide</a></li>
+      <li><a href="<?php echo $TopDir; ?>part-examples.php">Part Examples</a></li>
     </ul>
   </li>
   <li class="m5">

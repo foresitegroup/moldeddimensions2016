@@ -47,6 +47,13 @@ H2 {
   color: #C91D1B;
 }
 
+H3 {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 700;
+  color: #444444;
+}
+
 INPUT[type="text"],
 INPUT[type="email"],
 INPUT[type="password"],
@@ -109,6 +116,24 @@ INPUT[type="submit"]:focus {
   outline: none;
 }
 
+TABLE {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+TH, TD {
+  border: 1px solid #ccc;
+  padding: 3px 7px;
+  text-align: left;
+  vertical-align: top;
+}
+
+.big-table TH,
+.big-table TD {
+  font-size: 70%;
+  line-height: 1.3em;
+}
+
 .site-width {
   width: 98%;
   margin: 0 auto;
@@ -144,6 +169,27 @@ INPUT[type="submit"]:focus {
   height: 2em;
 }
 
+.centered-box {
+  text-align: center;
+}
+
+.centered-image {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
+
+.one-eighth-left {
+  float: left;
+  width: 14%;
+}
+
+.one-eighth-right {
+  float: right;
+  width: 14%;
+}
+
 .one-fourth-left {
   float: left;
   width: 24%;
@@ -162,6 +208,16 @@ INPUT[type="submit"]:focus {
 .one-half-right {
   float: right;
   width: 48%;
+}
+
+.one-third-left {
+  float: left;
+  width: 30%;
+}
+
+.one-third-right {
+  float: right;
+  width: 30%;
 }
 
 .two-thirds-left {
@@ -186,6 +242,12 @@ IMG.two-thirds-right {
   margin-left: 1%;
 }
 
+IMG.right {
+  float: right;
+  margin-left: 2em;
+  max-width: 200px;
+}
+
 .one-third {
   float: left;
   width: 30%;
@@ -203,12 +265,19 @@ IMG.two-thirds-right {
   margin-right: 0;
 }
 
+.one-eighth-left IMG,
+.one-eighth-right IMG,
 .one-fourth-left IMG,
 .one-fourth-right IMG,
 .one-half-left IMG,
 .one-half-right IMG,
+.one-third-left IMG,
+.one-third-right IMG,
+.two-thirds-left IMG,
+.two-thirds-right IMG,
 .one-third IMG,
-.two-third IMG {
+.two-third IMG,
+.centered-box IMG {
   max-width: 100%;
   height: auto;
 }
@@ -1019,6 +1088,13 @@ H1.year {
   font-weight: bold;
 }
 
+.pe-right {
+  float: right;
+  width: 50%;
+  height: auto;
+  margin-left: 1.5em;
+}
+
 @media only screen and (min-width: 1180px) {
   /* Wide screen */
   .site-width {
@@ -1155,14 +1231,19 @@ H1.year {
 
 @media only screen and (max-width: 600px) {
   /* Small tablet */
+  .one-eighth-left,
+  .one-eighth-right,
   .one-fourth-left,
   .one-fourth-right,
   .one-half-left,
   .one-half-right,
+  .one-third-left,
+  .one-third-right,
   .two-thirds-left,
   .two-thirds-right {
     float: none;
     width: 100%;
+    margin-bottom: 1em;
   }
   
   IMG.one-fourth-left,
@@ -1392,10 +1473,25 @@ H1.year {
   .home-boxes .home-box A.hb-more {
     display: none;
   }
+
+  .pe-right {
+    float: none;
+    width: 100%;
+    margin: 0 0 1.5em 0;
+  }
 }
 
 @media only screen and (max-width: 480px) {
   /* Phone */
+  IMG.left,
+  IMG.right {
+    float: none;
+    margin-left: 0;
+    margin-bottom: 1em;
+    width: 100%;
+    max-width: 100%;
+  }
+
   .top-menu {
     width: 100%;
     text-align: right;

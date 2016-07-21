@@ -6,29 +6,29 @@
   </div>
 
   <div class="site-width prefooter">
-    <h2 class="foot-title"><a href="<?php echo $TopDir; ?>#">A PEEK AT <span>OUR PARTS</span></a></h2>
+    <h2 class="foot-title"><a href="<?php echo $TopDir; ?>part-examples.php">A PEEK AT <span>OUR PARTS</span></a></h2>
 
     <div class="one-fourth">
-      <div class="pf-image" style="background-image: url(<?php echo $TopDir; ?>images/part-wipers.jpg);"></div>
-      <a href="<?php echo $TopDir; ?>#">Pentathane Applications - Wipers</a>
+      <div class="pf-image" style="background-image: url(<?php echo $TopDir; ?>images/part-examples/wipers.jpg);"></div>
+      <a href="<?php echo $TopDir; ?>part-example-wipers.php">Pentathane Applications - Wipers</a>
       Wiper used to material handling in food processing equipment. This material is both FDA approvable and abrasion resistant for durability.
     </div>
 
     <div class="one-fourth">
-      <div class="pf-image" style="background-image: url(<?php echo $TopDir; ?>images/part-wheels.jpg);"></div>
-      <a href="<?php echo $TopDir; ?>#">Pentathane Applications - Wheels</a>
+      <div class="pf-image" style="background-image: url(<?php echo $TopDir; ?>images/part-examples/wheels.jpg);"></div>
+      <a href="<?php echo $TopDir; ?>part-example-wheels.php">Pentathane Applications - Wheels</a>
       Pentathane&reg; chemically bonded directly onto precision sealed bearing molded to tight concentricity specifications.
     </div>
 
     <div class="one-fourth">
-      <div class="pf-image" style="background-image: url(<?php echo $TopDir; ?>images/part-hose.jpg);"></div>
-      <a href="<?php echo $TopDir; ?>#">Elastomer Applications - Hose</a>
+      <div class="pf-image" style="background-image: url(<?php echo $TopDir; ?>images/part-examples/hose.jpg);"></div>
+      <a href="<?php echo $TopDir; ?>part-example-hose.php">Elastomer Applications - Hose</a>
       Hose configured for limited space in marine engine application.
     </div>
 
     <div class="one-fourth">
-      <div class="pf-image" style="background-image: url(<?php echo $TopDir; ?>images/part-tube.jpg);"></div>
-      <a href="<?php echo $TopDir; ?>#">Elastomer Applications - Tube</a>
+      <div class="pf-image" style="background-image: url(<?php echo $TopDir; ?>images/part-examples/tube.jpg);"></div>
+      <a href="<?php echo $TopDir; ?>part-example-tube.php">Elastomer Applications - Tube</a>
       Oil resistant molded tube used on combustion engine.
     </div>
   </div>

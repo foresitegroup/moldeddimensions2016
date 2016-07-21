@@ -44,8 +44,7 @@ if (isset($_POST['submit']) && $_POST['confirmationCAP'] == "") {
     $Message = stripslashes($Message);
 
     $Subject = "Contact From Molded Dimensions Website";
-    $SendTo = "patmccurdymusic@gmail.com";
-    // $SendTo = "mdisales@moldeddimensions.com,prudolf@moldeddimensions.com";
+    $SendTo = "mdisales@moldeddimensions.com,prudolf@moldeddimensions.com";
     $Headers = "Bcc: mark@foresitegrp.com\r\n";
     $Headers .= "From: Contact Form <contactform@moldeddimensions.com>\r\n";
     $Headers .= "Reply-To: " . $_POST[md5('email' . $_POST['ip'] . $salt . $_POST['timestamp'])] . "\r\n";
