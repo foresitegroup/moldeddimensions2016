@@ -965,6 +965,7 @@ IMG.right {
 .entry-title A {
   text-decoration: none;
   font-weight: 300;
+  font-size: 36px;
 }
 
 .blog-single .entry-title A {
@@ -1086,6 +1087,50 @@ H1.year {
   line-height: 1em;
   margin-bottom: 0.2em;
   font-weight: bold;
+}
+
+.part-examples H3 {
+  font-size: 24px;
+  line-height: 1em;
+  margin-bottom: 0.4em;
+}
+
+.part-examples A:link,
+.part-examples A:visited {
+  background: #FFFFFF;
+  padding: 10px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  font-size: 120%;
+  line-height: 1.2em;
+  margin-bottom: 0.5em;
+  display: block;
+  position: relative;
+}
+
+.part-examples A:hover,
+.part-examples A:active {
+  color: #AAAAAA;
+}
+
+.part-examples A:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.part-examples A IMG {
+  float: left;
+  max-width: 30%;
+  height: auto;
+  margin-right: 10px;
+}
+
+.part-examples A SPAN {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
 }
 
 .pe-right {
