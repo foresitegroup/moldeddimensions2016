@@ -970,6 +970,7 @@ IMG.right {
 
 .blog-single .entry-title A {
   font-size: 36px;
+  line-height: 1.1em;
 }
 
 .entry-content .alignleft {
@@ -980,6 +981,17 @@ IMG.right {
 .entry-content .alignright {
   float: right;
   margin: 0.2em 0 1em 2em;
+}
+
+.md-content .entry-content UL, .md-content .entry-content OL {
+  color: #343435;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.md-content .entry-content UL LI,
+.md-content .entry-content OL LI {
+  padding: 0 0 5px 0;
 }
 
 .navigation {

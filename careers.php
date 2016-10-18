@@ -32,43 +32,56 @@ include "header.php";
   <h2>How to Apply</h2>
   <ul>
     <li>Application, required<br>Download, complete and return the MDI <a href="pdf/MDI_job_application.pdf">application</a> for employment via email to <?php email("hr@moldeddimensions.com"); ?> or by stopping by in person and completing an application.</li>
-    <li>Culture Index Survey, required<br>Complete the <a href="https://ciims.cindexinc.com/job/ed2a8d">culture index survey</a> on this website or by stopping by in person.</li>
+    <li>Culture Index Survey, required<br>Complete the <a href="http://www.cindexinc.com/c/86701C">culture index survey</a> on this website or by stopping by in person.</li>
     <li>Resume, optional<br />You may submit your resume in addition to the MDI application via email to <?php email("hr@moldeddimensions.com"); ?> or by stopping by in person.</li>
   </ul>
   <br>
 
-  Please Download <a href="pdf/MDI_job_application.pdf">Application</a>.<br> Please Complete <a href="https://ciims.cindexinc.com/job/ed2a8d">Culture Index Survey</a><br>
+  Please Download <a href="pdf/MDI_job_application.pdf">Application</a>.<br> Please Complete <a href="http://www.cindexinc.com/c/86701C">Culture Index Survey</a><br>
   <br>
   <br>
 
   <h2>Current Job Openings</h2>
-  <strong>Production Lead 3rd Shift (Sunday-Thursday, 9 PM -- 5 AM)</strong><br>
-  Job Summary: Oversees and coordinates the work of the production employees to meet production goals<br>
+  <strong>ESTIMATOR / INSIDE SALES ENGINEER</strong><br>
+  Analyzes part drawings, specifications, request for quote, and other documentation to prepare process routings, part costs, tooling requirements, and bills of material for parts.<br>
   <br>
 
-  Responsibilities
-  <ul>
-    <li>schedules employees to jobs based on production schedule</li>
-    <li>provides training to new hires as well as on-going training to all employees</li>
-    <li>conducts annual performance evaluations and provides continuous feedback</li>
-    <li>reviews efficiency reports with employees to meet production goals</li>
-    <li>provides break relief to employees</li>
-    <li>assists employees with troubleshooting</li>
-    <li>addresses personnel issues with the assistance of management</li>
-    <li>enforces company policies and procedures</li>
-    <li>maintains safe and clean work environment</li>
-  </ul>
+  Interact extensively and directly with: customers, external sales representatives, engineering and quality departments as needed.<br>
   <br>
 
-  Requirements
-  <ul>
-    <li>past supervisory or leadership experience</li>
-    <li>excellent communication and interpersonal skills</li>
-    <li>basic computer skills</li>
-    <li>motivated, organized and self-directed</li>
-    <li>experience in manufacturing environment helpful</li>
-    <li>ability to become forklift certified</li>
-  </ul><br>
+  Participate in customer meetings, both on site and at customer locations.  Facilitate plant tours with customers and discuss design and manufacturing concepts conducive to reducing the overall cost of product.<br>
+  <br>
+
+  Reports to VP Sales<br>
+  <br>
+  <br>
+
+  RESPONSIBILITIES:<br>
+  Determines material, machines, labor and process requirements to finalize quotes.<br>
+  <br>
+
+  Prepares part estimates for management use in planning, obtains tooling and component estimates as needed.<br>
+  <br>
+
+  Interacts with Customers, Sales, Engineering, Purchasing, Production areas.<br>
+  <br>
+
+  Enters all relevant data into a computerized quote program.<br>
+  <br>
+
+  Complete TCO, cost breakdowns as required.<br>
+  <br>
+
+  Populates customer RFQ WEB portals as needed.<br>
+  <br>
+
+  Presents a formalized cost estimate to Sales which is used to establish selling prices.<br>
+  <br>
+  <br>
+
+  EDUCATION AND/OR EXPERIENCE:<br>
+  Minimum Associates degree related to Industrial Technology, Bachelors in Industrial or Mechanical Engineering strongly preferred.  Exposure to a job shop environment beneficial.  Basic understanding of a wide variety of manufacturing processes.<br>
+  <br>
   <br>
 
   <strong>Rubber Molding Press Operators 2nd and 3rd Shift</strong><br>
@@ -91,7 +104,7 @@ include "header.php";
   Please follow the two-step process.<br>
   <ol style="font-style: italic;">
     <li>Download <a href="pdf/MDI_job_application.pdf">Application</a>, fill in and send back.</li>
-    <li>Take <a href="https://ciims.cindexinc.com/job/ed2a8d">Culture Index Survey</a>.</li>
+    <li>Take <a href="http://www.cindexinc.com/c/86701C">Culture Index Survey</a>.</li>
   </ol>
   <br>
 
