@@ -11,30 +11,28 @@ include "header.php";
 Certifications and awards are important to every company, including Molded Dimensions. We pride ourselves on our ISO9001:2008 and WBE (Women's Business Enterprise) certifications. On-going surveillance and recertification audits ensure Molded Dimensions continues to meet and exceed requirements and expectations. ISO9001 and WBE are our two core certifications.<br>
 <br>
 
-<div class="one-fourth-left">
+<div class="one-third-left centered-box" style="margin-right: 5%;">
   <h2>Quality Certification</h2>
-  <div class="one-half-left centered-box">
-    <a href="pdf/ISO_certificate.pdf">
-      ISO9001:2008 certification<br>
-      <img style="margin-top: 0.4em;" src="images/bsi.png" alt="Molded Dimensions Quality Certification">
-    </a>
+  <div class="two-thirds-left" style="float: none; margin: 0 auto;">
+    <a href="pdf/ISO_certificate.pdf">ISO9001:2008 certification<br><img style="margin-top: 0.4em;" src="images/bsi.png" alt="Molded Dimensions Quality Certification"></a>
   </div>
-  <div style="clear: both; height: 1em;"></div>
+  <div style="clear: both;"></div>
 </div>
 
-<div class="one-half-left">
+<div class="one-third-left centered-box">
   <h2>Business Diversity Certification</h2>
-  <div class="one-half-left centered-box">
-    <a href="pdf/WBE_certificate_2015.pdf">
-      Women's Business Enterprise Certification<br>
-      <img style="margin-top: 0.4em;" src="images/wbe-cert.png" alt="Molded Dimensions Business Diversity Certification">
-    </a>
-  </div>
-  <div style="clear: both; height: 1em;"></div>
+    <a href="pdf/WBE_certificate_2015.pdf">Women's Business Enterprise Certification<br><img style="margin-top: 0.4em;" src="images/wbe-cert.png" alt="Molded Dimensions Business Diversity Certification"></a>
+  <div style="clear: both;"></div>
+</div>
+
+<div class="one-third-right centered-box">
+  <h2>Safety Certification</h2>
+    <a href="pdf/PMA_certificate.pdf">Polyurethane Manufacturers Association<br><img style="margin-top: 0.4em;" src="images/pma-cert.png" alt="Molded Dimensions Quality Certification" ></a>
+  <div style="clear: both;"></div>
 </div>
 
 <div style="clear: both;"></div>
-<br>
+<br >
 
 <h2>Awards</h2>
 In addition to our business certifications, Molded Dimensions Inc has been bestowed numerous other industry and business awards and honors. These are often times the most important because they come from the business community around us, as well as from our staff members.<br>
