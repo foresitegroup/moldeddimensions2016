@@ -42,48 +42,6 @@ include "header.php";
   <br>
 
   <h2>Current Job Openings</h2>
-  <strong>ESTIMATOR / INSIDE SALES ENGINEER</strong><br>
-  Analyzes part drawings, specifications, request for quote, and other documentation to prepare process routings, part costs, tooling requirements, and bills of material for parts.<br>
-  <br>
-
-  Interact extensively and directly with: customers, external sales representatives, engineering and quality departments as needed.<br>
-  <br>
-
-  Participate in customer meetings, both on site and at customer locations.  Facilitate plant tours with customers and discuss design and manufacturing concepts conducive to reducing the overall cost of product.<br>
-  <br>
-
-  Reports to VP Sales<br>
-  <br>
-  <br>
-
-  RESPONSIBILITIES:<br>
-  Determines material, machines, labor and process requirements to finalize quotes.<br>
-  <br>
-
-  Prepares part estimates for management use in planning, obtains tooling and component estimates as needed.<br>
-  <br>
-
-  Interacts with Customers, Sales, Engineering, Purchasing, Production areas.<br>
-  <br>
-
-  Enters all relevant data into a computerized quote program.<br>
-  <br>
-
-  Complete TCO, cost breakdowns as required.<br>
-  <br>
-
-  Populates customer RFQ WEB portals as needed.<br>
-  <br>
-
-  Presents a formalized cost estimate to Sales which is used to establish selling prices.<br>
-  <br>
-  <br>
-
-  EDUCATION AND/OR EXPERIENCE:<br>
-  Minimum Associates degree related to Industrial Technology, Bachelors in Industrial or Mechanical Engineering strongly preferred.  Exposure to a job shop environment beneficial.  Basic understanding of a wide variety of manufacturing processes.<br>
-  <br>
-  <br>
-
   <strong>Rubber Molding Press Operators 2nd and 3rd Shift</strong><br>
   Responsibilities involve operating presses by following process order
   sheets to load material and unload parts.  Operators are also
