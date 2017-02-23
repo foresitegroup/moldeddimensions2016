@@ -73,7 +73,7 @@
           <ul class="dl">
             <li><i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="<?php echo $TopDir; ?>pdf/MDI_brochure.pdf">MDI Brochure</a></li>
             <li><i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="<?php echo $TopDir; ?>pdf/ISO_certificate.pdf">Certified ISO 9001:2008</a></li>
-            <li><i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="<?php echo $TopDir; ?>pdf/WBE_certificate_2015.pdf">Certified WBE</a></li>
+            <li><i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="<?php echo $TopDir; ?>pdf/WBE_Certificate_2017.pdf">Certified WBE</a></li>
           </ul>
         </div>
       </div>
