@@ -83,7 +83,9 @@ include "header.php";
   <img src="images/twp2015.png" alt=""><br>
   <img src="images/twp2014.png" alt=""><br>
   <img src="images/twp2013.png" alt=""><br>
-  <img src="images/twp2012.png" alt="">
+  <img src="images/twp2012.png" alt=""><br>
+  <br>
+  <img src="images/pma-cert.png" alt="">
 </div>
 
 <?php include "footer.php"; ?>

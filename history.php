@@ -181,4 +181,17 @@ include "header.php";
 
 <div class="one-half-right"><img class="two-thirds-left" src="images/twp2015.png" alt="Received 2015 Top Work Places Award"></div>
 
+<div class="clear-space"></div>
+
+<div class="one-half-left">
+  <h1 class="year">2016</h1>
+  <ul>
+    <li>First to be PMA Safe &amp; Compliant</li>
+  </ul>
+</div>
+
+<div class="one-half-right"><img src="images/pma-cert.png" alt=""></div>
+
+
+
 <?php include "footer.php"; ?>

@@ -103,6 +103,13 @@ function email($address, $name="") {
         <span>Women's Business Enterprise</span>
       </a>
     </div>
+
+    <div style="background-image: url(images/rotating-pma.jpg);">
+      <a href="certifications-awards.php">
+        <span>First to be PMA Safe &amp; Compliant</span>
+      </a>
+    </div>
+
     <div style="background-image: url(images/rotating2.jpg);">
       <a href="glocalsource.php">
         <span class="slogan-left">Global Reach in Production and Fulfillment</span>
