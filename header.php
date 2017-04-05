@@ -106,7 +106,7 @@ function email($address, $name="") {
 
     <div style="background-image: url(images/rotating-pma.jpg);">
       <a href="certifications-awards.php">
-        <span>First to be PMA Safe &amp; Compliant</span>
+        <span class="slogan-left">First to be PMA Safe &amp; Compliant</span>
       </a>
     </div>
 
