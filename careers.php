@@ -69,14 +69,6 @@ include "header.php";
   <br>
 
 
-  <strong>Machinist</strong><br>
-  Responsibilities include the safe and efficient setup and operation of CNC and manual lathes, Bridgeport mill, band saw, tool post grinders, belt sanders, drill press and speed lathes.  They will perform periodic inspection of product produced and monitor production levels.  Also, run multiple machines simultaneously and maintain machines and work area to ensure a clean and safe work environment.<br>
-  <br>
-
-  Candidates must be able to read and interpret documents such as blueprints, process sheets, policies and procedures and safety rules.  Working knowledge of shop mathematics and ability to accurately use measurement tools and equipment is necessary.  Strong communication and problem solving skills, along with working well with others and an excellent attendance record are essential.  The hours are Monday through Friday, 6 AM - 2 PM.<br>
-  <br>
-  <br>
-
 
   <strong>Rubber Molding Press Operators 2nd and 3rd Shift</strong><br>
   Responsibilities involve operating presses by following process order
