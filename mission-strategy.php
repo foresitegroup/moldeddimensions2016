@@ -15,30 +15,20 @@ At the foundation of everything we do is our goal to make Molded Dimensions, Inc
 Molded Dimensions, Inc. is a place where great people choose to work.<br>
 <br>
 
-<h2>Our Mission</h2>
-To provide engineered elastomer solutions that help our customers succeed.<br>
+<img class="one-half-right" src="images/mission5.jpg" alt="Urethane molder resetting an open cast tool.">
+<h2>Quality Policy</h2>
+Our mission is to create a place where great people choose to work.<br>
 <br>
 
-<img class="one-half-right" src="images/mission5.jpg" alt="Urethane molder resetting an open cast tool.">
-We will achieve this goal through:<br>
+Our brand promise is to provide peace of mind to our customers and employee owners.<br>
+<br>
+
+We achieve this through continually improving our:<br>
 <ul>
   <li>Employee focus</li>
   <li>Customer satisfaction</li>
-  <li>Technical expertise</li>
-  <li>Operational excellence</li>
-  <li>Profitable growth</li>
-</ul>
-<br>
-
-Our values:<br>
-<ul>
-  <li>Honesty and integrity</li>
-  <li>Safety and well-being</li>
-  <li>Quality of our products and services</li>
-  <li>Continuous improvement and innovative solutions</li>
-  <li>Respect for the environment</li>
-  <li>Diversity of experiences and openness to the opinions of others</li>
-  <li>Accountability to each other and our end customers</li>
+  <li>Operational efficiency</li>
+  <li>Steady profitable growth</li>
 </ul>
 <br>
 
@@ -46,9 +36,8 @@ Our values:<br>
 Linda Katz, CEO<br>
 Mike Katz, President<br>
 Bill Gasper, CFO &amp; CIO<br>
-Pat Roddy, VP - Sales &amp; Marketing<br>
+Patrick Roddy, VP - Sales &amp; Marketing<br>
 Carol Nikolaus, VP - Technical Services<br>
-Sara Sina, Manufacturing Manager<br>
 Kevin Kuhagen, GlocalSource Business Manager<br>
 Tony Lukas, Chemist
 
