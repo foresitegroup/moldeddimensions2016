@@ -70,7 +70,7 @@ include "header.php";
 
 
 
-  <strong>Rubber Molding Press Operators 2nd and 3rd Shift</strong><br>
+  <strong>Machine Operators 1st, 2nd and 3rd Shift</strong><br>
   Responsibilities involve operating presses by following process order
   sheets to load material and unload parts.  Operators are also
   responsible for trimming and inspecting of parts, and may be involved in
@@ -82,8 +82,7 @@ include "header.php";
   Qualified candidates must be able to read and understand process sheets
   and lift up to 50 lbs.  Manufacturing experience a plus, but not
   necessary if candidate can learn quickly and work in a fast-paced
-  environment.  Hours are 2nd shift 1 - 9 PM, Monday - Friday;  3rd
-  shift 9 PM - 5 AM, Sunday - Thursday.
+  environment.  Hours are 1st shift 5 AM - 1 PM, Monday - Friday; 2nd shift 1 - 9 PM, Monday - Friday;  3rd shift 9 PM - 5 AM, Sunday - Thursday.
 </div>
 
 <div class="one-third last">
