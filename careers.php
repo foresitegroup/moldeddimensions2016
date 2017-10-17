@@ -42,34 +42,6 @@ include "header.php";
   <br>
 
   <h2>Current Job Openings</h2>
-  <strong>Engineering Project Manager</strong><br>
-  Molded Dimensions provides engineered elastomer solutions, custom molding rubber and urethane products for a diverse customer base. As an employee-owned company with continuous growth and financial stability, we offer a positive, team-oriented environment in which to expand your career. We are seeking an engineer to manage projects from receipt of customer purchase order, through the first article process, customer approval, into production.<br>
-  <br>
-
-  <em>Essential Job Functions</em>
-  <ul>
-    <li>provide regular external and internal project updates</li>
-    <li>develop manufacturing process routings and methods to meet quality requirements</li>
-    <li>design secondary fixtures</li>
-    <li>meet deadlines</li>
-    <li>analyze results for continuous improvement</li>
-    <li>control costs</li>
-  </ul>
-  <br>
-
-  <em>Job Requirements</em>
-  <ul>
-    <li>BS in Engineering required. BSME preferred.</li>
-    <li>Project Management experience with direct customer contact a plus</li>
-    <li>SolidWorks skills a plus</li>
-    <li>Experience with APQP a plus</li>
-    <li>Experience with thermoset elastomeric materials, a custom molding environment, mold design, metal fabrication, and/or Lean Manufacturing a plus</li>
-  </ul>
-  <br>
-  <br>
-
-
-
   <strong>Machine Operators 1st, 2nd and 3rd Shift</strong><br>
   Responsibilities involve operating presses by following process order
   sheets to load material and unload parts.  Operators are also
