@@ -42,6 +42,10 @@ include "header.php";
   <br>
 
   <h2>Current Job Openings</h2>
+  <strong>Second Shift Urethane Molder</strong><br>
+  The ideal candidate will have great multi-tasking skills, will be detail-oriented, and must be able to read and follow process instructions.  The position involves loading and unloading of molds following written procedures, operating hydraulic presses, and troubleshooting quality defects while making appropriate adjustments.  Requires the ability to lift 50 pounds regularly. Second shift hours are from 12:30 pm - 8:30 pm Monday through Friday.<br>
+  <br>
+
   <strong>Machine Operators 1st, 2nd and 3rd Shift</strong><br>
   Responsibilities involve operating presses by following process order
   sheets to load material and unload parts.  Operators are also
