@@ -42,8 +42,12 @@ include "header.php";
   <br>
 
   <h2>Current Job Openings</h2>
-  <strong>Second Shift Urethane Molder</strong><br>
-  The ideal candidate will have great multi-tasking skills, will be detail-oriented, and must be able to read and follow process instructions.  The position involves loading and unloading of molds following written procedures, operating hydraulic presses, and troubleshooting quality defects while making appropriate adjustments.  Requires the ability to lift 50 pounds regularly. Second shift hours are from 12:30 pm - 8:30 pm Monday through Friday.<br>
+  <strong>Second Shift Lead Person</strong><br>
+  We are currently looking for a 2nd shift lead for our rubber operations.  The responsibilities of this position include scheduling and supervising employees, setting up molds, trouble-shooting problems, providing training and break relief, reviewing efficiency reports, and enforcing policies and procedures.  In this role the lead will be providing feedback to employees as well as coaching them on improving their efficiency.<br>
+  <br>
+
+  Qualified candidates should have a combination of manufacturing experience, some mechanical aptitude, and supervisory experience.  The successful candidate will be a good decision maker and have strong interpersonal skills.  Some computer skills are required.  The candidate should have the ability to become forklift certified.<br>
+  <br>
   <br>
 
   <strong>Machine Operators 1st, 2nd and 3rd Shift</strong><br>
