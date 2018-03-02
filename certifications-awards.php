@@ -21,7 +21,7 @@ Certifications and awards are important to every company, including Molded Dimen
 
 <div class="one-third-left centered-box">
   <h2>Business Diversity Certification</h2>
-    <a href="pdf/WBE_Certificate_2017.pdf">Women's Business Enterprise Certification<br><img style="margin-top: 0.4em;" src="images/wbe-cert.png" alt="Molded Dimensions Business Diversity Certification"></a>
+    <a href="pdf/WBE_Certificate.pdf?<?php echo filemtime("pdf/WBE_Certificate.pdf"); ?>" target="new">Women's Business Enterprise Certification<br><img style="margin-top: 0.4em;" src="images/wbe-cert.png" alt="Molded Dimensions Business Diversity Certification"></a>
   <div style="clear: both;"></div>
 </div>
 

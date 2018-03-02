@@ -15,7 +15,7 @@ WBE certification and employee ownership set Molded Dimensions, Inc. apart from 
 
 <h2>The WBE difference</h2>
 <div class="one-fourth-right centered-box" style="padding-left: 1%;">
-  <a href="pdf/WBE_Certificate_2017.pdf">Women's Business Enterprise Certification<br><img style="margin-top: 0.4em;" src="images/wbe-cert.png" alt=""></a>
+  <a href="pdf/WBE_Certificate.pdf?<?php echo filemtime("pdf/WBE_Certificate.pdf"); ?>" target="new">Women's Business Enterprise Certification<br><img style="margin-top: 0.4em;" src="images/wbe-cert.png" alt=""></a>
 </div>
 
 MDI values diversity in our business. It starts with our Women's Business Enterprise National Council (WBENC) certification as a Women's Business Enterprise. Our diversity continues throughout our organization, including ethnic and gender leadership roles, down through the ranks to our front line operators. We truly believe diversity brings problem solving and creative thinking into our business. This conscious approach to business diversity makes MDI a stronger organization.

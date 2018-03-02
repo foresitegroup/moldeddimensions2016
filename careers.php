@@ -42,6 +42,17 @@ include "header.php";
   <br>
 
   <h2>Current Job Openings</h2>
+  <strong>First Shift Maintenance Technician</strong><br>
+  Performs preventative maintenance duties and troubleshoots equipment breakdowns in order to maintain production and quality results. Utilizes knowledge of fundamental mechanical, electrical, carpentry, and pneumatic/hydraulic skills in performing a wide variety of maintenance/basic electrical projects. Able to read hydraulic, pneumatic, and electrical prints and work off schematics. Operates common hand or power tools.<br>
+  <br>
+
+  Must be able to communicate with all plant personnel and maintain good housekeeping and safety standards. Maintains good attendance record, is self-motivated, with a willingness to learn. Basic machinist (mill, lathe, surface grinder, drill press, etc.) and welding/fabrication skills a plus.<br>
+  <br>
+
+  Qualified candidates will have a minimum of 2-3 years maintenance experience in an industrial environment.  Welding and fabrication skills a plus.<br>
+  <br>
+  <br>
+
   <strong>Second Shift Lead Person</strong><br>
   We are currently looking for a 2nd shift lead for our rubber operations.  The responsibilities of this position include scheduling and supervising employees, setting up molds, trouble-shooting problems, providing training and break relief, reviewing efficiency reports, and enforcing policies and procedures.  In this role the lead will be providing feedback to employees as well as coaching them on improving their efficiency.<br>
   <br>
