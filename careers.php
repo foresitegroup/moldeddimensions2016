@@ -42,6 +42,14 @@ include "header.php";
   <br>
 
   <h2>Current Job Openings</h2>
+  <strong>QA Manager</strong><br>
+  Principle duties include managing quality systems including new product first article inspection and PPAP process; bills of material, routing/process sheets, defect limit samples, and in-process inspection/test methods; raw material receiving inspection; supplier assessment and development; ISO 9001:2015 QMS, internal and customer audits; and selection, maintenance, and calibration of inspection, measuring and test equipment.  Interactions and support of other departments, such as Manufacturing, Engineering, Purchasing, and the President are required.  QA Manager will coach and develop Quality Technicians and foster a customer-focused culture.<br>
+  <br>
+
+  Qualified candidates will have a bachelor's degree in a technical specialty such as Engineering; thorough knowledge of PPAP requirements, Lean Manufacturing concepts, and blueprint reading; the desire and ability to contribute as a manager and a doer; fluency in ISO 9001:2015 and lead auditor experience; a successful track record of working cross-functionally; and strong verbal and written communication skills.  Supervisory experience a plus.<br>
+  <br>
+  <br>
+
   <strong>First Shift Maintenance Technician</strong><br>
   Performs preventative maintenance duties and troubleshoots equipment breakdowns in order to maintain production and quality results. Utilizes knowledge of fundamental mechanical, electrical, carpentry, and pneumatic/hydraulic skills in performing a wide variety of maintenance/basic electrical projects. Able to read hydraulic, pneumatic, and electrical prints and work off schematics. Operates common hand or power tools.<br>
   <br>
