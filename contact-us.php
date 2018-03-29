@@ -16,42 +16,51 @@ $salt = "ForesiteGroupMoldedDimensions";
 <div class="two-third">
 <?php
 if (isset($_POST['submit']) && $_POST['confirmationCAP'] == "") {
-  if (
-        $_POST['department'] != "" &&
-        $_POST[md5('name' . $_POST['ip'] . $salt . $_POST['timestamp'])] != "" &&
-        $_POST[md5('email' . $_POST['ip'] . $salt . $_POST['timestamp'])] != "" &&
-        $_POST[md5('phone' . $_POST['ip'] . $salt . $_POST['timestamp'])] != ""
-      ) {
-    // All required fields have been filled, so construct the message
-    $Message = "";
+  require_once "inc/recaptchalib.php";
+  $response = null;
+  $reCaptcha = new ReCaptcha($RCkey);
+  if ($_POST["g-recaptcha-response"]) $response = $reCaptcha->verifyResponse($_SERVER["REMOTE_ADDR"], $_POST["g-recaptcha-response"]);
+  
+  if ($response != null && $response->success) {
+    if (
+          $_POST['department'] != "" &&
+          $_POST[md5('name' . $_POST['ip'] . $salt . $_POST['timestamp'])] != "" &&
+          $_POST[md5('email' . $_POST['ip'] . $salt . $_POST['timestamp'])] != "" &&
+          $_POST[md5('phone' . $_POST['ip'] . $salt . $_POST['timestamp'])] != ""
+        ) {
+      // All required fields have been filled, so construct the message
+      $Message = "";
 
-    $Message .= "Department: " . $_POST['department'] . "\n\n";
+      $Message .= "Department: " . $_POST['department'] . "\n\n";
 
-    $Message .= "Name: " . $_POST[md5('name' . $_POST['ip'] . $salt . $_POST['timestamp'])] . "\n";
+      $Message .= "Name: " . $_POST[md5('name' . $_POST['ip'] . $salt . $_POST['timestamp'])] . "\n";
 
-    $Message .= "Email: " . $_POST[md5('email' . $_POST['ip'] . $salt . $_POST['timestamp'])] . "\n";
+      $Message .= "Email: " . $_POST[md5('email' . $_POST['ip'] . $salt . $_POST['timestamp'])] . "\n";
 
-    if (!empty($_POST[md5('company' . $_POST['ip'] . $salt . $_POST['timestamp'])]))
-      $Message .= "Company: " . $_POST[md5('company' . $_POST['ip'] . $salt . $_POST['timestamp'])] . "\n";
+      if (!empty($_POST[md5('company' . $_POST['ip'] . $salt . $_POST['timestamp'])]))
+        $Message .= "Company: " . $_POST[md5('company' . $_POST['ip'] . $salt . $_POST['timestamp'])] . "\n";
 
-    $Message .= "Phone: " . $_POST[md5('phone' . $_POST['ip'] . $salt . $_POST['timestamp'])] . "\n";
+      $Message .= "Phone: " . $_POST[md5('phone' . $_POST['ip'] . $salt . $_POST['timestamp'])] . "\n";
 
-    $Message .= "\n";
+      $Message .= "\n";
 
-    if (!empty($_POST[md5('comments' . $_POST['ip'] . $salt . $_POST['timestamp'])]))
-      $Message .= "Comments:\n" . $_POST[md5('comments' . $_POST['ip'] . $salt . $_POST['timestamp'])] . "\n\n";
+      if (!empty($_POST[md5('comments' . $_POST['ip'] . $salt . $_POST['timestamp'])]))
+        $Message .= "Comments:\n" . $_POST[md5('comments' . $_POST['ip'] . $salt . $_POST['timestamp'])] . "\n\n";
 
-    $Message = stripslashes($Message);
+      $Message = stripslashes($Message);
 
-    $Subject = "Contact From Molded Dimensions Website";
-    $SendTo = "mdisales@moldeddimensions.com,prudolf@moldeddimensions.com";
-    $Headers = "Bcc: mark@foresitegrp.com\r\n";
-    $Headers .= "From: Contact Form <contactform@moldeddimensions.com>\r\n";
-    $Headers .= "Reply-To: " . $_POST[md5('email' . $_POST['ip'] . $salt . $_POST['timestamp'])] . "\r\n";
+      $Subject = "Contact From Molded Dimensions Website";
+      $SendTo = "mdisales@moldeddimensions.com,prudolf@moldeddimensions.com";
+      $Headers = "From: Contact Form <contactform@moldeddimensions.com>\r\n";
+      $Headers .= "Reply-To: " . $_POST[md5('email' . $_POST['ip'] . $salt . $_POST['timestamp'])] . "\r\n";
+      $Headers .= "Bcc: mark@foresitegrp.com\r\n";
 
-    mail($SendTo, $Subject, $Message, $Headers);
+      mail($SendTo, $Subject, $Message, $Headers);
 
-    echo "Thank you for your interest in Molded Dimensions, Inc. Someone will contact you soon!";
+      echo "Thank you for your interest in Molded Dimensions, Inc. Someone will contact you soon!";
+    } else {
+      echo "<strong>Some required information is missing! Please go back and make sure all required fields are filled.</strong>";
+    }
   } else {
     echo "<strong>Some required information is missing! Please go back and make sure all required fields are filled.</strong>";
   }
@@ -104,6 +113,10 @@ if (isset($_POST['submit']) && $_POST['confirmationCAP'] == "") {
 
     <label for="comments">Comments</label><br>
     <textarea name="<?php echo md5("comments" . $ip . $salt . $timestamp); ?>" id="comments"></textarea><br>
+    <br>
+
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+    <div class="g-recaptcha" data-sitekey="6Ldfu08UAAAAADe5Ys4WvB2gJKp-M4--7R85mvCU"></div>
     <br>
 
     <input type="text" name="confirmationCAP" style="display: none;"> <?php // Non-displaying field as a sort of invisible CAPTCHA. ?>
