@@ -50,14 +50,6 @@ include "header.php";
   <br>
   <br>
 
-  <strong>Second Shift Lead Person</strong><br>
-  We are currently looking for a 2nd shift lead for our rubber operations.  The responsibilities of this position include scheduling and supervising employees, setting up molds, trouble-shooting problems, providing training and break relief, reviewing efficiency reports, and enforcing policies and procedures.  In this role the lead will be providing feedback to employees as well as coaching them on improving their efficiency.<br>
-  <br>
-
-  Qualified candidates should have a combination of manufacturing experience, some mechanical aptitude, and supervisory experience.  The successful candidate will be a good decision maker and have strong interpersonal skills.  Some computer skills are required.  The candidate should have the ability to become forklift certified.<br>
-  <br>
-  <br>
-
   <strong>Machine Operators 1st, 2nd and 3rd Shift</strong><br>
   Responsibilities involve operating presses by following process order
   sheets to load material and unload parts.  Operators are also
