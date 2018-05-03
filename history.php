@@ -36,7 +36,7 @@ include "header.php";
 
 <h1 class="year">1970</h1>
   <ul>
-    <li>Partnered with Russ Halkerson</li>
+    <li>Partnered with Russ Halkerston</li>
     <li>Transitioned to 100% manufacturing</li>
   </ul>
 <div class="clear-space"></div>
