@@ -42,6 +42,15 @@ include "header.php";
   <br>
 
   <h2>Current Job Openings</h2>
+  <strong>2nd Shift Urethane Molder</strong><br>
+  We currently have an opening for a 2nd shift urethane molder. The ideal candidate will have great multi-tasking skills, will be detail-oriented, and must be able to read and follow process instructions.  Job involves loading and unloading of molds following written procedures, operating hydraulic presses, and troubleshooting quality defects while making appropriate adjustments.  Requires the ability to lift 50 pounds regularly.<br>
+  <br>
+
+  2nd shift hours are from 12:30pm - 8:30pm Monday through Friday.  Candidate would need to be able to train on first shift for 6-8 weeks.<br>
+  <br>
+  <br>
+
+
   <strong>QA Manager</strong><br>
   Principle duties include managing quality systems including new product first article inspection and PPAP process; bills of material, routing/process sheets, defect limit samples, and in-process inspection/test methods; raw material receiving inspection; supplier assessment and development; ISO 9001:2015 QMS, internal and customer audits; and selection, maintenance, and calibration of inspection, measuring and test equipment.  Interactions and support of other departments, such as Manufacturing, Engineering, Purchasing, and the President are required.  QA Manager will coach and develop Quality Technicians and foster a customer-focused culture.<br>
   <br>
