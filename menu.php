@@ -37,13 +37,13 @@
     </ul>
   </li>
   <li class="m6">
-    <a href="<?php echo $TopDir; ?>news-feed.php">News Feed</a>
+    <a href="<?php echo $TopDir; ?>news-feed.php">News</a>
     <ul>
       <li><a href="<?php echo $TopDir; ?>blog">Blog</a></li>
     </ul>
   </li>
   <li class="m7">
-    <a href="<?php echo $TopDir; ?>contact-us.php">Contact Us</a>
+    <a href="<?php echo $TopDir; ?>contact-us.php">Contact</a>
     <ul>
       <li><a href="<?php echo $TopDir; ?>careers.php">Careers</a></li>
       <li><a href="<?php echo $TopDir; ?>directions.php">Directions</a></li>
@@ -51,4 +51,5 @@
       <li><a href="<?php echo $TopDir; ?>rmi.php">RMI</a></li>
     </ul>
   </li>
+  <li class="m8"><a href="<?php echo $TopDir; ?>careers.php">Careers</a></li>
 <ul>

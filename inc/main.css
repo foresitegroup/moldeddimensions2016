@@ -761,7 +761,8 @@ IMG.right {
   white-space: nowrap;
 }
 
-.footer-menu UL LI.m1 {
+.footer-menu UL LI.m1,
+.footer-menu UL LI.m8 {
   display: none;
 }
 
@@ -1202,6 +1203,10 @@ H1.year {
   }
 }
 
+@media only screen and (max-width: 915px) {
+  .menu UL LI.m1 { display: none; }
+}
+
 @media only screen and (max-width: 800px) {
   /* Small computer or landscape tablet */
   .top-menu {
@@ -1369,14 +1374,12 @@ H1.year {
     padding-top: 28px;
   }
 
-  .slogan STRONG {
-    font-size: 35px;
-  }
+  .slogan STRONG { font-size: 5.4vw; }
 
   .slogan DIV {
-    font-size: 15px;
-    padding: 15px 20px;
     margin-top: 7px;
+    font-size: 2.3vw;
+    padding: 1em 1.3em;
   }
 
   .top-menu .links,
@@ -1568,14 +1571,11 @@ H1.year {
     margin-right: 15px;
   }
 
-  .slogan STRONG {
-    font-size: 22.5px;
-  }
+  .slogan { padding-top: 15px; }
 
   .slogan DIV {
-    font-size: 10px;
-    padding: 5px 10px;
     margin-top: 3px;
+    padding: 0.75em 1.3em;
   }
 
   .prefooter .one-fourth {
