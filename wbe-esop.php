@@ -24,7 +24,7 @@ MDI values diversity in our business. It starts with our Women's Business Enterp
 
 <h2>The ESOP difference</h2>
 <div class="one-eighth-right centered-box" style="padding-left: 1%;">
-  <a href="pdf/ISO_certificate.pdf">ISO9001:2008 Certification<br><img style="margin-top: 0.4em;" src="images/bsi.png" alt="" ></a>
+  <a href="pdf/ISO_certificate.pdf?<?php echo filemtime("pdf/ISO_certificate.pdf"); ?>">ISO9001:2008 Certification<br><img style="margin-top: 0.4em;" src="images/bsi.png" alt="" ></a>
 </div>
 
 Becoming an ESOP company in 2001 prompted new thinking on how our business functions. As the ownership culture developed, our employees recognized the important advantage over employees of traditional companies. We have significant influence on the quality and reputation of MDI's products and services. Ownership gives employees incentive to work harder and smarter, produce better quality product and be more innovative. Each and every employee, from Tool Makers on first shift to Press Operators on third shift, benefits from the ESOP. Each is an owner, and MDI's business is stronger because of it. Our customers see the positive results.

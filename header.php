@@ -30,7 +30,7 @@ function email($address, $name="") {
     <script type="text/javascript" src="<?php echo $TopDir; ?>inc/jquery-1.12.0.min.js"></script>
     <script type="text/javascript">
       $(document).ready(function() {
-        $("a[href^='http'], a[href$='.pdf']").not("[href*='" + window.location.host + "']").attr('target','_blank');
+        $("a[href^='http'], a[href*='.pdf").not("[href*='" + window.location.host + "']").prop('target','new');
         $(".<?php echo $CurrentMenu; ?>").addClass("current");
         $(".md-sidebar UL LI UL LI [href]").each(function() {
           if (this.href == window.location.href) { $(this).addClass("currentpage"); }

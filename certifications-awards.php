@@ -14,7 +14,7 @@ Certifications and awards are important to every company, including Molded Dimen
 <div class="one-third-left centered-box" style="margin-right: 5%;">
   <h2>Quality Certification</h2>
   <div class="two-thirds-left" style="float: none; margin: 0 auto;">
-    <a href="pdf/ISO_certificate.pdf">ISO9001:2008 certification<br><img style="margin-top: 0.4em;" src="images/bsi.png" alt="Molded Dimensions Quality Certification"></a>
+    <a href="pdf/ISO_certificate.pdf?<?php echo filemtime("pdf/ISO_certificate.pdf"); ?>">ISO9001:2008 certification<br><img style="margin-top: 0.4em;" src="images/bsi.png" alt="Molded Dimensions Quality Certification"></a>
   </div>
   <div style="clear: both;"></div>
 </div>
@@ -27,7 +27,7 @@ Certifications and awards are important to every company, including Molded Dimen
 
 <div class="one-third-right centered-box">
   <h2>Safety Certification</h2>
-    <a href="pdf/PMA_certificate.pdf">Polyurethane Manufacturers Association<br><img style="margin-top: 0.4em;" src="images/pma-cert.png" alt="Molded Dimensions Quality Certification" ></a>
+    <a href="pdf/PMA_certificate.pdf?<?php echo filemtime("pdf/PMA_certificate.pdf"); ?>">Polyurethane Manufacturers Association<br><img style="margin-top: 0.4em;" src="images/pma-cert.png" alt="Molded Dimensions Quality Certification" ></a>
   <div style="clear: both;"></div>
 </div>
 

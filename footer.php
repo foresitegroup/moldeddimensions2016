@@ -71,8 +71,8 @@
         <div class="fr-right">
           <h4>DOWNLOAD</h4>
           <ul class="dl">
-            <li><i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="<?php echo $TopDir; ?>pdf/MDI_brochure.pdf">MDI Brochure</a></li>
-            <li><i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="<?php echo $TopDir; ?>pdf/ISO_certificate.pdf">Certified ISO 9001:2008</a></li>
+            <li><i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="<?php echo $TopDir; ?>pdf/MDI_brochure.pdf?<?php echo filemtime("pdf/MDI_brochure.pdf"); ?>">MDI Brochure</a></li>
+            <li><i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="<?php echo $TopDir; ?>pdf/ISO_certificate.pdf?<?php echo filemtime("pdf/ISO_certificate.pdf"); ?>">Certified ISO 9001:2008</a></li>
             <li><i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="<?php echo $TopDir; ?>pdf/WBE_Certificate.pdf?<?php echo filemtime("pdf/WBE_Certificate.pdf"); ?>" target="new">Certified WBE</a></li>
           </ul>
         </div>
