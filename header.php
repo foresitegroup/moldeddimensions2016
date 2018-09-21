@@ -35,6 +35,10 @@ function email($address, $name="") {
         $(".md-sidebar UL LI UL LI [href]").each(function() {
           if (this.href == window.location.href) { $(this).addClass("currentpage"); }
         });
+
+        $('a.download').each(function(){ 
+          $(this).prop({'href': 'download.php?f='+$(this).prop('href'), 'target': ''});
+        });
       });
     </script>
 

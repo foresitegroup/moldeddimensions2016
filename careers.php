@@ -31,13 +31,13 @@ include "header.php";
 
   <h2>How to Apply</h2>
   <ul>
-    <li>Application, required<br>Download, complete and return the MDI <a href="pdf/MDI_job_application.pdf">application</a> for employment via email to <?php email("hr@moldeddimensions.com"); ?> or by stopping by in person and completing an application.</li>
+    <li>Application, required<br>Download, complete and return the MDI <a href="pdf/Job_Application.pdf" class="download">application</a> for employment via email to <?php email("hr@moldeddimensions.com"); ?> or by stopping by in person and completing an application.</li>
     <li>Culture Index Survey, required<br>Complete the <a href="http://www.cindexinc.com/c/86701C">culture index survey</a> on this website or by stopping by in person.</li>
     <li>Resume, optional<br />You may submit your resume in addition to the MDI application via email to <?php email("hr@moldeddimensions.com"); ?> or by stopping by in person.</li>
   </ul>
   <br>
 
-  Please Download <a href="pdf/MDI_job_application.pdf">Application</a>.<br> Please Complete <a href="http://www.cindexinc.com/c/86701C">Culture Index Survey</a><br>
+  Please Download <a href="pdf/Job_Application.pdf" class="download">Application</a>.<br> Please Complete <a href="http://www.cindexinc.com/c/86701C">Culture Index Survey</a><br>
   <br>
   <br>
 
@@ -77,7 +77,7 @@ include "header.php";
 <div class="one-third last">
   Please follow the two-step process.<br>
   <ol style="font-style: italic;">
-    <li>Download <a href="pdf/MDI_job_application.pdf">Application</a>, fill in and send back.</li>
+    <li>Download <a href="pdf/Job_Application.pdf" class="download">Application</a>, fill in and send back.</li>
     <li>Take <a href="http://www.cindexinc.com/c/86701C">Culture Index Survey</a>.</li>
   </ol>
   <br>
