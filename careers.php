@@ -51,27 +51,35 @@ include "header.php";
   <br>
 
 
-  <strong>QA Manager</strong><br>
-  Principle duties include managing quality systems including new product first article inspection and PPAP process; bills of material, routing/process sheets, defect limit samples, and in-process inspection/test methods; raw material receiving inspection; supplier assessment and development; ISO 9001:2015 QMS, internal and customer audits; and selection, maintenance, and calibration of inspection, measuring and test equipment.  Interactions and support of other departments, such as Manufacturing, Engineering, Purchasing, and the President are required.  QA Manager will coach and develop Quality Technicians and foster a customer-focused culture.<br>
+  <em>Formerly Knuth Machine Tool, KMT has been designing & manufacturing precision molds, tools, and trim dies since 1960. Our experience & well-maintained equipment results in reliable quality.  KMT is a wholly owned subsidiary of Molded Dimensions, LLC.</em><br>
   <br>
 
-  Qualified candidates will have a bachelor's degree in a technical specialty such as Engineering; thorough knowledge of PPAP requirements, Lean Manufacturing concepts, and blueprint reading; the desire and ability to contribute as a manager and a doer; fluency in ISO 9001:2015 and lead auditor experience; a successful track record of working cross-functionally; and strong verbal and written communication skills.  Supervisory experience a plus.<br>
-  <br>
-  <br>
-
-  <strong>Machine Operators 1st, 2nd and 3rd Shift</strong><br>
-  Responsibilities involve operating presses by following process order
-  sheets to load material and unload parts.  Operators are also
-  responsible for trimming and inspecting of parts, and may be involved in
-  press setup.  Responsibilities also include monitoring proper
-  temperature and pressure settings and troubleshooting reliability and
-  quality issues as needed.<br>
+  <strong>CNC Programmer</strong><br>
+  Responsibilities
+  <ul>
+    <li>Create CNC programming for machine centers, wire and sinker EDMs from 3D design.</li>
+    <li>Make choices regarding various machining options for best cost and quality.</li>
+  </ul>
   <br>
 
-  Qualified candidates must be able to read and understand process sheets
-  and lift up to 50 lbs.  Manufacturing experience a plus, but not
-  necessary if candidate can learn quickly and work in a fast-paced
-  environment.  Hours are 1st shift 5 AM - 1 PM, Monday - Friday; 2nd shift 1 - 9 PM, Monday - Friday;  3rd shift 9 PM - 5 AM, Sunday - Thursday.
+  Skills
+  <ul>
+    <li>CNC machining knowledge</li>
+    <li>3D software knowledge</li>
+    <li>CAM machining knowledge</li>
+    <li>Ability to read blueprints</li>
+    <li>Machining experience a plus</li>
+  </ul>
+  <br>
+
+  Requirements
+  <ul>
+    <li>Minimum 2 year associates degree in machining or tool and die</li>
+    <li>CAM design experience - knowledge of surfcam, mastercam, or gibbscam a plus</li>
+    <li>3D design system familiarity - Solidworks preferred</li>
+    <li>Good computer skills - excel, word, etc.</li>
+    <li>Good written and verbal communication skills</li>
+  </ul>
 </div>
 
 <div class="one-third last">
