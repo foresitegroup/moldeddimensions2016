@@ -42,6 +42,21 @@ include "header.php";
   <br>
 
   <h2>Current Job Openings</h2>
+  <strong>Machine Operators 1st, 2nd and 3rd Shift</strong><br>
+  Responsibilities involve operating presses by following process order sheets to load material and unload parts.  Operators are also responsible for trimming and inspecting of parts, and may be involved in press setup.  Responsibilities also include monitoring proper temperature and pressure settings and troubleshooting reliability and quality issues as needed.<br>
+  <br>
+
+  Qualified candidates must be able to read and understand process sheets and lift up to 50 lbs.  Manufacturing experience a plus, but not necessary if candidate can learn quickly and work in a fast-paced environment.<br>
+  <br>
+
+  Hours are:<br>
+  1st shift: 5 AM - 1 PM, Monday - Friday<br>
+  2nd shift: 1 - 9 PM, Monday - Friday<br>
+  3rd shift: 9 PM - 5 AM, Sunday - Thursday.<br>
+  <br>
+
+  <hr><br>
+
   <strong>Customer Service Representative</strong><br>
   We are seeking a qualified individual to perform customer service and order entry for a diverse set of customers.<br>
   <br>
@@ -66,9 +81,10 @@ include "header.php";
     <li>Understanding of job shop production process and basic ERP system, preferred.</li>
     <li>Exposure to blueprints is helpful.</li>
     <li>Multi-tasking skills, detail-oriented and good communication skills.</li>
-  </ul><br>
+  </ul>
   <br>
 
+  <hr><br>
 
   <strong>2nd Shift Urethane Molder</strong><br>
   We currently have an opening for a 2nd shift urethane molder. The ideal candidate will have great multi-tasking skills, will be detail-oriented, and must be able to read and follow process instructions.  Job involves loading and unloading of molds following written procedures, operating hydraulic presses, and troubleshooting quality defects while making appropriate adjustments.  Requires the ability to lift 50 pounds regularly.<br>
@@ -77,11 +93,12 @@ include "header.php";
   2nd shift hours are from 12:30pm - 8:30pm Monday through Friday.  Candidate would need to be able to train on first shift for 6-8 weeks.<br>
   <br>
 
-  <em>Formerly Knuth Machine Tool, KMT has been designing & manufacturing precision molds, tools, and trim dies since 1960. Our experience & well-maintained equipment results in reliable quality.  KMT is a wholly owned subsidiary of Molded Dimensions, LLC.</em><br>
-  <br>
-  <br>
+  <hr><br>
 
   <strong>CNC Programmer</strong><br>
+  <em>Formerly Knuth Machine Tool, KMT has been designing & manufacturing precision molds, tools, and trim dies since 1960. Our experience & well-maintained equipment results in reliable quality.  KMT is a wholly owned subsidiary of Molded Dimensions, LLC.</em><br>
+  <br>
+
   Responsibilities
   <ul>
     <li>Create CNC programming for machine centers, wire and sinker EDMs from 3D design.</li>
