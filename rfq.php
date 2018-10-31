@@ -154,7 +154,7 @@ if (isset($_POST['submit']) && $_POST['confirmationCAP'] == "") {
   <br>
 
   <h2>Mailing Address</h2>
-  <strong>MOLDED DIMENSIONS INC</strong><br>
+  <strong>MOLDED DIMENSIONS LLC</strong><br>
   701 Sunset Road, PO Box 364<br>
   Port Washington WI 53074<br>
   <br>

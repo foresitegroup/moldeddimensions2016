@@ -39,7 +39,6 @@
 
     <a href="history.php" class="homemenu">since 1954</a>
     <a href="product-development.php" class="homemenu">engineering mindset</a>
-    <a href="wbe-esop.php" class="homemenu">WBE/ESOP</a>
     <a href="mission-strategy.php" class="homemenu">exceptional workplace</a>
     <a href="glocalsource.php" class="homemenu">global reach</a>
     <a href="industries-served.php" class="homemenu">industries served</a>
@@ -49,7 +48,7 @@
   <div class="md-footer">
     <div class="site-width">
       <div class="footer-left">
-        <h3>MOLDED DIMENSIONS INC. Engineered Elastomer Solutions to Help You Win.</h3>
+        <h3>MOLDED DIMENSIONS, LLC Engineered Elastomer Solutions to Help You Win.</h3>
 
         <div class="footer-menu"><?php include "menu.php"; ?></div>
       </div>
@@ -71,9 +70,8 @@
         <div class="fr-right">
           <h4>DOWNLOAD</h4>
           <ul class="dl">
-            <li><i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="<?php echo $TopDir; ?>pdf/MDI_brochure.pdf?<?php echo filemtime("pdf/MDI_brochure.pdf"); ?>">MDI Brochure</a></li>
+            <li><i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="<?php echo $TopDir; ?>pdf/MDI_brochure.pdf?<?php echo filemtime("pdf/MDI_brochure.pdf"); ?>">MD Brochure</a></li>
             <li><i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="<?php echo $TopDir; ?>pdf/ISO_certificate.pdf?<?php echo filemtime("pdf/ISO_certificate.pdf"); ?>">Certified ISO 9001:2008</a></li>
-            <li><i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="<?php echo $TopDir; ?>pdf/WBE_Certificate.pdf?<?php echo filemtime("pdf/WBE_Certificate.pdf"); ?>" target="new">Certified WBE</a></li>
           </ul>
         </div>
       </div>
@@ -82,7 +80,7 @@
     
   <div class="copyright">
     <div class="site-width">
-      Copyright &copy; <?php echo date("Y"); ?> Molded Dimensions Inc. <span>|</span> All Rights Reserved <span class="midbreak">|</span> 701 W Sunset Rd, Port Washington, WI 53074 <span>|</span> (262) 284-9455
+      Copyright &copy; <?php echo date("Y"); ?> Molded Dimensions, LLC <span>|</span> All Rights Reserved <span class="midbreak">|</span> 701 W Sunset Rd, Port Washington, WI 53074 <span>|</span> (262) 284-9455
 
       <div class="social">
         SOCIAL LINKS

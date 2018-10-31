@@ -9,7 +9,7 @@ include "header.php";
 
 <h1>Engineered Quality at Every Stage</h1>
 <img class="one-half-right" src="images/quality1.jpg" alt="Sample inspection of cast urethane medical gears.">
-Our quality methodology results in on-time delivery with high quality product each and every time. Quality at Molded Dimensions, Inc. becomes another aspect of "Service" to the customer. The level of service we provide will make you more than satisfied with your choice of MDI as your supplier.<br>
+Our quality methodology results in on-time delivery with high quality product each and every time. Quality at Molded Dimensions becomes another aspect of "Service" to the customer. The level of service we provide will make you more than satisfied with your choice of MD as your supplier.<br>
 <br>
 
 Quality is the backbone of our entire process from start to finish.
@@ -22,7 +22,7 @@ Quality is the backbone of our entire process from start to finish.
 <br>
 
 <h2>Project Review</h2>
-From the inception of a project, Quality plays a major role. We work hard to learn, and respond to, a customer's unique quality concerns. Our Sales Engineers utilize the design review and RFQ process to learn and understand the part, its application and working environment. The information gained helps MDI design tooling and a manufacturing process to meet your quality expectations.<br>
+From the inception of a project, Quality plays a major role. We work hard to learn, and respond to, a customer's unique quality concerns. Our Sales Engineers utilize the design review and RFQ process to learn and understand the part, its application and working environment. The information gained helps MD design tooling and a manufacturing process to meet your quality expectations.<br>
 <br>
 
 <h2>Design Review</h2>
@@ -35,9 +35,9 @@ Engineering, Quality, Manufacturing and Customer Service participate in establis
 <br>
 
 <h2>On-Going Quality</h2>
-It is critical to manufacture quality parts at each and every step along the way. To accomplish this, all MDI employees are inspectors. Another key part of our on-going quality plan is our weekly, cross-departmental continuous improvement meetings. In these meetings, our manufacturing, engineering, and quality personnel work on improvements for upcoming work. Both of these strategies have decreased our cost of poor quality, customer returns and in-process scrap to industry record lows.<br>
+It is critical to manufacture quality parts at each and every step along the way. To accomplish this, all MD employees are inspectors. Another key part of our on-going quality plan is our weekly, cross-departmental continuous improvement meetings. In these meetings, our manufacturing, engineering, and quality personnel work on improvements for upcoming work. Both of these strategies have decreased our cost of poor quality, customer returns and in-process scrap to industry record lows.<br>
 <br>
 
-Proof of our efforts is the numerous awards and recognitions from customers. This again is verified by our many long-term customers - some which have been continuous customers for more than 60 years. We would like you to join them as a satisfied customer of Molded Dimensions, Inc.
+Proof of our efforts is the numerous awards and recognitions from customers. This again is verified by our many long-term customers - some which have been continuous customers for more than 60 years. We would like you to join them as a satisfied customer of Molded Dimensions.
 
 <?php include "footer.php"; ?>

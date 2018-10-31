@@ -1,7 +1,7 @@
 <?php
 $CurrentMenu = "m3";
 $PageTitle = "Rubber Molding";
-$Description = "Molded Dimensions, Inc. is a custom molder of rubber and cast polyurethane. At MDI, we take pride in the technical excellence and versatility of our rubber business unit.";
+$Description = "Molded Dimensions is a custom molder of rubber and cast polyurethane. At MD, we take pride in the technical excellence and versatility of our rubber business unit.";
 $Keywords = "molded dimensions, custom moler, rubber molding, thermoset polymers, fluoroelastomer, precision molded diaphrams, medical applications, molding technologies, value added operations, molding capabilities, natural rubber, neoprene, silicone, polyurethane, butyl, ehtylene";
 
 include "header.php";
@@ -9,7 +9,7 @@ include "header.php";
 
 <h1>Diversity in Rubber Manufacturing</h1>
 <img class="one-half-right" src="images/rubber-molding5.jpg" alt="Rubber injection molding of SBR, EPDM, polychloroprene, Nitrile, or fluoroelastomers.">
-Molded Dimensions, Inc. is a custom molder of rubber and cast polyurethane. At MDI, we take pride in the technical excellence and versatility of our rubber business unit. Our business supports:
+Molded Dimensions is a custom molder of rubber and cast polyurethane. At MD, we take pride in the technical excellence and versatility of our rubber business unit. Our business supports:
 <ul>
   <li>Wide range of <em>thermoset polymers</em>, from the basic EPDM to a highly engineered Fluoroelastomer</li>
   <li>Broad span of <em>annual volumes</em> - low, mid, and high volume production capabilities</li>
@@ -40,7 +40,7 @@ Molded Dimensions, Inc. is a custom molder of rubber and cast polyurethane. At M
 <br>
 
 <h2>Annual Volume Sold</h2>
-MDI has low, mid, and high volume production capabilities. Some of our customers, including military, often only require small production runs, while other customers require weekly releases and a supporting KanBan program to keep them in supply. The systems and methodologies we learn from larger, more structured companies can be applied to benefit customers across the board.<br>
+MD has low, mid, and high volume production capabilities. Some of our customers, including military, often only require small production runs, while other customers require weekly releases and a supporting KanBan program to keep them in supply. The systems and methodologies we learn from larger, more structured companies can be applied to benefit customers across the board.<br>
 <br>
 
 <img class="one-half-right" src="images/rubber-molding3.jpg" alt="Insert prep for roller, mount, impellor, and gear applications.">

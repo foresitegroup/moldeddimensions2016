@@ -1,14 +1,14 @@
 <?php
 $CurrentMenu = "m2";
 $PageTitle = "Materials Engineering";
-$Description = "Materials engineering and formula design is a key piece of Molded Dimensions, Inc.'s rubber and cast urethane manufacturing philosophy.";
+$Description = "Materials engineering and formula design is a key piece of Molded Dimensions, LLC's rubber and cast urethane manufacturing philosophy.";
 $Keywords = "molded dimensions, material engineering, formula development, reach certification, rohs certification, conflict material certification, material property testing, rubber, polyurethane, formula improvement, tensile, elongation, flammability resistance, heat resistance, tear resistance, surface resistivity";
 
 include "header.php";
 ?>
 
 <h1>Engineered Elastomer Formulations</h1>
-Materials engineering and formula design is a key piece of Molded Dimensions, Inc.'s rubber and cast urethane manufacturing philosophy. This ensures we produce high quality, engineered product that meets and exceeds our customer's expectations. To accomplish this goal, we maintain an on-site Chemist and laboratory. With over 25 years in the industry, our Chemist's experience and expertise benefit our customers with high quality, cost efficient formulations.<br>
+Materials engineering and formula design is a key piece of Molded Dimensions, LLC's rubber and cast urethane manufacturing philosophy. This ensures we produce high quality, engineered product that meets and exceeds our customer's expectations. To accomplish this goal, we maintain an on-site Chemist and laboratory. With over 25 years in the industry, our Chemist's experience and expertise benefit our customers with high quality, cost efficient formulations.<br>
 <br>
 
 <img class="one-half-right" src="images/mat-eng1.jpg" alt="Rubber parts may be REACH, RoHS and Conflict Minerals compliant.">
@@ -24,7 +24,7 @@ The Chemist's primary focus includes:
 <br>
 
 <h2>Formula Development</h2>
-MDI processes thermoset elastomers, <a href="rubber-molding.php">Rubber</a> and <a href="polyurethane-molding.php">Polyurethane</a>. Compounds can be specifically formulated to provide the optimum properties for each unique application. New rubber and polyurethane formulas are continuously being developed to meet marketplace demand and application, including chloramine resistance, electrical conductivity, electrical resistivity and custom color matching.<br>
+MD processes thermoset elastomers, <a href="rubber-molding.php">Rubber</a> and <a href="polyurethane-molding.php">Polyurethane</a>. Compounds can be specifically formulated to provide the optimum properties for each unique application. New rubber and polyurethane formulas are continuously being developed to meet marketplace demand and application, including chloramine resistance, electrical conductivity, electrical resistivity and custom color matching.<br>
 <br>
 
 <h2>Formula Improvement</h2>
@@ -42,7 +42,7 @@ When an application requires industry standard certifications, our Chemist steps
 </ul>
 <br>
 
-Molded Dimensions, Inc. is well-versed in the latest international regulatory initiatives:
+Molded Dimensions is well-versed in the latest international regulatory initiatives:
 <ul>
   <li>REACH</li>
   <li>RoHS</li>
@@ -52,7 +52,7 @@ Molded Dimensions, Inc. is well-versed in the latest international regulatory in
 
 <h2>Material Property Testing</h2>
 <img class="one-half-right" src="images/mat-eng2.jpg" alt="Milled rubber material may be 3A, NSF, or UL94 compliant.">
-MDI has an on-site materials laboratory for testing and certifying that incoming raw materials meet physical property requirements as part of our Quality program. The laboratory is utilized in our material compounding and design program. The testing equipment measures various material properties including:
+MD has an on-site materials laboratory for testing and certifying that incoming raw materials meet physical property requirements as part of our Quality program. The laboratory is utilized in our material compounding and design program. The testing equipment measures various material properties including:
 <ul>
   <li>Hardness</li>
   <li>Tensile and elongation</li>
@@ -69,6 +69,6 @@ MDI has an on-site materials laboratory for testing and certifying that incoming
 Our <a href="glocalsource.php">GlocalSource</a> service package includes material confirmation of all incoming product lots to ensure the proper raw material is utilized and meets customer specifications.<br>
 <br>
 
-Materials engineering is a large part of our rubber and polyurethane manufacturing success. Our on-site Chemist and laboratory ensure Molded Dimensions, Inc. provides superior material compounding and testing service.
+Materials engineering is a large part of our rubber and polyurethane manufacturing success. Our on-site Chemist and laboratory ensure Molded Dimensions provides superior material compounding and testing service.
 
 <?php include "footer.php"; ?>

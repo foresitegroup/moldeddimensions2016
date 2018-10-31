@@ -1,14 +1,14 @@
 <?php
 $CurrentMenu = "m3";
 $PageTitle = "GlocalSource";
-$Description = "GlocalSource is our service of providing rubber product from manufacturers around the globe, supported by Molded Dimensions, Inc.'s local, technical service, and support.";
+$Description = "GlocalSource is our service of providing rubber product from manufacturers around the globe, supported by Molded Dimensions's local, technical service, and support.";
 $Keywords = "molded dimensions, glocalsource, glocal source, stable production design, rubber material formulations, global reach, indian joint rubber manufacturer, chinese partner rubber manufacturers, local engineering expertise, MDI";
 
 include "header.php";
 ?>
 
 <h1>Global Manufacturing, Local Service</h1>
-GlocalSource is our service of providing rubber product from manufacturers around the globe, supported by Molded Dimensions, Inc.'s local, technical service, and support. Your company will benefit from our engineering expertise and program management, including design, logistics and communication.<br>
+GlocalSource is our service of providing rubber product from manufacturers around the globe, supported by Molded Dimensions, LLC's local, technical service, and support. Your company will benefit from our engineering expertise and program management, including design, logistics and communication.<br>
 <br>
 
 <img class="one-half-right" src="images/glocalsource3.jpg" alt="Asian manufactured rubber parts are shipped to worldwide customers.">
@@ -26,8 +26,8 @@ Knowing there are exceptions to every rule, the basics can be summarized:<br>
 <h2>How does it work?</h2>
 <ul>
   <li>New tooling is constructed and sampled for approval.</li>
-  <li>Upon approval, production quantities are ordered, landed, and inspected at MDI.</li>
-  <li>Releases are shipped from inventory at MDI per customer demand.</li>
+  <li>Upon approval, production quantities are ordered, landed, and inspected at MD.</li>
+  <li>Releases are shipped from inventory at MD per customer demand.</li>
   <li>Minimum inventory and restocking is managed based on customer orders and planning information.</li>
 </ul>
 <br>
@@ -49,10 +49,10 @@ Knowing there are exceptions to every rule, the basics can be summarized:<br>
 <br>
 
 <h2>Global Reach</h2>
-MDI has a global reach in both production and fulfillment. Product may be produced in North America or Asia, and is shipped to our worldwide customers. MDI's ability to offer multiple manufacturing and fulfillment strategies allows the best possible supply chain for your project.<br>
+MD has a global reach in both production and fulfillment. Product may be produced in North America or Asia, and is shipped to our worldwide customers. MD's ability to offer multiple manufacturing and fulfillment strategies allows the best possible supply chain for your project.<br>
 <br>
 
-Molded Dimensions, Inc. takes pride in the technical excellence and versatility of our business. The GlocalSource business unit is one of three units that contributes to our remarkable company and sets us apart from other domestic manufacturers.<br>
+Molded Dimensions takes pride in the technical excellence and versatility of our business. The GlocalSource business unit is one of three units that contributes to our remarkable company and sets us apart from other domestic manufacturers.<br>
 <br>
 
 Download our <a href="pdf/GlocalSource_brochure.pdf">GlocalSource brochure</a>

@@ -17,7 +17,7 @@ include "header.php";
   </ul>
 </div>
 
-<div class="one-half-right"><img class="two-thirds-left" src="images/history1954.jpg" alt="Cedarburg building- Cedarburg, Wisconsin, location of Molded Dimensions, Inc. in 1954."></div>
+<div class="one-half-right"><img class="two-thirds-left" src="images/history1954.jpg" alt="Cedarburg building- Cedarburg, Wisconsin, location of Molded Dimensions in 1954."></div>
 
 <div class="clear-space"></div>
 
@@ -30,7 +30,7 @@ include "header.php";
   </ul>
 </div>
 
-<div class="one-half-right"><img class="one-half-left" src="images/history1969.jpg" alt="Jay Meili purchased MDI in 1969."></div>
+<div class="one-half-right"><img class="one-half-left" src="images/history1969.jpg" alt="Jay Meili purchased MD in 1969."></div>
 
 <div class="clear-space"></div>
 
@@ -48,7 +48,7 @@ include "header.php";
   </ul>
 </div>
 
-<div class="one-half-right"><img class="two-thirds-left" src="images/history1973.jpg" alt="Port Washington, Wisconsin, location of Molded Dimensions, Inc. in 1973."></div>
+<div class="one-half-right"><img class="two-thirds-left" src="images/history1973.jpg" alt="Port Washington, Wisconsin, location of Molded Dimensions in 1973."></div>
 
 <div class="clear-space"></div>
 
@@ -83,7 +83,7 @@ include "header.php";
   </ul>
 </div>
 
-<div class="one-half-right"><img src="images/history2001.jpg" alt="Linda Katz, woman owner, of Molded Dimensions, Inc. in 2001."></div>
+<div class="one-half-right"><img src="images/history2001.jpg" alt="Linda Katz, woman owner, of Molded Dimensions in 2001."></div>
 
 <div class="clear-space"></div>
 

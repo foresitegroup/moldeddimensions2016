@@ -8,7 +8,7 @@ include "header.php";
 ?>
 
 <h1>Product Design for Manufacturability</h1>
-Our Design and Engineering Guide is assembled based on both MDI experience and industry (RMA) design standards. This Design and Engineering Guide is designed to provide you with product design knowledge, DFM and basic molding tolerances and standard concepts to help you successfully engineer your product for its application. We believe sharing this information with you helps expedite the process of getting the optimum product design to market.<br>
+Our Design and Engineering Guide is assembled based on both MD experience and industry (RMA) design standards. This Design and Engineering Guide is designed to provide you with product design knowledge, DFM and basic molding tolerances and standard concepts to help you successfully engineer your product for its application. We believe sharing this information with you helps expedite the process of getting the optimum product design to market.<br>
 <br>
 
 Feel free to contact us at anytime if you have any questions or need additional information.<br>

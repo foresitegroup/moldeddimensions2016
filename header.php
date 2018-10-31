@@ -79,7 +79,7 @@ function email($address, $name="") {
       <a href="<?php echo $TopDir; ?>."><img src="<?php echo $TopDir; ?>images/logo.png" alt="Molded Dimensions" id="logo"></a>
 
       <div class="slogan">
-        <strong>MOLDED DIMENSIONS INC.</strong><br>
+        <strong>MOLDED DIMENSIONS, LLC</strong><br>
 
         <div>Custom Molder of Rubber and Cast Polyurethane Components.</div>
       </div>
@@ -102,11 +102,11 @@ function email($address, $name="") {
   <?php if ($CurrentMenu == "m1") { ?>
   <script type="text/javascript" src="inc/jquery.cycle2.min.js"></script>
   <div class="cycle-slideshow" data-cycle-speed="2000" data-cycle-timeout="5000" data-cycle-slides="> div">
-    <div style="background-image: url(images/rotating1.jpg);">
+    <!-- <div style="background-image: url(images/rotating1.jpg);">
       <a href="wbe-esop.php">
         <span>Women's Business Enterprise</span>
       </a>
-    </div>
+    </div> -->
 
     <div style="background-image: url(images/rotating-pma.jpg);">
       <a href="certifications-awards.php">

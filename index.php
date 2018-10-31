@@ -37,7 +37,7 @@ include "header.php";
       <h2><a href="glocalsource.php">GlocalSource</a></h2>
     </div>
     <div class="hb-text">
-      This business unit focuses on providing product from worldwide manufacturers, including our Asian joint venture partner. GlocalSource is supported by MDI's local technical service and support.
+      This business unit focuses on providing product from worldwide manufacturers, including our Asian joint venture partner. GlocalSource is supported by MD's local technical service and support.
     </div>
     <a href="glocalsource.php" class="hb-more">More</a>
   </div>

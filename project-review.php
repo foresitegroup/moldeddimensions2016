@@ -56,7 +56,7 @@ Customer expectations including parting line location, flash extension, critical
 <br>
 
 <h2>Material Selection</h2>
-Sales Engineers choose from Molded Dimensions, Inc.'s standard cast polyurethane and rubber formulas and utilize our <a href="materials-engineering.php">Materials Engineer</a> to formulate custom materials. Our material selection process includes reviewing:
+Sales Engineers choose from Molded Dimensions, LLC's standard cast polyurethane and rubber formulas and utilize our <a href="materials-engineering.php">Materials Engineer</a> to formulate custom materials. Our material selection process includes reviewing:
 <ul>
   <li>Temperature and service environment</li>
   <li>Specific physical property requirements and potential failure modes</li>

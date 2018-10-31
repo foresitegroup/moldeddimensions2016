@@ -7,7 +7,7 @@ $Keywords = "molded dimensions, product development, product development process
 include "header.php";
 ?>
 
-<h1>MDI in the News</h1>
+<h1>MD in the News</h1>
 
 <img class="one-fourth-right" src="images/rubber-and-plastics-news.png" alt="Rubber &amp; Plastics News" />
 <h2>RPN Executive of Year: Linda Katz excels at Molded Dimensions</h2>
@@ -28,11 +28,11 @@ Her father, Lorand Spyers-Duran, launched plastics injection molder Sussex, Wis.
 <br>
 <br>
 
-<h2>Molded Dimensions Inc Named TOP WORKPLACES</h2>
-Port Washington, WI, June 2015 - On Friday, June 12th 2015, Molded Dimensions, Inc., was honored by the Milwaukee Journal Sentinel as one of the Top Workplaces in southeast Wisconsin. This is the fourth year in a row MDI has earned this esteemed award.<br>
+<h2>Molded Dimensions Named TOP WORKPLACES</h2>
+Port Washington, WI, June 2015 - On Friday, June 12th 2015, Molded Dimensions, was honored by the Milwaukee Journal Sentinel as one of the Top Workplaces in southeast Wisconsin. This is the fourth year in a row MD has earned this esteemed award.<br>
 <br>
 
-Several months ago, MDI employees were surveyed. It is from the workplace survey responses that MDI was chosen as a Top Workplaces company. The MDI responses are compared to local and national averages in the areas of execution, work environment, connection, company direction, supervisions, and pay/benefits. MDI continues to beat the industry averages by as much as 40% on these criteria.<br>
+Several months ago, MD employees were surveyed. It is from the workplace survey responses that MD was chosen as a Top Workplaces company. The MD responses are compared to local and national averages in the areas of execution, work environment, connection, company direction, supervisions, and pay/benefits. MD continues to beat the industry averages by as much as 40% on these criteria.<br>
 <br>
 
 <a href="molded-dimensions-named-one-of-the-top-workplaces-for-2015.php">Read More <i class="fa fa-angle-double-right" aria-hidden="true"></i></a><br>
@@ -51,7 +51,7 @@ Several months ago, MDI employees were surveyed. It is from the workplace survey
 Linda Katz enjoys watching a tractor, airplane or motorcycle on the move and thinking: "I have a little piece of that."<br>
 <br>
 
-The owner and CEO of Molded Dimensions Inc. will have more of those moments as the business expands this fall from its base in Port Washington to 21,000 feet of space in two buildings it purchased from Great Lakes Marine Services on Highway W in Grafton.<br>
+The owner and CEO of Molded Dimensions will have more of those moments as the business expands this fall from its base in Port Washington to 21,000 feet of space in two buildings it purchased from Great Lakes Marine Services on Highway W in Grafton.<br>
 <br>
 
 One of the former Great Lakes Marine buildings will be used to house KM Tooling, a machine and tool shop Molded Dimensions bought in October.<br>
@@ -86,7 +86,7 @@ The Milwaukee Journal Sentinel has been recognizing the Top Workplaces in southe
 <strong>By Rubber &amp; Plastics News | May 20, 2015</strong><br>
 <br>
 
-Urethane and rubber product maker Molded Dimensions Inc. has expanded its operation and increased its capabilities with the addition of a mold maker.<br>
+Urethane and rubber product maker Molded Dimensions has expanded its operation and increased its capabilities with the addition of a mold maker.<br>
 <br>
 
 It also plans to purchase another facility in late May to house its latest acquisition and a division that's presently housed at its complex of buildings in Port Washington, Wis.<br>
@@ -130,7 +130,7 @@ The process drew 1,121 nominations, with 150 companies earning the recognition. 
 <strong>By Rick Barrett of the Journal Sentinel | May 18, 2012</strong><br>
 <br>
 
-If new hires at Molded Dimensions Inc. make it through the first year or two, CEO Linda Katz says there's a good chance they will still be working at the company a decade later.<br>
+If new hires at Molded Dimensions make it through the first year or two, CEO Linda Katz says there's a good chance they will still be working at the company a decade later.<br>
 <br>
 
 There's some turnover at the Port Washington maker of rubber and polyurethane parts, but most of it occurs in the first 24 months. After that, Katz says, employees are likely to settle in and take advantage of benefits such as company-paid college tuition.<br>

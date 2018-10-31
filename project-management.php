@@ -1,7 +1,7 @@
 <?php
 $CurrentMenu = "m2";
 $PageTitle = "Project Management";
-$Description = "Project Management is a priority for Molded Dimensions, Inc. and contributes to our success. We consider ourselves &quot;best in class&quot; for project management and communication.";
+$Description = "Project Management is a priority for Molded Dimensions and contributes to our success. We consider ourselves &quot;best in class&quot; for project management and communication.";
 $Keywords = "project management, molded dimensions, design review, tooling, process development, inspection process";
 
 include "header.php";
@@ -9,7 +9,7 @@ include "header.php";
 
 <h1>Best in Class Project Management</h1>
 <img class="one-half-right" src="images/project-man2.jpg" alt="The project manager is the hub of the project.">
-Project Management is a priority for Molded Dimensions, Inc. and contributes to our success. We consider ourselves "best in class" for project management and communication.<br>
+Project Management is a priority for Molded Dimensions and contributes to our success. We consider ourselves "best in class" for project management and communication.<br>
 <br>
 
 <h2>First step, a Project Manager.</h2>

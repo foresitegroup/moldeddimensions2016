@@ -31,7 +31,6 @@
       <li><a href="<?php echo $TopDir; ?>history.php">History</a></li>
       <li><a href="<?php echo $TopDir; ?>mission-strategy.php">Mission &amp; Strategy</a></li>
       <li><a href="<?php echo $TopDir; ?>certifications-awards.php">Certifications &amp; Awards</a></li>
-      <li><a href="<?php echo $TopDir; ?>wbe-esop.php">WBE &amp; ESOP</a></li>
       <li><a href="<?php echo $TopDir; ?>community.php">Community</a></li>
       <li><a href="<?php echo $TopDir; ?>industries-served.php">Industries Served</a></li>
     </ul>

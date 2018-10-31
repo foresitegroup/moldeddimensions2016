@@ -9,13 +9,13 @@ include "header.php";
 
 <h1>Medical to Mining</h1>
 <img class="one-half-right" src="images/industries-served1.jpg" alt="">
-Diversity at Molded Dimensions, Inc. carries over to the markets and customers we serve. It is this diversity that gives MDI strength and breadth of knowledge. Our tag line "Medical to Mining" highlights our market and customer diversity. This diversity creates value in many ways:<br>
+Diversity at Molded Dimensions, LLC carries over to the markets and customers we serve. It is this diversity that gives MD strength and breadth of knowledge. Our tag line "Medical to Mining" highlights our market and customer diversity. This diversity creates value in many ways:<br>
 
 <ul>
   <li>Supports controlled, balanced growth.</li>
   <li>Minimizes business impact from demand changes within an industry.</li>
-  <li>Promotes diverse capital equipment spending and MDI capabilities.</li>
-  <li>Encourages a wider expertise of and cross-pollination of MDI knowledge.</li>
+  <li>Promotes diverse capital equipment spending and MD capabilities.</li>
+  <li>Encourages a wider expertise of and cross-pollination of MD knowledge.</li>
   <li>Mandates development of scaleable and flexible business systems.</li>
   <li>Reduces impact of customer and industry concentration.</li>
 </ul>

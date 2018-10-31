@@ -1,14 +1,14 @@
 <?php
 $CurrentMenu = "m4";
 $PageTitle = "Material Guide";
-$Description = "Our Design and Engineering Guide is assembled based on both MDI experience and industry (RMA) design standards.";
-$Keywords = "molded dimensions, knowledge center, material guide, MDI, abrasion resistance, adhesion, age resistance comparison, thermal properties, pu selection guidelines, urethanes in compression";
+$Description = "Our Design and Engineering Guide is assembled based on both MD experience and industry (RMA) design standards.";
+$Keywords = "molded dimensions, knowledge center, material guide, MDI, MD, abrasion resistance, adhesion, age resistance comparison, thermal properties, pu selection guidelines, urethanes in compression";
 
 include "header.php";
 ?>
 
 <h1>Focus on Material Engineering</h1>
-Our Design and Engineering Guide is assembled based on both MDI experience and industry (RMA) design standards. This Material Guide is designed to provide you with material knowledge to help you successfully select a material for your application. Included is general material information, as well as specifics about rubber and cast polyurethane materials. We believe sharing this information with you helps expedite the process of getting the optimum product design to market.<br>
+Our Design and Engineering Guide is assembled based on both MD experience and industry (RMA) design standards. This Material Guide is designed to provide you with material knowledge to help you successfully select a material for your application. Included is general material information, as well as specifics about rubber and cast polyurethane materials. We believe sharing this information with you helps expedite the process of getting the optimum product design to market.<br>
 <br>
 
 Feel free to contact us at anytime if you have any questions or need additional information.<br>

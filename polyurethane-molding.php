@@ -1,14 +1,14 @@
 <?php
 $CurrentMenu = "m3";
 $PageTitle = "Polyurethane Molding";
-$Description = "Molded Dimensions, Inc. is a custom molder of cast polyurethane and molded rubber. Pentathane is MDI's trade name for our custom, cast polyurethane formulations.";
+$Description = "Molded Dimensions is a custom molder of cast polyurethane and molded rubber. Pentathane is MD's trade name for our custom, cast polyurethane formulations.";
 $Keywords = "molded dimensions, pentathane, engineered elastomer, high abrasion resistance, tear resistance, polyester, polyether, dry heat resistance, hydrolytic stability, cast polyurethane, rollers, scrapers, gears, grippers, squeegees";
 
 include "header.php";
 ?>
 
 <h1>Engineered Elastomer: Pentathane&reg;</h1>
-Molded Dimensions, Inc. is a custom molder of cast polyurethane and molded rubber. Pentathane® is MDI's trade name for our custom, cast polyurethane formulations.<br>
+Molded Dimensions is a custom molder of cast polyurethane and molded rubber. Pentathane® is MD's trade name for our custom, cast polyurethane formulations.<br>
 <br>
 
 <img class="one-half-right" src="images/poly1.jpg" alt="Load-bearing, abrasion and impact resistant machined poured parts.">
@@ -177,7 +177,7 @@ Urethane may be either mechanically or chemically bonded to an insert. Mechanica
 <br>
 
 <h2>Annual Volume Sold</h2>
-MDI has low to mid volume PU production capabilities. Some of our customers, including military, often only require small production runs, while other customers require weekly releases and a supporting KanBan program to keep them in supply. The systems and methodologies we learn from larger, more structured companies can be applied to benefit customers across the board.<br>
+MD has low to mid volume PU production capabilities. Some of our customers, including military, often only require small production runs, while other customers require weekly releases and a supporting KanBan program to keep them in supply. The systems and methodologies we learn from larger, more structured companies can be applied to benefit customers across the board.<br>
 <br>
 
 <h2>Part or Product Size</h2>
