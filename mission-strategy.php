@@ -20,7 +20,7 @@ Molded Dimensions, LLC is a place where great people choose to work.<br>
 Our mission is to create a place where great people choose to work.<br>
 <br>
 
-Our brand promise is to provide peace of mind to our customers and employee owners.<br>
+Our brand promise is to provide peace of mind to our customers and employees.<br>
 <br>
 
 We achieve this through continually improving our:<br>
@@ -33,7 +33,6 @@ We achieve this through continually improving our:<br>
 <br>
 
 <img class="one-half-right" src="images/mission3.jpg" alt="Mike Katz, President, and Linda Katz, CEO, of Molded Dimensions">
-Linda Katz, CEO<br>
 Mike Katz, President<br>
 Bill Gasper, CFO &amp; CIO<br>
 Patrick Roddy, VP - Sales &amp; Marketing<br>

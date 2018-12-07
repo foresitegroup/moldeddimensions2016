@@ -8,7 +8,7 @@ include "header.php";
 ?>
 
 <h1>Global Manufacturing, Local Service</h1>
-GlocalSource is our service of providing rubber product from manufacturers around the globe, supported by Molded Dimensions, LLC's local, technical service, and support. Your company will benefit from our engineering expertise and program management, including design, logistics and communication.<br>
+GlocalSource is our service of providing rubber product from manufacturers around the globe, supported by Molded Dimensions' local, technical service, and support. Your company will benefit from our engineering expertise and program management, including design, logistics and communication.<br>
 <br>
 
 <img class="one-half-right" src="images/glocalsource3.jpg" alt="Asian manufactured rubber parts are shipped to worldwide customers.">

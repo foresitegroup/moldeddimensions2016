@@ -192,6 +192,15 @@ include "header.php";
 
 <div class="one-half-right"><img src="images/pma-cert.png" alt=""></div>
 
+<div class="clear-space"></div>
 
+<div class="one-half-left">
+  <h1 class="year">2018</h1>
+  <ul>
+    <li>Acquired by an equity partner</li>
+  </ul>
+</div>
+
+<div class="one-half-right"></div>
 
 <?php include "footer.php"; ?>
