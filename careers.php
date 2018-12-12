@@ -53,35 +53,6 @@ include "header.php";
 
   <hr><br>
 
-  <strong>Customer Service Representative</strong><br>
-  We are seeking a qualified individual to perform customer service and order entry for a diverse set of customers.<br>
-  <br>
-
-  Responsibilities
-  <ul>
-    <li>Perform contract review of customer purchase orders.</li>
-    <li>Enter orders into ERP system and confirm to customer.</li>
-    <li>Address customer change orders and communicate delivery updates with customers.</li>
-    <li>Preparing and communicating new project quotes and updates to existing quotes.</li>
-    <li>Achieve and maintain positive rapport with customers.</li>
-    <li>Manage web based customer order portals.</li>
-    <li>Interface with customers along with production, quality assurance and engineering</li>
-  </ul>
-  <br>
-
-  Requirements
-  <ul>
-    <li>High School Diploma.</li>
-    <li>2 years experience in an office environment, manufacturing preferred.</li>
-    <li>Data entry and basic computer skills in MS Office and email.</li>
-    <li>Understanding of job shop production process and basic ERP system, preferred.</li>
-    <li>Exposure to blueprints is helpful.</li>
-    <li>Multi-tasking skills, detail-oriented and good communication skills.</li>
-  </ul>
-  <br>
-
-  <hr><br>
-
   <strong>2nd Shift Urethane Molder</strong><br>
   We currently have an opening for a 2nd shift urethane molder. The ideal candidate will have great multi-tasking skills, will be detail-oriented, and must be able to read and follow process instructions.  Job involves loading and unloading of molds following written procedures, operating hydraulic presses, and troubleshooting quality defects while making appropriate adjustments.  Requires the ability to lift 50 pounds regularly.<br>
   <br>
