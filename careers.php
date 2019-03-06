@@ -38,6 +38,32 @@ include "header.php";
   <br>
 
   <h2>Current Job Openings</h2>
+  <strong>HR Recruiter/Assistant (part-time)</strong><br>
+  The HR Recruiter/Assistant will primarily be responsible for the recruiting of hourly, production employees as well as providing support to the HR Manager on administrative tasks and projects.<br>
+  Primary Responsibilities:<br>
+  <ul>
+    <li>Posting job openings on various job sites and social media outlets</li>
+    <li>Reviewing applications/resumes and conducting phone interviews</li>
+    <li>Scheduling in-person interviews and pre-employment screenings</li>
+    <li>Assist with onboarding and orientation</li>
+    <li>Manage timekeeping system for hourly employees</li>
+    <li>Project work to include vision and hearing testing, employee handbook revisions, etc.</li>
+  </ul>
+  <br>
+
+  Qualifications:
+  <ul>
+    <li>Excellent oral and written communication and customer service skills</li>
+    <li>Ability to multi-task, prioritize and work efficiently</li>
+    <li>High regard for confidentiality</li>
+    <li>Proficient in Microsoft Office and internet applications</li>
+    <li>Associates or enrolled in Associates or Bachelor program in HR or related field</li>
+    <li>Prior experience in HR may substitute for a degree</li>
+  </ul>
+  <br>
+
+  <hr><br>
+
   <strong>Machine Operators 1st, 2nd and 3rd Shift</strong><br>
   Responsibilities involve operating presses by following process order sheets to load material and unload parts.  Operators are also responsible for trimming and inspecting of parts, and may be involved in press setup.  Responsibilities also include monitoring proper temperature and pressure settings and troubleshooting reliability and quality issues as needed.<br>
   <br>
