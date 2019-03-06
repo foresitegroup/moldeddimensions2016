@@ -974,6 +974,11 @@ IMG.right {
   line-height: 1.1em;
 }
 
+.entry-content IMG {
+  max-width: 100%;
+  height: auto;
+}
+
 .entry-content .alignleft {
   float: left;
   margin: 0.2em 1em 0 2em;
@@ -983,6 +988,8 @@ IMG.right {
   float: right;
   margin: 0.2em 0 1em 2em;
 }
+
+.entry-content IMG.alignleft, .entry-content IMG.alignright { width: 50%; height: auto; }
 
 .md-content .entry-content UL, .md-content .entry-content OL {
   color: #343435;
