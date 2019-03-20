@@ -38,9 +38,45 @@ include "header.php";
   <br>
 
   <h2>Current Job Openings</h2>
+  <strong>Manufacturing Engineer</strong><br>
+  The Manufacturing Engineer will strategically identify, implement and communicate part-specific and systemic productivity improvements.<br>
+  <br>
+
+  Principle Duties:
+  <ul>
+    <li>
+      Identify and manage a pipeline of lean opportunities. Drive the successful implementation of projects to reduce manufacturing costs, improve product quality, increase throughput, and/or ensure employee safety through:
+      <ul>
+        <li>manufacturing process controls</li>
+        <li>manufacturing process improvements</li>
+        <li>new manufacturing processes and methodologies</li>
+      </ul>
+    </li>
+    <li>Implement part number by part number productivity improvements.</li>
+    <li>Regularly report on project status and effectiveness.</li>
+    <li>Recommend new capital equipment; oversee its installation and start-up; train operators; write operating manuals/procedures.</li>
+    <li>Instruct, mentor, and lead teams through continuous improvement events and projects.</li>
+    <li>Performs other duties as assigned.</li>
+  </ul>
+  <br>
+  
+  Qualifications:
+  <ul>
+    <li>Bachelor of Science degree in Mechanical Engineering, Industrial Engineering, or related technical degree.</li>
+    <li>Lean-Sigma certification.  Experience leading successful Kaizen events.</li>
+    <li>Demonstrated troubleshooting, analytical and project management skills in a manufacturing environment. Must be "hands-on".</li>
+    <li>Proven ability to work independently and in direct contact with manufacturing shop floor personnel, suppliers and customers.</li>
+    <li>Strong verbal and written communication skills across all levels of the organization.</li>
+  </ul>
+  <br>
+
+  <hr><br>
+
   <strong>HR Recruiter/Assistant (part-time)</strong><br>
   The HR Recruiter/Assistant will primarily be responsible for the recruiting of hourly, production employees as well as providing support to the HR Manager on administrative tasks and projects.<br>
-  Primary Responsibilities:<br>
+  <br>
+
+  Primary Responsibilities:
   <ul>
     <li>Posting job openings on various job sites and social media outlets</li>
     <li>Reviewing applications/resumes and conducting phone interviews</li>
