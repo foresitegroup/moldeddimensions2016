@@ -9,6 +9,21 @@ include "header.php";
 
 <h1>MD in the News</h1>
 
+<h2>Molded Dimensions: Where Great People Choose to Work</h2>
+<strong>By Dianna Brodine, managing editor, Inside Rubber | January 2019</strong><br>
+<br>
+
+Molded Dimensions LLC has been in business since 1954. The company moved to Port Washington, Wisconsin, in 1973, where it has grown into a 100+-employee, three- shift facility with four separate divisions: rubber, cast urethane, moldmaking and strategic sourcing. President Mike and CEO Linda Katz purchased the business in 2001, and its project base focuses on low- to medium-volume custom manufacturing. This niche serves Molded Dimensions well, keeping its customer portfolio diversified and ensuring a continuous stream of interesting technical projects.<br>
+<br>
+
+<a href="blog/molded-dimensions-where-great-people-choose-to-work/">Read More <i class="fa fa-angle-double-right" aria-hidden="true"></i></a><br>
+
+<br>
+<br>
+<hr>
+<br>
+<br>
+
 <img class="one-fourth-right" src="images/rubber-and-plastics-news.png" alt="Rubber &amp; Plastics News" />
 <h2>RPN Executive of Year: Linda Katz excels at Molded Dimensions</h2>
 <strong>By Rubber &amp; Plastics News | December 14, 2015</strong><br>
