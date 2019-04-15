@@ -28,7 +28,7 @@ One of MD's greatest strengths is versatility. In our world, versatility comes i
 MD molds both rubber and cast polyurethane products at the Wisconsin-based facility. Our domestic operation includes two plants located in Port Washington, WI. The original manufacturing facility molds rubber goods while the newest building, located on the same property, focuses on cast urethane molding.<br>
 <br>
 
-In addition to our domestic operation, MD provides molded rubber goods manufactured in both China and in our Indian joint venture factory. This business unit is named GlocalSource. It allows us to provide product from manufacturers around the globe, supported by MD's local technical service and support.<br>
+In addition to our domestic operations, our business unit called GlocalSource provides access to global manufacturing services.  Our GlocalSource customers are supported by MD's local engineering expertise and project management that includes design support, logistics, and communication.<br>
 <br>
 
 <h2>Raw Material Type</h2>

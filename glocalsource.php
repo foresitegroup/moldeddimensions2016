@@ -34,8 +34,7 @@ Knowing there are exceptions to every rule, the basics can be summarized:<br>
 
 <h2>Where does the product come from?</h2>
 <ul>
-  <li>Indian joint venture rubber manufacturer</li>
-  <li>Chinese partner rubber manufacturers</li>
+  <li>Worldwide partner rubber manufacturers</li>
 </ul>
 <br>
 

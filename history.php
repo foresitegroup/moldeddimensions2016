@@ -198,6 +198,7 @@ include "header.php";
   <h1 class="year">2018</h1>
   <ul>
     <li>Acquired by an equity partner</li>
+    <li>Certified ISO 9001:2015</li>
   </ul>
 </div>
 
