@@ -72,34 +72,6 @@ include "header.php";
 
   <hr><br>
 
-  <strong>HR Recruiter/Assistant (part-time)</strong><br>
-  The HR Recruiter/Assistant will primarily be responsible for the recruiting of hourly, production employees as well as providing support to the HR Manager on administrative tasks and projects.<br>
-  <br>
-
-  Primary Responsibilities:
-  <ul>
-    <li>Posting job openings on various job sites and social media outlets</li>
-    <li>Reviewing applications/resumes and conducting phone interviews</li>
-    <li>Scheduling in-person interviews and pre-employment screenings</li>
-    <li>Assist with onboarding and orientation</li>
-    <li>Manage timekeeping system for hourly employees</li>
-    <li>Project work to include vision and hearing testing, employee handbook revisions, etc.</li>
-  </ul>
-  <br>
-
-  Qualifications:
-  <ul>
-    <li>Excellent oral and written communication and customer service skills</li>
-    <li>Ability to multi-task, prioritize and work efficiently</li>
-    <li>High regard for confidentiality</li>
-    <li>Proficient in Microsoft Office and internet applications</li>
-    <li>Associates or enrolled in Associates or Bachelor program in HR or related field</li>
-    <li>Prior experience in HR may substitute for a degree</li>
-  </ul>
-  <br>
-
-  <hr><br>
-
   <strong>Machine Operators 1st, 2nd and 3rd Shift</strong><br>
   Responsibilities involve operating presses by following process order sheets to load material and unload parts.  Operators are also responsible for trimming and inspecting of parts, and may be involved in press setup.  Responsibilities also include monitoring proper temperature and pressure settings and troubleshooting reliability and quality issues as needed.<br>
   <br>
@@ -110,16 +82,7 @@ include "header.php";
   Hours are:<br>
   1st shift: 5 AM - 1 PM, Monday - Friday<br>
   2nd shift: 1 - 9 PM, Monday - Friday<br>
-  3rd shift: 9 PM - 5 AM, Sunday - Thursday.<br>
-  <br>
-
-  <hr><br>
-
-  <strong>2nd Shift Urethane Molder</strong><br>
-  We currently have an opening for a 2nd shift urethane molder. The ideal candidate will have great multi-tasking skills, will be detail-oriented, and must be able to read and follow process instructions.  Job involves loading and unloading of molds following written procedures, operating hydraulic presses, and troubleshooting quality defects while making appropriate adjustments.  Requires the ability to lift 50 pounds regularly.<br>
-  <br>
-
-  2nd shift hours are from 12:30pm - 8:30pm Monday through Friday.  Candidate would need to be able to train on first shift for 6-8 weeks.
+  3rd shift: 9 PM - 5 AM, Sunday - Thursday.
 </div>
 
 <div class="one-third last">
