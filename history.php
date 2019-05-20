@@ -204,4 +204,15 @@ include "header.php";
 
 <div class="one-half-right"></div>
 
+<div class="clear-space"></div>
+
+<div class="one-half-left">
+  <h1 class="year">2019</h1>
+  <ul>
+    <li>Al Mejia named new CEO</li>
+  </ul>
+</div>
+
+<div class="one-half-right"><img src="images/al-mejia.jpg" alt="" style="max-width: 200px; height: auto;"></div>
+
 <?php include "footer.php"; ?>
