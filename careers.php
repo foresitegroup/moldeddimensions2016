@@ -38,7 +38,7 @@ include "header.php";
   <br>
 
   <h2>Current Job Openings</h2>
-  <strong>Manufacturing Engineer</strong><br>
+  <!-- <strong>Manufacturing Engineer</strong><br>
   The Manufacturing Engineer will strategically identify, implement and communicate part-specific and systemic productivity improvements.<br>
   <br>
 
@@ -71,7 +71,7 @@ include "header.php";
   <br>
 
   <hr><br>
-
+ -->
   <strong>Machine Operators 1st, 2nd and 3rd Shift</strong><br>
   Responsibilities involve operating presses by following process order sheets to load material and unload parts.  Operators are also responsible for trimming and inspecting of parts, and may be involved in press setup.  Responsibilities also include monitoring proper temperature and pressure settings and troubleshooting reliability and quality issues as needed.<br>
   <br>
