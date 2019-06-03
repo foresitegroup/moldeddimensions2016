@@ -80,7 +80,7 @@
     
   <div class="copyright">
     <div class="site-width">
-      Copyright &copy; <?php echo date("Y"); ?> Molded Dimensions, LLC <span>|</span> All Rights Reserved <span class="midbreak">|</span> 701 W Sunset Rd, Port Washington, WI 53074 <span>|</span> (262) 284-9455
+      Copyright &copy; <?php echo date("Y"); ?> Molded Dimensions, LLC <span>|</span> All Rights Reserved <span class="midbreak">|</span> 701 Sunset Rd, Port Washington, WI 53074 <span>|</span> (262) 284-9455
 
       <div class="social">
         SOCIAL LINKS
