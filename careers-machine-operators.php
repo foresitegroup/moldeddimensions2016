@@ -16,6 +16,10 @@ Qualified candidates must be able to read and understand process sheets and lift
 Hours are:<br>
 1st shift: 5 AM - 1 PM, Monday - Friday<br>
 2nd shift: 1 - 9 PM, Monday - Friday<br>
-3rd shift: 9 PM - 5 AM, Sunday - Thursday.
+3rd shift: 9 PM - 5 AM, Sunday - Thursday.<br>
+<br>
+
+<br><br>
+<a href="careers.php">Back to current job openings index</a>
 
 <?php include "footer.php"; ?>

@@ -59,4 +59,7 @@ To assure all International First Article samples meet customer quality and prof
   <li>Fluent in Mandarin a plus</li>
 </ol>
 
+<br><br>
+<a href="careers.php">Back to current job openings index</a>
+
 <?php include "footer.php"; ?>

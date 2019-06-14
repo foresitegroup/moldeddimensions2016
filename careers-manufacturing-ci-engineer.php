@@ -42,4 +42,7 @@ To strategically identify, implement and communicate part-specific and systemic 
   <li>Strong verbal and written communication skills across all levels of the organization.</li>
 </ol>
 
+<br><br>
+<a href="careers.php">Back to current job openings index</a>
+
 <?php include "footer.php"; ?>
