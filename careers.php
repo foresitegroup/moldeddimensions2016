@@ -17,6 +17,17 @@ include "header.php";
   <em>Molded Dimensions, LLC is an Equal Opportunity Employer</em><br>
   <br>
 
+  <h3>Current Job Openings</h3>
+  <a href="careers-project-quality-engineer.php" target="new" style="font-weight: bold;">Project/Quality Engineer International Division</a><br>
+  <br>
+
+  <a href="careers-manufacturing-ci-engineer.php" target="new" style="font-weight: bold;">Manufacturing/CI Engineer</a><br>
+  <br>
+
+  <a href="careers-machine-operators.php" target="new" style="font-weight: bold;">Machine Operators 1st, 2nd and 3rd Shift</a><br>
+  <br>
+  <br>
+
   <h3>Basic Requirements</h3>
   <ul>
     <li>18 years of age.</li>
@@ -33,18 +44,7 @@ include "header.php";
   </ul>
   <br>
 
-  Please Download <a href="pdf/Job_Application.pdf" class="download">Application</a>.<br> Please Complete <a href="http://www.cindexinc.com/c/86701C">Culture Index Survey</a><br>
-  <br>
-  <br>
-
-  <h3>Current Job Openings</h3>
-  <a href="careers-project-quality-engineer.php" target="new" style="font-weight: bold;">Project/Quality Engineer International Division</a><br>
-  <br>
-
-  <a href="careers-manufacturing-ci-engineer.php" target="new" style="font-weight: bold;">Manufacturing/CI Engineer</a><br>
-  <br>
-
-  <a href="careers-machine-operators.php" target="new" style="font-weight: bold;">Machine Operators 1st, 2nd and 3rd Shift</a>
+  Please Download <a href="pdf/Job_Application.pdf" class="download">Application</a>.<br> Please Complete <a href="http://www.cindexinc.com/c/86701C">Culture Index Survey</a>
 </div>
 
 <div class="one-third last">
