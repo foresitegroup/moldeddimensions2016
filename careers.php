@@ -17,7 +17,7 @@ include "header.php";
   <em>Molded Dimensions, LLC is an Equal Opportunity Employer</em><br>
   <br>
 
-  <h2>Basic Requirements</h2>
+  <h3>Basic Requirements</h3>
   <ul>
     <li>18 years of age.</li>
     <li>High school diploma or GED, a good work history, and good communication skills.</li>
@@ -25,7 +25,7 @@ include "header.php";
   </ul>
   <br>
 
-  <h2>How to Apply</h2>
+  <h3>How to Apply</h3>
   <ul>
     <li>Application, required<br>Download, complete and return the MD <a href="pdf/Job_Application.pdf" class="download">application</a> for employment via email to <?php email("hr@moldeddimensions.com"); ?> or by stopping by in person and completing an application.</li>
     <li>Culture Index Survey, required<br>Complete the <a href="http://www.cindexinc.com/c/86701C">culture index survey</a> on this website or by stopping by in person.</li>
@@ -37,52 +37,14 @@ include "header.php";
   <br>
   <br>
 
-  <h2>Current Job Openings</h2>
-  <!-- <strong>Manufacturing Engineer</strong><br>
-  The Manufacturing Engineer will strategically identify, implement and communicate part-specific and systemic productivity improvements.<br>
+  <h3>Current Job Openings</h3>
+  <a href="careers-project-quality-engineer.php" target="new" style="font-weight: bold;">Project/Quality Engineer International Division</a><br>
   <br>
 
-  Principle Duties:
-  <ul>
-    <li>
-      Identify and manage a pipeline of lean opportunities. Drive the successful implementation of projects to reduce manufacturing costs, improve product quality, increase throughput, and/or ensure employee safety through:
-      <ul>
-        <li>manufacturing process controls</li>
-        <li>manufacturing process improvements</li>
-        <li>new manufacturing processes and methodologies</li>
-      </ul>
-    </li>
-    <li>Implement part number by part number productivity improvements.</li>
-    <li>Regularly report on project status and effectiveness.</li>
-    <li>Recommend new capital equipment; oversee its installation and start-up; train operators; write operating manuals/procedures.</li>
-    <li>Instruct, mentor, and lead teams through continuous improvement events and projects.</li>
-    <li>Performs other duties as assigned.</li>
-  </ul>
-  <br>
-  
-  Qualifications:
-  <ul>
-    <li>Bachelor of Science degree in Mechanical Engineering, Industrial Engineering, or related technical degree.</li>
-    <li>Lean-Sigma certification.  Experience leading successful Kaizen events.</li>
-    <li>Demonstrated troubleshooting, analytical and project management skills in a manufacturing environment. Must be "hands-on".</li>
-    <li>Proven ability to work independently and in direct contact with manufacturing shop floor personnel, suppliers and customers.</li>
-    <li>Strong verbal and written communication skills across all levels of the organization.</li>
-  </ul>
+  <a href="careers-manufacturing-ci-engineer.php" target="new" style="font-weight: bold;">Manufacturing/CI Engineer</a><br>
   <br>
 
-  <hr><br>
- -->
-  <strong>Machine Operators 1st, 2nd and 3rd Shift</strong><br>
-  Responsibilities involve operating presses by following process order sheets to load material and unload parts.  Operators are also responsible for trimming and inspecting of parts, and may be involved in press setup.  Responsibilities also include monitoring proper temperature and pressure settings and troubleshooting reliability and quality issues as needed.<br>
-  <br>
-
-  Qualified candidates must be able to read and understand process sheets and lift up to 50 lbs.  Manufacturing experience a plus, but not necessary if candidate can learn quickly and work in a fast-paced environment.<br>
-  <br>
-
-  Hours are:<br>
-  1st shift: 5 AM - 1 PM, Monday - Friday<br>
-  2nd shift: 1 - 9 PM, Monday - Friday<br>
-  3rd shift: 9 PM - 5 AM, Sunday - Thursday.
+  <a href="careers-machine-operators.php" target="new" style="font-weight: bold;">Machine Operators 1st, 2nd and 3rd Shift</a>
 </div>
 
 <div class="one-third last">
