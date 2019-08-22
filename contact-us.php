@@ -53,7 +53,7 @@ if (isset($_POST['submit']) && $_POST['confirmationCAP'] == "") {
       $SendTo = "mdisales@moldeddimensions.com,prudolf@moldeddimensions.com";
       $Headers = "From: Contact Form <contactform@moldeddimensions.com>\r\n";
       $Headers .= "Reply-To: " . $_POST[md5('email' . $_POST['ip'] . $salt . $_POST['timestamp'])] . "\r\n";
-      $Headers .= "Bcc: mark@foresitegrp.com\r\n";
+      $Headers .= "Bcc: foresitegroupllc@gmail.com\r\n";
 
       mail($SendTo, $Subject, $Message, $Headers);
 

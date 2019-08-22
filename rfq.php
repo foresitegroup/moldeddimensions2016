@@ -55,7 +55,7 @@ if (isset($_POST['submit']) && $_POST['confirmationCAP'] == "") {
 
     $sm = Swift_Message::newInstance();
     $sm->setTo(array("mdisales@moldeddimensions.com","prudolf@moldeddimensions.com"));
-    $sm->setBcc(array("mark@foresitegrp.com"));
+    $sm->setBcc(array("foresitegroupllc@gmail.com"));
     $sm->setFrom(array("rfqform@moldeddimensions.com" => "RFQ Form"));
     $sm->setReplyTo($_POST[md5('email' . $_POST['ip'] . $salt . $_POST['timestamp'])]);
     $sm->setSubject("RFQ From Molded Dimensions Website");
