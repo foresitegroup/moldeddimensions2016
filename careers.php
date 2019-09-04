@@ -21,9 +21,6 @@ include "header.php";
   <a href="careers-production-lead.php" target="new" style="font-weight: bold;">Production Lead 3rd Shift (Sunday-Thursday, 9pm-5am)</a><br>
   <br>
 
-  <a href="careers-project-quality-engineer.php" target="new" style="font-weight: bold;">Project/Quality Engineer International Division</a><br>
-  <br>
-
   <a href="careers-manufacturing-ci-engineer.php" target="new" style="font-weight: bold;">Manufacturing/CI Engineer</a><br>
   <br>
 
