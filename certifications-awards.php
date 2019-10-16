@@ -8,13 +8,13 @@ include "header.php";
 ?>
 
 <h1>Excellence Recognized</h1>
-Certifications and awards are important to every company, including Molded Dimensions. We pride ourselves on our ISO9001:2008 certification. On-going surveillance and recertification audits ensure Molded Dimensions continues to meet and exceed requirements and expectations. ISO9001 is our core certification.<br>
+Certifications and awards are important to every company, including Molded Dimensions. We pride ourselves on our ISO9001:2015 certification. On-going surveillance and recertification audits ensure Molded Dimensions continues to meet and exceed requirements and expectations. ISO9001 is our core certification.<br>
 <br>
 
 <div class="one-third-left centered-box" style="margin-right: 5%;">
   <h2>Quality Certification</h2>
   <div class="two-thirds-left" style="float: none; margin: 0 auto;">
-    <a href="pdf/ISO_certificate.pdf?<?php echo filemtime("pdf/ISO_certificate.pdf"); ?>">ISO9001:2008 certification<br><img style="margin-top: 0.4em;" src="images/bsi.png" alt="Molded Dimensions Quality Certification"></a>
+    <a href="pdf/ISO_certificate.pdf?<?php echo filemtime("pdf/ISO_certificate.pdf"); ?>">ISO9001:2015 certification<br><img style="margin-top: 0.4em;" src="images/bsi.png" alt="Molded Dimensions Quality Certification"></a>
   </div>
   <div style="clear: both;"></div>
 </div>
