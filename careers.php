@@ -19,9 +19,7 @@ include "header.php";
 
   <h3>Current Job Openings</h3>
   <a href="careers-manufacturing-ci-engineer.php" target="new" style="font-weight: bold;">Manufacturing/CI Engineer</a><br>
-  <br>
 
-  <a href="careers-machine-operators.php" target="new" style="font-weight: bold;">Machine Operators 1st, 2nd and 3rd Shift</a><br>
   <br>
   <br>
 
