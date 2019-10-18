@@ -479,6 +479,8 @@ IMG.right {
   white-space: nowrap;
 }
 
+.menu UL LI.m7 UL { display: none; }
+
 .banner {
   padding: 35px 0;
   background-position: center center;
@@ -757,7 +759,7 @@ IMG.right {
 
 .footer-menu > UL > LI {
   float: left;
-  margin-right: 3%;
+  width: 20%;
   white-space: nowrap;
 }
 
@@ -805,6 +807,7 @@ IMG.right {
   float: left;
   width: 33%;
   margin-bottom: 3em;
+  white-space: nowrap;
 }
 
 .footer-right .fr-right {
@@ -867,6 +870,7 @@ IMG.right {
   background: -o-linear-gradient(top, #495361 0%,#373E49 100%);
   background: -ms-linear-gradient(top, #495361 0%,#373E49 100%);
   background: linear-gradient(to bottom, #495361 0%,#373E49 100%);
+  white-space: nowrap;
 }
 
 .md-footer A.rc-button:last-of-type {
@@ -1198,8 +1202,8 @@ H1.year {
   }
 
   .footer-menu > UL > LI {
-    max-width: 17.6%;
-    margin-right: 2.7%;
+    width: 17.6%;
+    margin-right: 3%;
   }
 
   .footer-right .fr-left,
@@ -1267,8 +1271,9 @@ H1.year {
   }
 
   .footer-menu > UL > LI {
-    max-width: 16.5%;
     white-space: normal;
+    box-sizing: border-box;
+    padding-right: 1%;
   }
 
   .footer-right .fr-left {
@@ -1354,14 +1359,7 @@ H1.year {
     text-decoration: underline;
   }
 
-  .top-menu {
-    height: 54px;
-  }
-
-  .top-menu .phone {
-    margin-right: 2em;
-    font-size: 24px;
-  }
+  .top-menu { display: none; }
 
   .top-menu A.social:link, .top-menu A.social:visited {
     font-size: 36px;
@@ -1597,10 +1595,11 @@ H1.year {
     margin-bottom: 1em;
   }
 
-  .footer-menu {
-    display: none;
+  .footer-menu > UL > LI {
+    float: none;
+    width: 100%;
   }
-  
+
   .footer-left,
   .footer-right .fr-left,
   .footer-right .fr-right {

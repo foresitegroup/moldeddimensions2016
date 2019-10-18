@@ -67,19 +67,11 @@ function email($address, $name="") {
   <body>
 
   <div class="md-header">
-    <div class="mobile-banner"><a href="<?php echo $TopDir; ?>.">Home</a></div>
+    <div class="mobile-banner"><a href="tel:2622849455">(262) 284-9455</a></div>
     
     <div class="site-width">
       <div class="top-menu">
         <div class="phone">(262) 284-9455</div>
-
-        <div class="links">
-          <a href="<?php echo $TopDir; ?>careers.php">Careers</a> / <a href="<?php echo $TopDir; ?>contact-us.php">Contact</a> / <a href="<?php echo $TopDir; ?>rfq.php">RFQ</a>
-        </div>
-
-        <a href="https://www.facebook.com/pages/Molded-Dimensions/125505580874509" class="social"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-        <a href="https://www.linkedin.com/company/molded-dimensions" class="social"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-        <a href="<?php echo $TopDir; ?>blog" class="social"><i class="fa fa-wordpress" aria-hidden="true"></i></a>
       </div>
 
       <div style="clear: both;"></div>

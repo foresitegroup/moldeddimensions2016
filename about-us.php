@@ -1,6 +1,6 @@
 <?php
 $CurrentMenu = "m5";
-$PageTitle = "Our Company";
+$PageTitle = "About Us";
 $Description = "";
 $Keywords = "molded dimensions, product development, product development process, part design, tooling design, process design, materials engineering, FDA, NSF, 3A compliance, polyurethane compounds, rubber molding, rubber molds, polyurethane molding, molding company, rubber molding company, polyurethane molding company";
 

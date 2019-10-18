@@ -11,7 +11,7 @@
 
 $TopDir = substr( home_url(), 0, strrpos( home_url(), '/')+1);
 
-$CurrentMenu = "m6";
+$CurrentMenu = "m5";
 
 if ( !is_single() ) :
   $PageTitle = "Blog";
