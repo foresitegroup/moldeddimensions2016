@@ -9,6 +9,21 @@ include "header.php";
 
 <h1>MD in the News</h1>
 
+<h2>Al Mejia CEO of Molded Dimensions invited to join Milwaukee Business Journal Leadership Trust</h2>
+<em>Milwaukee Business Journal Leadership Trust is an Invitation-Only Community for Top Business Decision Makers in Southeastern Wisconsin</em><br>
+<br>
+
+Milwaukee, October 25, 2029 &mdash; Al Mejia, CEO of Molded Dimensions, has been invited to join Milwaukee Business Journal Leadership Trust, an exclusive community for influential business leaders, executives and entrepreneurs in the Milwaukee area.<br>
+<br>
+
+<a href="blog/al-mejia-ceo-of-molded-dimensions-invited-to-join-milwaukee-business-journal-leadership-trust/">Read More <i class="fa fa-angle-double-right" aria-hidden="true"></i></a><br>
+
+<br>
+<br>
+<hr>
+<br>
+<br>
+
 <h2>Molded Dimensions: Where Great People Choose to Work</h2>
 <strong>By Dianna Brodine, managing editor, Inside Rubber | January 2019</strong><br>
 <br>
