@@ -18,6 +18,7 @@ include "header.php";
   <br>
 
   <h3>Current Job Openings</h3>
+  <a href="careers-part-time-customer-service-representative.php" style="font-weight: bold;">Part Time Customer Service Representative</a><br>
   <a href="careers-machine-operators.php" style="font-weight: bold;">Machine Operators 1st and 3rd Shift</a><br>
   <a href="careers-resin-material-prep.php" style="font-weight: bold;">Resin Material Prep 1st Shift</a><br>
 
