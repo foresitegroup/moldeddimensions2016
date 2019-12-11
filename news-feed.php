@@ -9,6 +9,25 @@ include "header.php";
 
 <h1>MD in the News</h1>
 
+<img class="one-fourth-right" src="images/the-business-journals.png" alt="The Business Journals" />
+<h2>Get your business off to a great start in the new year with these 10 strategies</h2>
+<strong>By The Business Journals | December 5, 2019</strong><br>
+<br>
+
+Some companies see a surge of business during the holiday season, while others wind down the year more slowly. There are ways to take advantage of whichever situation your company is in to finish strong and set up a great year ahead.<br>
+<br>
+
+Below, 10 members of Business Journals Leadership Trust share their strategies for making the most of the holiday season.<br>
+<br>
+
+<a href="https://www.bizjournals.com/bizjournals/news/2019/12/05/get-your-business-off-to-a-great-start-in-the-new-year-with-these-10-strategies.html">Read More <i class="fa fa-angle-double-right" aria-hidden="true"></i></a><br>
+
+<br>
+<br>
+<hr>
+<br>
+<br>
+
 <h2>Al Mejia CEO of Molded Dimensions invited to join Milwaukee Business Journal Leadership Trust</h2>
 <em>Milwaukee Business Journal Leadership Trust is an Invitation-Only Community for Top Business Decision Makers in Southeastern Wisconsin</em><br>
 <br>
