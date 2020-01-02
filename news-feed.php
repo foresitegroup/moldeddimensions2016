@@ -9,6 +9,25 @@ include "header.php";
 
 <h1>MD in the News</h1>
 
+<img class="one-fourth-right" src="images/milwaukee-business-journal.jpg" alt="Milwaukee Business Journal" />
+<h2>Nervous about public speaking? Try these five expert tricks</h2>
+<strong>By Milwaukee Business Journal | December 26, 2019</strong><br>
+<br>
+
+If you have an important presentation coming up, you may be feeling anxious. This is completely normal -- even experienced speakers can be nervous before a speaking engagement.<br>
+<br>
+
+Luckily, you don't have to let those fears overtake you. Many members of Milwaukee Business Journal Leadership Trust have extensive experience in public speaking and have learned how to manage their pre-speech jitters to deliver a great presentation. Below, five of them share the tricks they use to get primed and ready before speaking in public.<br>
+<br>
+
+<a href="https://www.bizjournals.com/milwaukee/news/2019/12/26/nervous-about-public-speaking-try-these-five-expert-tricks.html">Read More <i class="fa fa-angle-double-right" aria-hidden="true"></i></a><br>
+
+<br>
+<br>
+<hr>
+<br>
+<br>
+
 <img class="one-fourth-right" src="images/the-business-journals.png" alt="The Business Journals" />
 <h2>Get your business off to a great start in the new year with these 10 strategies</h2>
 <strong>By The Business Journals | December 5, 2019</strong><br>
