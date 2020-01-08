@@ -78,7 +78,7 @@ $salt = "ForesiteGroupMoldedDimensions";
 </div>
 
 <div class="one-third last">
-  Please feel free to call us directly at 262-284-9455 or email us at <?php email("mdisales@moldeddimensions.com"); ?>.<br>
+  Please feel free to call us directly at 262-284-9455 or email us at <?php email("sales@moldeddimensions.com"); ?>.<br>
   <br>
 
   <h2>Mailing Address</h2>

@@ -49,9 +49,10 @@ if (isset($_POST['submit']) || $_SERVER["QUERY_STRING"] == "dev") {
           $Message = stripslashes($Message);
 
           $Subject = "Contact From Molded Dimensions Website";
-          $SendTo = "mdisales@moldeddimensions.com,prudolf@moldeddimensions.com";
+          $SendTo = ($_POST['department'] == "Human Resources") ? "hr@moldeddimensions.com" : "sales@moldeddimensions.com";
           $Headers = "From: Contact Form <contactform@moldeddimensions.com>\r\n";
           $Headers .= "Reply-To: " . $_POST[md5('email' . $_POST['ip'] . $salt . $_POST['timestamp'])] . "\r\n";
+          $Headers .= "Cc: prudolf@moldeddimensions.com\r\n";
           $Headers .= "Bcc: foresitegroupllc@gmail.com\r\n";
 
           mail($SendTo, $Subject, $Message, $Headers);
@@ -68,7 +69,7 @@ if (isset($_POST['submit']) || $_SERVER["QUERY_STRING"] == "dev") {
   </div>
 
   <div class="one-third last">
-    Please feel free to call us directly at 262-284-9455 or email us at <?php email("mdisales@moldeddimensions.com"); ?>.<br>
+    Please feel free to call us directly at 262-284-9455 or email us at <?php email("sales@moldeddimensions.com"); ?>.<br>
     <br>
 
     <h2>Mailing Address</h2>
