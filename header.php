@@ -13,20 +13,20 @@ function email($address, $name="") {
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    
+
     <title>Molded Dimensions<?php if ($PageTitle != "") echo " | " . $PageTitle; ?></title>
     <link rel="shortcut icon" type="image/x-icon" href="<?php echo $TopDir; ?>images/favicon.ico">
     <link rel="apple-touch-icon" href="<?php echo $TopDir; ?>images/apple-touch-icon.png">
-    
+
     <meta name="description" content="<?php if (isset($Description)) echo $Description; ?>">
     <meta name="keywords" content="<?php if (isset($Keywords)) echo $Keywords; ?>">
     <meta name="author" content="Foresite Group">
-    
+
     <meta name="viewport" content="width=device-width">
     <link href='//fonts.googleapis.com/css?family=Lato:300,400,700,900' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
     <link rel="stylesheet" href="<?php echo $TopDir; ?>inc/main.css?<?php if ($TopDir == "") echo filemtime('inc/main.css'); ?>">
-    
+
     <script type="text/javascript" src="<?php echo $TopDir; ?>inc/jquery-1.12.0.min.js"></script>
     <script type="text/javascript">
       $(document).ready(function() {
@@ -36,7 +36,7 @@ function email($address, $name="") {
           if (this.href == window.location.href) { $(this).addClass("currentpage"); }
         });
 
-        $('a.download').each(function(){ 
+        $('a.download').each(function(){
           $(this).prop({'href': 'download.php?f='+$(this).prop('href'), 'target': ''});
         });
       });
@@ -64,74 +64,48 @@ function email($address, $name="") {
     </script>
     <!-- END Google Analytics -->
   </head>
-  <body>
+  <body <?php if ($CurrentMenu == "m1") { echo ' class="page-home"'; } ?>>
 
   <div class="md-header">
     <div class="mobile-banner"><a href="tel:2622849455">(262) 284-9455</a></div>
-    
+
     <div class="site-width">
       <div class="top-menu">
         <div class="phone">(262) 284-9455</div>
       </div>
 
       <div style="clear: both;"></div>
-      
-      <a href="<?php echo $TopDir; ?>."><img src="<?php echo $TopDir; ?>images/logo.png" alt="Molded Dimensions" id="logo"></a>
 
-      <div class="slogan">
-        <strong>MOLDED DIMENSIONS, LLC</strong><br>
+      <div class="logo-slogan">
+        <a href="<?php echo $TopDir; ?>."><img src="<?php echo $TopDir; ?>images/logo.png" alt="Molded Dimensions" id="logo"></a>
 
-        <div>Custom Molder of Rubber and Cast Polyurethane Components.</div>
+        <div class="slogan">
+          <strong>MOLDED DIMENSIONS, LLC</strong>
+        </div>
       </div>
 
-      <form class="search" method="POST" action="<?php echo $TopDir; ?>search.php">
-        <div>
-          <input type="text" name="search">
-          <button type="submit"><i class="fa fa-search"></i></button>
-        </div>
-      </form>
-
       <div style="clear: both;"></div>
-      
+
       <input type="checkbox" id="show-menu" role="button">
       <label for="show-menu" id="menu-toggle"></label>
       <div class="menu"><?php include "menu.php"; ?></div>
     </div>
   </div>
-  
+
   <?php if ($CurrentMenu == "m1") { ?>
-  <script type="text/javascript" src="inc/jquery.cycle2.min.js"></script>
-  <div class="cycle-slideshow" data-cycle-speed="2000" data-cycle-timeout="5000" data-cycle-slides="> div">
-    <!-- <div style="background-image: url(images/rotating1.jpg);">
-      <a href="wbe-esop.php">
-        <span>Women's Business Enterprise</span>
-      </a>
-    </div> -->
 
-    <div style="background-image: url(images/rotating-pma.jpg);">
-      <a href="certifications-awards.php">
-        <span class="slogan-left">First to be PMA Safe &amp; Compliant</span>
-      </a>
+  <div class="home-hero-static">
+    <div class="site-width">
+      <div class="cont">
+        <h1>Experienced Rubber and Cast Polyurethane Molders</h1>
+        <div class="text">
+          <p>Since 1954, we have been the service provider of choice for companies across a diverse selection of markets for their polyurethane and rubber molding needs.</p>
+          <a href="/capabilities.php" class="btn">What We Do</a>
+        </div>
+      </div>
     </div>
+  </div>
 
-    <div style="background-image: url(images/rotating2.jpg);">
-      <a href="glocalsource.php">
-        <span class="slogan-left">Global Reach in Production and Fulfillment</span>
-      </a>
-    </div>
-    <div style="background-image: url(images/rotating3.jpg);">
-      <a href="materials-engineering.php">
-        <span>Engineered Quality in Every Part</span>
-      </a>
-    </div>
-    <div style="background-image: url(images/rotating4.jpg);">
-      <a href="project-management.php">
-        <span class="slogan-left">Best in Class Project Management</span>
-      </a>
-    </div>
-
-    <span class="cycle-pager"></span>
-  </div> <!-- END cycle-slideshow -->
   <?php } else { ?>
   <div class="banner <?php echo $CurrentMenu; ?>">
     <div class="site-width">
@@ -139,7 +113,6 @@ function email($address, $name="") {
     </div>
   </div>
   <?php } ?>
-  
+
   <div class="site-width main-content<?php echo " $CurrentMenu"; if (!empty($FullWidth)) echo " full-width"; ?>">
     <div class="md-content">
-      

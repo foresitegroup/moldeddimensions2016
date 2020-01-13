@@ -1,7 +1,7 @@
 <?php
 $CurrentMenu = "m3";
-$PageTitle = "Rubber Molding";
-$Description = "Molded Dimensions is a custom molder of rubber and cast polyurethane. At MD, we take pride in the technical excellence and versatility of our rubber business unit.";
+$PageTitle = "Rubber Molding | Custom Rubber Injection Molding Services";
+$Description = "Molded Dimensions provides complete custom rubber molding services to a wide variety of industries. Learn more about our full capabilities here.";
 $Keywords = "molded dimensions, custom moler, rubber molding, thermoset polymers, fluoroelastomer, precision molded diaphrams, medical applications, molding technologies, value added operations, molding capabilities, natural rubber, neoprene, silicone, polyurethane, butyl, ehtylene";
 
 include "header.php";
@@ -9,15 +9,15 @@ include "header.php";
 
 <h1>Diversity in Rubber Manufacturing</h1>
 <img class="one-half-right" src="images/rubber-molding5.jpg" alt="Rubber injection molding of SBR, EPDM, polychloroprene, Nitrile, or fluoroelastomers.">
-Molded Dimensions is a custom molder of rubber and cast polyurethane. At MD, we take pride in the technical excellence and versatility of our rubber business unit. Our business supports:
+Molded Dimensions is a provider of custom rubber molding and cast polyurethane. At MD, we take pride in the technical excellence and versatility of our rubber business unit. Our rubber molding services include:
 <ul>
   <li>Wide range of <em>thermoset polymers</em>, from the basic EPDM to a highly engineered Fluoroelastomer</li>
   <li>Broad span of <em>annual volumes</em> - low, mid, and high volume production capabilities</li>
   <li>Large variety of <em>applications</em> - simple grommet applications, tightly-toleranced, and precision-molded diaphragms, complex hoses, highly-cosmetic medical applications, and much more</li>
   <li>Significant diversity in <em>part size</em>, from small parts that fit on a fingertip, to large parts that need to be carried with two hands</li>
-  <li>Multiple <em>molding technologies</em> - compression molded, transfer molded, and high speed, injection molded product</li>
+  <li>Multiple <em>molding technologies</em> - compression molded, transfer molded, and high-speed rubber injection molding</li>
   <li><em>Insert molding capabilities</em> - we can overmold rubber onto metallic (stainless or carbon steel, aluminum, etc.) and non-metallic structural components such as fiberglass and glass-filled thermoplastics</li>
-  <li>Many <em>value-added operations</em>, including deflashing, grinding, kitting, assembly, testing, along with Kanban and inventory programs</li>
+  <li>Many <em>value-added operations</em>, including deflashing, grinding, kitting, assembly and testing, along with Kanban and inventory programs</li>
   <li>Wide <em>range of industries</em> from "medical to mining"</li>
 </ul>
 <br>
@@ -40,7 +40,7 @@ Molded Dimensions is a custom molder of rubber and cast polyurethane. At MD, we 
 <br>
 
 <h2>Annual Volume Sold</h2>
-MD has low, mid, and high volume production capabilities. Some of our customers, including military, often only require small production runs, while other customers require weekly releases and a supporting KanBan program to keep them in supply. The systems and methodologies we learn from larger, more structured companies can be applied to benefit customers across the board.<br>
+MD has low-, mid-, and high-volume production capabilities.  Some of our customers, including military, often only require small production runs, while other customers require weekly releases and a supporting KanBan program to keep them in supply. The systems and methodologies we learn from larger, more structured companies can be applied to benefit customers across the board.<br>
 <br>
 
 <img class="one-half-right" src="images/rubber-molding3.jpg" alt="Insert prep for roller, mount, impellor, and gear applications.">
@@ -90,11 +90,11 @@ Precision mechanical components range in size from 1 gram to over 30 pounds. In-
 
 <img class="one-half-right" src="images/rubber-molding4.jpg" alt="Injection, compression, and transfer rubber molding work cell.">
 <h2>Molding Technologies</h2>
-Multiple size presses are used to meet your program requirements. Molding technologies include:
+Multiple size presses are used to meet your program requirements. Our rubber molding technologies include:
 <ul>
   <li>Injection - Strip form material is drawn into the press, heated, and then forced into the mold cavity under controlled pressure, temperature, and injection speeds.</li>
   <li>Ram-Injection - Billets of material are manually loaded each heat, or press cycle, into a secondary hydraulic ram, which then forces the rubber into a closed mold cavity.</li>
-  <li>Transfer - A "preform" of material is placed between the top mold plate and an additional ram plate. This method uses the closing press to transfer rubber into the cavity. A block of material is placed in a "pot" and then, with a punch, forced into the mold cavity.</li>
+  <li>Transfer - A "preform" of material is placed between the top mold plate and an additional ram plate. This rubber transfer molding method uses the closing press to transfer rubber into the cavity. A block of material is placed in a "pot" and then, with a punch, forced into the mold cavity.</li>
   <li>Compression - A pre-sized, mass of rubber is set directly into the mold cavity and then squeezed into shape as the mold plates close around it.</li>
 </ul>
 <br>
@@ -103,7 +103,7 @@ Multiple size presses are used to meet your program requirements. Molding techno
 When additional structure is needed in a component, rubber materials may be overmolded onto a substrate. A variety of metals including carbon steel, aluminum, stainless, brass and bronze can be used. Non-metallic, rigid materials, such as fiberglass and glass filled nylon, are also candidates.<br>
 <br>
 
-Rubber may be either mechanically or chemically bonded to an insert. Mechanical bond is the encapsulation of the substrate without the use of a secondary adhesive. A chemical bond utilizes an adhesive system to ensure an unyielding bond between the substrate and urethane.<br>
+Molded rubber may be performed either mechanically or chemically bonded to an insert. Mechanical bond is the encapsulation of the substrate without the use of a secondary adhesive. A chemical bond utilizes an adhesive system to ensure an unyielding bond between the substrate and urethane.<br>
 <br>
 
 <img class="one-half-right" src="images/rubber-molding1.jpg" alt="Cryogenic deflashing of rubber hoses, tubes, grommets, seals, and bellows.">
@@ -122,5 +122,7 @@ Our diverse customer base crosses many industries, as we like to say from "medic
 <br>
 
 Download our <a href="pdf/Rubber_molding_brochure.pdf">Rubber Molding brochure</a>
+
+<?php include "btn-contact.php"; ?>
 
 <?php include "footer.php"; ?>
