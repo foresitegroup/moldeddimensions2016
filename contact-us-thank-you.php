@@ -69,7 +69,7 @@ if (isset($_POST['submit']) || $_SERVER["QUERY_STRING"] == "dev") {
   </div>
 
   <div class="one-third last">
-    Please feel free to call us directly at 262-284-9455 or email us at <?php email("sales@moldeddimensions.com"); ?>.<br>
+    Please feel free to call us directly at 262-284-9455 or email us at <?php email($SendTo); ?>.<br>
     <br>
 
     <h2>Mailing Address</h2>
