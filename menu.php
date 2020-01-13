@@ -5,6 +5,8 @@
       <li><a href="<?php echo $TopDir; ?>rubber-molding.php">Rubber Molding</a></li>
       <li><a href="<?php echo $TopDir; ?>polyurethane-molding.php">Polyurethane Molding</a></li>
       <li><a href="<?php echo $TopDir; ?>glocalsource.php">GlocalSource</a></li>
+      <li><a href="<?php echo $TopDir; ?>silicone-molding.php">Silicone Molding</a></li>
+      <li><a href="<?php echo $TopDir; ?>mold-construction.php">Mold Construction</a></li>
     </ul>
   </li>
   <li class="m2">
