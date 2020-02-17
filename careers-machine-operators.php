@@ -1,11 +1,11 @@
 <?php
 $CurrentMenu = "m7";
-$PageTitle = "Careers | Machine Operators 1st and 3rd Shift";
+$PageTitle = "Careers | Machine Operators 2nd and 3rd Shift";
 
 include "header.php";
 ?>
 
-<h1>Machine Operators 1st and 3rd Shift</h1>
+<h1>Machine Operators 2nd and 3rd Shift</h1>
 
 Responsibilities involve operating injection molding presses by following process order sheets to load material and unload parts. Operators are also responsible for trimming and inspecting of parts, and may be involved in press setup. Responsibilities also include monitoring proper temperature and pressure settings and troubleshooting reliability and quality issues as needed.<br>
 <br>
