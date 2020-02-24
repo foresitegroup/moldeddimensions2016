@@ -9,6 +9,25 @@ include "header.php";
 
 <h1>MD in the News</h1>
 
+<img class="one-fourth-right" src="images/journal-sentinel.png" alt="Milwaukee Journal Sentinel">
+<h2>After a turbulent end to 2019, Wisconsin manufacturers are optimistic. Cautiously optimistic.</h2>
+<strong>By John Steppe, Milwaukee Journal Sentinel | February 20, 2020</strong><br>
+<br>
+
+A quick glance around Molded Dimensions' factory in Port Washington &mdash; a company that makes everything from car parts to fire extinguisher pins &mdash; indicates it has plenty of business.<br>
+<br>
+
+On a recent weekday, eight orders were on the whiteboard to be completed that day.<br>
+<br>
+
+<a href="https://www.jsonline.com/story/money/2020/02/20/wisconsin-manufacturers-try-turn-corner-trade-concerns-linger/4645478002/">Read More <i class="fa fa-angle-double-right" aria-hidden="true"></i></a><br>
+
+<br>
+<br>
+<hr>
+<br>
+<br>
+
 <img class="one-fourth-right" src="images/milwaukee-business-journal.jpg" alt="Milwaukee Business Journal" />
 <h2>Nervous about public speaking? Try these five expert tricks</h2>
 <strong>By Milwaukee Business Journal | December 26, 2019</strong><br>
