@@ -1,13 +1,15 @@
 <?php
 $CurrentMenu = "m3";
-$PageTitle = "Polyurethane Molding";
-$Description = "Molded Dimensions is a custom molder of cast polyurethane and molded rubber. Pentathane is MD's trade name for our custom, cast polyurethane formulations.";
+$PageTitle = "Polyurethane Molding | Custom Urethane Injection Molding & Casting";
+$HeaderTitle = "Polyurethane Molding";
+$Description = "Molded Dimensions provides complete polyurethane molding services for multiple industries. Learn more about our capabilities here.";
 $Keywords = "molded dimensions, pentathane, engineered elastomer, high abrasion resistance, tear resistance, polyester, polyether, dry heat resistance, hydrolytic stability, cast polyurethane, rollers, scrapers, gears, grippers, squeegees";
 
 include "header.php";
 ?>
 
-<h1>Engineered Elastomer: Pentathane&reg;</h1>
+
+<h2>Engineered Elastomer: Pentathane&reg;</h2>
 Molded Dimensions is a custom molder of cast polyurethane and molded rubber. Pentathane® is MD's trade name for our custom, cast polyurethane formulations.<br>
 <br>
 
@@ -17,7 +19,7 @@ Pentathane&reg; is known for:<br>
   <li>Outstanding physical properties</li>
   <li>Advantages over metal, rubber, and plastic</li>
   <li>Wide range of part applications and industries</li>
-  <li>Compatibility to various molding methods</li>
+  <li>Compatibility to various polyurethane molding methods</li>
   <li>Ability to be finished in numerous ways</li>
   <li>Low to mid volume production</li>
   <li>Diversity in part size</li>
@@ -62,7 +64,7 @@ The two main types of cast polyurethanes, Polyester and Polyether, offer specifi
 <br>
 
 <h2>Key Advantages of Cast Polyurethane</h2>
-Typical material competitors for cast polyurethane applications are metal, rubber and plastic. Cast polyurethane is tougher, stronger and has many other advantages as well.<br>
+Typical material competitors for cast polyurethane applications are metal, rubber, and plastic. When considering a polyurethane molding vs rubber, metal or plastic, it’s important to recognize the advantages polyurethane brings: <br>
 <br>
 
 <img class="one-half-right" src="images/poly3.jpg" alt="Mold release coats open cast, compression, and spin cast urethane tooling.">
@@ -147,13 +149,13 @@ Typical material competitors for cast polyurethane applications are metal, rubbe
 <br>
 
 <h2>Molding Technologies</h2>
-Polyurethane (PU) can be molded in a variety of ways &mdash; open cast, compression, spin cast and low pressure injection. PU tooling is lower cost due to the simplicity of the tooling, the ability to gravity feed individual cavities, and the constant temperature processing, requiring no cooling lines.
+Polyurethane (PU) can be molded in a variety of ways &mdash; open-cast, compression, spin cast and low-pressure injection. PU tooling is lower cost due to the simplicity of the tooling, the ability to gravity feed individual cavities, and the constant temperature processing, requiring no cooling lines.
 
 <ul>
-  <li>Open Cast Molding - Because of the liquid nature of the uncured resin, PU parts are often molded using an open cast process. The polymer and curative agents are premixed and poured into an open cavity of a mold. After the parts reach "green strength" or are partially cured, they are demolded and moved to a secondary post cure oven. Open cast molded parts are subject to a looser tolerance on the open cast surface, and may require a secondary cutting or machining operation if a tighter tolerance is needed.</li>
-  <li>Compression Molding - PU can be cast using a compression or closed mold process. The polymer and curative are premixed and poured into the open mold. The mold is overfilled with raw material, helping to drive out air as the mold is closed and placed under pressure. After the parts reach "green strength", they are demolded and moved to a secondary post cure oven. In this process, all surfaces are controlled by the closed mold.</li>
-  <li>Spin Casting - The polymer and curative are premixed and poured into a spinning, closed mold. This process is designed to remove air that can be trapped during casting. After the parts reach "green strength", they are demolded and moved to a secondary post cure oven. Like the open cast molding process, a secondary machining process may be needed to remove the risers or gates.</li>
-  <li>Low Pressure Injection Molding - The polymer and curative are premixed and injected under low pressure into a closed mold. Bleeder vents are used to allow the excess air to escape during the injection process. After the parts reach "green strength", they are demolded and moved to a secondary post cure oven.</li>
+  <li>Open Cast Molding - Because of the liquid nature of the uncured resin, PU parts are often molded using an open-cast process. The polymer and curative agents are premixed and poured into an open cavity of a mold. After the parts reach "green strength" or are partially cured, they are demolded and moved to a secondary post cure oven. Open-cast molded parts are subject to a looser tolerance on the open-cast surface and may require a secondary cutting or machining operation if a tighter tolerance is needed.</li>
+  <li>Compression Molding - PU can be cast using a compression or closed mold process. The polymer and curative are premixed and poured into the open mold. The mold is overfilled with raw material, helping to drive out air as the mold is closed and placed under pressure. After the parts reach "green strength,” they are demolded and moved to a secondary post cure oven. In this process, all surfaces are controlled by the closed mold.</li>
+  <li>Spin Casting - The polymer and curative are premixed and poured into a spinning, closed mold. This process is designed to remove air that can be trapped during polyurethane casting. After the parts reach "green strength,” they are demolded and moved to a secondary post cure oven. Like the open cast urethane molding process, a secondary machining process may be needed to remove the risers or gates.</li>
+  <li>Low Pressure Injection Molding - In the polyurethane injection molding process, the polymer and curative are premixed and injected under low pressure into a closed mold. Bleeder vents are used to allow the excess air to escape during the injection process. After the parts reach "green strength,” they are demolded and moved to a secondary post cure oven.</li>
 </ul>
 <br>
 
@@ -167,7 +169,7 @@ Urethane may be either mechanically or chemically bonded to an insert. Mechanica
 <h2>Finishing Operations</h2>
 <img class="one-half-right" src="images/poly5.jpg" alt="Finishing operations include deflashing, machining, grinding, die cutting, and kitting.">
 <ul>
-  <li>Deflashing - During the molding process uncured PU can seep between plates causing excess material extending from the part. After the parts are cured, the thin flash or excess material is removed in a batch process called cryogenic deflashing. The parts are frozen using liquid nitrogen, tumbled and blasted with media to remove the flash while retaining the part integrity.</li>
+  <li>Deflashing - During the custom urethane molding process uncured PU can seep between plates causing excess material extending from the part. After the parts are cured, the thin flash or excess material is removed in a batch process called cryogenic deflashing. The parts are frozen using liquid nitrogen, tumbled and blasted with media to remove the flash while retaining the part integrity.</li>
   <li>Machining and Grinding - Machining or grinding can be used to achieve tighter tolerances than molding alone can create.</li>
   <li>Die Cutting - Die cutting can be used to create a smooth, clean-cut edge as is often required for squeegee blades.</li>
   <li>Knifing - Knifing is a manual operation whereby excess, unwanted material like flash or overpour is removed from the part by removal with a blade.</li>
@@ -177,17 +179,19 @@ Urethane may be either mechanically or chemically bonded to an insert. Mechanica
 <br>
 
 <h2>Annual Volume Sold</h2>
-MD has low to mid volume PU production capabilities. Some of our customers, including military, often only require small production runs, while other customers require weekly releases and a supporting KanBan program to keep them in supply. The systems and methodologies we learn from larger, more structured companies can be applied to benefit customers across the board.<br>
+MD has low- to mid-volume PU production capabilities. Some of our customers, including military, often only require small production runs, while other customers require weekly releases and a supporting Kanban program to keep them in supply. The systems and methodologies we learn from larger, more structured companies can be applied to benefit customers across the board.<br>
 <br>
 
 <h2>Part or Product Size</h2>
-Precision mechanical PU components range in size from 50 grams to over 60 pounds. In-house production utilizes a range of hot table and oven sizes for open cast molding, with our largest ovens measuring 10' square, and presses up to 24" square for compression molding.<br>
+Precision mechanical PU components range in size from 50 grams to over 60 pounds. In-house production utilizes a range of hot table and oven sizes for open-cast molding, with our largest ovens measuring 10' square, and presses up to 24" square for compression molding.<br>
 <br>
 
 <h2>Industries Served</h2>
-Our diverse customer base crosses many industries, as we like to say "from medical to mining." The engineering expertise we gain based on the range of parts we manufacture benefits all customers with high quality, consistent product meeting application requirements. In addition, the knowledge and experience gained from servicing large-scale customers with high service and quality requirements benefits all customers no matter size or industry.<br>
+Our diverse customer base crosses many industries, as we like to say, "from medical to mining." The engineering expertise we gain based on the range of parts we manufacture benefits all customers with high-quality, consistent products meeting application requirements. In addition, the knowledge and experience gained from servicing large-scale customers with high service and quality requirements benefits all customers, no matter their size or industry.<br>
 <br>
 
 Download our <a href="pdf/Pentathane_brochure.pdf">Pentathane brochure</a>
+
+<?php include "btn-contact.php"; ?>
 
 <?php include "footer.php"; ?>
