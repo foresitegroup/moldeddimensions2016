@@ -14,7 +14,7 @@ function email($address, $name="") {
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-    <title>Molded Dimensions<?php if ($PageTitle != "") echo " | " . $PageTitle; ?></title>
+    <title><?php echo $PageTitle; ?></title>
     <link rel="shortcut icon" type="image/x-icon" href="<?php echo $TopDir; ?>images/favicon.ico">
     <link rel="apple-touch-icon" href="<?php echo $TopDir; ?>images/apple-touch-icon.png">
 
@@ -42,6 +42,9 @@ function email($address, $name="") {
       });
     </script>
 
+    <link rel="stylesheet" href="inc/jquery.fancybox.min.css">
+    <script src="inc/jquery.fancybox.min.js"></script>
+
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -65,6 +68,29 @@ function email($address, $name="") {
     <!-- END Google Analytics -->
   </head>
   <body <?php if ($CurrentMenu == "m1") { echo ' class="page-home"'; } ?>>
+
+  <div id="notice-modal" class="site-width">
+    <strong>Molded Dimensions is Essential Business: Open and Shipping Product.</strong><br>
+    <br>
+
+    The Coronavirus situation continues to change daily. Here are the updates from Molded Dimensions.<br>
+    <br>
+
+    1) <u>Employees:</u>  We are initiating work from home for positions where this is possible.  Our manufacturing employees, and other essential staff, in Wisconsin continue to report for work and production continues as normal. In addition to regular workplace sanitizing, we continue to provide ways to social distance ourselves and reduce cross-contamination between departments and facilities.<br>
+    <br>
+
+    2) <u>Raw Material Supply:</u> We continue to monitor our supply base to assure our raw material stock is available to provide uninterrupted supply for our customers.<br>
+    <br>
+
+    3) <u>Production Commitment:</u> Our manufacturing employees are considered "Essential Critical Infrastructure Workers." We do not plan to shut down manufacturing and shipping unless required to do so by governmental restrictions.<br>
+    <br>
+
+    Best regards,<br>
+    Patrick Roddy<br>
+    VP Sales
+  </div>
+
+  <div id="notice"><a data-fancybox data-src="#notice-modal" href="javascript:;">COVID-19 Alert: Molded Dimensions is Essential Business: Open and Shipping Product.</a></div>
 
   <div class="md-header">
     <div class="mobile-banner"><a href="tel:2622849455">(262) 284-9455</a></div>
@@ -109,7 +135,20 @@ function email($address, $name="") {
   <?php } else { ?>
   <div class="banner <?php echo $CurrentMenu; ?>">
     <div class="site-width">
-      <h2><?php echo $PageTitle; ?></h2>
+
+      <h1><?php
+
+      if (isset($HeaderTitle)) {
+  echo $HeaderTitle;
+}
+
+else
+{
+  echo $PageTitle;
+}
+
+
+      ?></h1>
     </div>
   </div>
   <?php } ?>

@@ -282,11 +282,26 @@ IMG.right {
   height: auto;
 }
 
+#notice {
+  padding: 6px 0 2px;
+  background: #C9201C;
+  color: #FFFFFF;
+  font-weight: bold;
+  line-height: 1;
+  text-align: center;
+}
+
+#notice A { color: #FFFFFF; }
+#notice A:hover { color: #CBC9C9; }
+
+#notice-modal { display: none; }
+
 .md-header {
   border-top: 5px solid #C9201C;
   border-bottom: 3px solid #CBC9C9;
   background: #FFFFFF;
   padding-top: 5px;
+  position: relative;
 }
 
 .mobile-banner {
@@ -652,6 +667,26 @@ a.btn:hover { text-decoration: underline; }
   float: left;
   position: relative;
 }
+
+.banner H1 {
+  margin: 0;
+  padding: 16px 24px 16px 63px;
+  background: #C91D1B;
+  color: #FFFFFF;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 1em;
+  float: left;
+  position: relative;
+}
+
+.banner H1:before {
+  content: url(../images/logo-gray.png);
+  position: absolute;
+  top: 5px;
+  left: 12px;
+}
+
 
 .banner H2:before {
   content: url(../images/logo-gray.png);
