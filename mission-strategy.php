@@ -32,8 +32,8 @@ We achieve this through continually improving our:<br>
 </ul>
 <br>
 
-<img class="one-half-right" src="images/al-mejia.jpg" alt="Al Mejia">
-Al Mejia, CEO<br>
+<!-- <img class="one-half-right" src="images/al-mejia.jpg" alt="Al Mejia">
+Al Mejia, CEO<br> -->
 Bill Gasper, CFO &amp; CIO<br>
 Patrick Roddy, VP - Sales &amp; Marketing<br>
 Carol Nikolaus, VP - Technical Services<br>
