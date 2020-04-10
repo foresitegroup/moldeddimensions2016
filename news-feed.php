@@ -9,6 +9,25 @@ include "header.php";
 
 <h1>MD in the News</h1>
 
+<img class="one-fourth-right" src="images/ozaukee-press.png" alt="Ozaukee Press">
+<h2>Answering the plea for Covid-19 supplies</h2>
+<strong>By Dan Benson, Ozaukee Press | April 1, 2020</strong><br>
+<br>
+
+Local companies are filling the gap to meet the demand for personal protective equipment (PPE) that local hospitals, caregivers, first responders and others working with the public desperately need to protect themselves from the Covid-19 disease.<br>
+<br>
+
+"Essentially, the world is out of these kind of products," Tom Misgen, chief executive officer of Guy & O'Neill, a Fredonia company that makes sanitizing wipes, said Tuesday.<br>
+<br>
+
+<a href="https://www.jsonline.com/story/money/2020/02/20/wisconsin-manufacturers-try-turn-corner-trade-concerns-linger/4645478002/">Read More <i class="fa fa-angle-double-right" aria-hidden="true"></i></a><br>
+
+<br>
+<br>
+<hr>
+<br>
+<br>
+
 <img class="one-fourth-right" src="images/journal-sentinel.png" alt="Milwaukee Journal Sentinel">
 <h2>After a turbulent end to 2019, Wisconsin manufacturers are optimistic. Cautiously optimistic.</h2>
 <strong>By John Steppe, Milwaukee Journal Sentinel | February 20, 2020</strong><br>
