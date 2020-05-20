@@ -213,6 +213,17 @@ include "header.php";
   </ul>
 </div>
 
-<div class="one-half-right"><img src="images/al-mejia.jpg" alt="" style="max-width: 200px; height: auto;"></div>
+<div class="one-half-right"></div>
+
+<div class="clear-space"></div>
+
+<div class="one-half-left">
+  <h1 class="year">2020</h1>
+  <ul>
+    <li>Mike Katz named interim CEO</li>
+  </ul>
+</div>
+
+<div class="one-half-right"></div>
 
 <?php include "footer.php"; ?>

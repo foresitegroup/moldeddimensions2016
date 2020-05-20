@@ -34,10 +34,12 @@ We achieve this through continually improving our:<br>
 
 <!-- <img class="one-half-right" src="images/al-mejia.jpg" alt="Al Mejia">
 Al Mejia, CEO<br> -->
+Mike Katz, Interim CEO<br>
 Bill Gasper, CFO &amp; CIO<br>
 Patrick Roddy, VP - Sales &amp; Marketing<br>
 Carol Nikolaus, VP - Technical Services<br>
 Kevin Kuhagen, GlocalSource Business Manager<br>
-Tony Lukas, Chemist
+Tony Lukas, Chemist<br>
+Michelle Scholtus, HR Manager
 
 <?php include "footer.php"; ?>
