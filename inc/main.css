@@ -622,26 +622,25 @@ a.btn:hover { text-decoration: underline; }
 }
 
 .credibility ul {
-  display: -webkit-flex;
-  display: -moz-flex;
-  display: -ms-flex;
-  display: -o-flex;
   display: flex;
   justify-content: space-between;
-  -ms-align-items: center;
   align-items: center;
-  flex-wrap: wrap;
-  max-width: 920px;
-  margin: 0 auto !important;
-  padding: 0 20px !important;
+  /*flex-wrap: wrap;*/
+  margin: 0;
+  padding: 0;
   list-style: none;
 }
 
-.credibility ul li { flex: 0 0 45%; }
-
-@media only screen and (min-width: 667px) {
-  .credibility ul li { flex: 0 0 22%; }
+@media only screen and (max-width: 1040px) {
+  .credibility ul { flex-wrap: wrap; justify-content: center; }
+  .credibility ul li { padding: 0.5rem 1.5rem !important; }
 }
+
+/*.credibility ul li { flex: 0 0 45%; }*/
+
+/*@media only screen and (min-width: 667px) {
+  .credibility ul li { flex: 0 0 22%; }
+}*/
 
 .credibility ul li img {
   max-width: 100%;
