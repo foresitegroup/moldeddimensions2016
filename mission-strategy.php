@@ -39,7 +39,7 @@ Bill Gasper, CFO &amp; CIO<br>
 Patrick Roddy, VP - Sales &amp; Marketing<br>
 Carol Nikolaus, VP - Technical Services<br>
 Kevin Kuhagen, GlocalSource Business Manager<br>
-Tony Lukas, Chemist<br>
+Tony Lukas, Director of Technical Manufacturing Services<br>
 Michelle Scholtus, HR Manager
 
 <?php include "footer.php"; ?>
