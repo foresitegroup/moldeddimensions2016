@@ -221,6 +221,7 @@ include "header.php";
   <h1 class="year">2020</h1>
   <ul>
     <li>Mike Katz named interim CEO</li>
+    <li>Brian Sprinkman named CEO</li>
   </ul>
 </div>
 
