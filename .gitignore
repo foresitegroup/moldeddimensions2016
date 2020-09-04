@@ -3,7 +3,7 @@ blog/*
 blog/wp-content/*
 !blog/wp-content/themes/
 blog/wp-content/themes/*
-!blog/wp-content/themes/moldeddimensions
+!blog/wp-content/themes/moldeddimensions/
 blog/wp-content/themes/moldeddimensions/.DS_Store
 inc/swiftmailer/*
 inc/recaptchalib.php
