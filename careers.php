@@ -18,7 +18,7 @@ include "header.php";
   <br>
 
   <h3>Current Job Openings</h3>
-  <a href="careers-machine-operators.php" style="font-weight: bold;">Machine Operators 3rd Shift</a><br>
+  <a href="careers-machine-operators.php" style="font-weight: bold;">Machine Operators 1st, 2nd and 3rd Shift</a><br>
   <!-- No openings at this time.<br> -->
 
   <br>
