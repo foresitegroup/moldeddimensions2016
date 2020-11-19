@@ -66,6 +66,15 @@ function email($address, $name="") {
       })();
     </script>
     <!-- END Google Analytics -->
+
+    <!-- Global site tag (gtag.js) - Google Ads: 479502533 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-479502533"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'AW-479502533');
+    </script>
   </head>
   <body <?php if ($CurrentMenu == "m1") { echo ' class="page-home"'; } ?>>
 
