@@ -7,3 +7,4 @@ blog/wp-content/themes/*
 blog/wp-content/themes/moldeddimensions/.DS_Store
 inc/swiftmailer/*
 inc/recaptchalib.php
+inc/fintoozler.php

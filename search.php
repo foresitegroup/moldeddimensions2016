@@ -1,6 +1,6 @@
 <?php
-$PageTitle = ($_POST['search'] != "") ? "Search Results for \"" . $_POST['search'] . "\"" : "Search";
-$PlaceHolder = ($_POST['search'] != "") ? "Search Again" : "Search";
+$PageTitle = (!empty($_POST['search'])) ? "Search Results for \"" . $_POST['search'] . "\"" : "Search";
+$PlaceHolder = (!empty($_POST['search'])) ? "Search Again" : "Search";
 $CurrentMenu = "m7";
 include "header.php";
 ?>
@@ -8,7 +8,7 @@ include "header.php";
 <h1><?php echo $PlaceHolder; ?></h1>
 
 <?php
-if ($_POST['search'] != "") {
+if (!empty($_POST['search'])) {
   $dir = opendir(".");
   while (false != ($file = readdir($dir))) {
     if ((substr(strrchr($file, "."), 1) == "php") && ($file != "header.php") && ($file != "footer.php") && ($file != "menu.php") && ($file != "search.php")) {
@@ -17,6 +17,8 @@ if ($_POST['search'] != "") {
   }
   closedir($dir);
   natcasesort($files);
+
+  $TheResults = "";
   
   foreach ($files as $file) {
     $contents = file_get_contents($file);

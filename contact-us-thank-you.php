@@ -13,14 +13,15 @@ if (isset($_POST['submit']) || $_SERVER["QUERY_STRING"] == "dev") {
   <h1>Thank You</h1>
 
   <div class="two-third">
-  <?php
+    <?php
+    $SendTo = "sales@moldeddimensions.com";
+
     if (isset($_POST['submit']) && $_POST['confirmationCAP'] == "") {
-      require_once "inc/recaptchalib.php";
-      $response = null;
-      $reCaptcha = new ReCaptcha($RCkey);
-      if ($_POST["g-recaptcha-response"]) $response = $reCaptcha->verifyResponse($_SERVER["REMOTE_ADDR"], $_POST["g-recaptcha-response"]);
+      require_once "inc/fintoozler.php";
+      $response = file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret=".RECAPTCHA_SECRET_KEY."&response=".$_POST['g-recaptcha-response']);
+      $responsekeys = json_decode($response);
       
-      if ($response != null && $response->success) {
+      if ($response->success) {
         if (
               $_POST['department'] != "" &&
               $_POST[md5('name' . $_POST['ip'] . $salt . $_POST['timestamp'])] != "" &&
