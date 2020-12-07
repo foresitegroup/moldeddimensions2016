@@ -1,7 +1,14 @@
     </div>
-    
+
     <div class="md-sidebar">
       <?php include "menu.php"; ?>
+      <?php if ($CurrentMenu != "m7") : ?>
+        <div class="consult-cta">
+          <div class="title">Ready to consult with MD?</div>
+          <p>Call us at 262-284-9455 or fill out our contact form.</p>
+          <a href="/contact-us.php" class="btn">Contact Us</a>
+        </div>
+      <?php endif; ?>
     </div>
   </div>
 
@@ -32,7 +39,7 @@
       Oil resistant molded tube used on combustion engine.
     </div>
   </div>
-  
+
   <?php if ($CurrentMenu == "m1") { ?>
   <div class="site-width prefooter">
     <h2 class="foot-title"><a href="our-company.php">LEARN MORE <span>ABOUT MD</span></a></h2>
@@ -48,9 +55,23 @@
   <div class="md-footer">
     <div class="site-width">
       <div class="footer-left">
-        <h3>MOLDED DIMENSIONS, LLC Engineered Elastomer Solutions to Help You Win.</h3>
+
+        <div class="footer-top">
+          <div class="logo-slogan">
+            <a href="<?php echo $TopDir; ?>."><img src="<?php echo $TopDir; ?>images/logo.png?<?php if ($TopDir == "") echo filemtime('images/logo.png'); ?>" alt="Molded Dimensions" class="logo"></a>
+          </div>
+          <div class="address-social">
+            <div class="address-phone">701 Sunset Rd, Port Washington, WI 53074  <span class="phone">(262) 284-9455</span></div>
+            <div class="social">
+              <a href="https://www.facebook.com/pages/Molded-Dimensions/125505580874509"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+              <a href="https://www.linkedin.com/company/molded-dimensions"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+            </div>
+          </div>
+        </div>
 
         <div class="footer-menu"><?php include "menu.php"; ?></div>
+
+        <div class="copyright">Copyright &copy; <?php echo date("Y"); ?> Molded Dimensions, LLC <span>|</span> All Rights Reserved</div>
       </div>
 
       <div class="footer-right cf">
@@ -66,7 +87,7 @@
           <a href="<?php echo $TopDir; ?>rfq.php" class="rc-button">Submit RFQ</a>
           <a href="<?php echo $TopDir; ?>rmi.php" class="rc-button">Newsletter Signup</a>
         </div>
-        
+
         <div class="fr-right">
           <h4>DOWNLOAD</h4>
           <ul class="dl">
@@ -74,19 +95,6 @@
             <li><i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="<?php echo $TopDir; ?>pdf/ISO_certificate.pdf?<?php echo filemtime("pdf/ISO_certificate.pdf"); ?>">Certified ISO 9001:2015</a></li>
           </ul>
         </div>
-      </div>
-    </div>
-  </div>
-    
-  <div class="copyright">
-    <div class="site-width">
-      Copyright &copy; <?php echo date("Y"); ?> Molded Dimensions, LLC <span>|</span> All Rights Reserved <span class="midbreak">|</span> 701 Sunset Rd, Port Washington, WI 53074 <span>|</span> (262) 284-9455
-
-      <div class="social">
-        SOCIAL LINKS
-        <a href="https://www.facebook.com/pages/Molded-Dimensions/125505580874509"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-        <a href="https://www.linkedin.com/company/molded-dimensions"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-        <a href="<?php echo $TopDir; ?>blog"><i class="fa fa-wordpress" aria-hidden="true"></i></a>
       </div>
     </div>
   </div>
@@ -101,6 +109,11 @@
   </script>
   <noscript><img src="http://www.webtraxs.com/webtraxs.php?id=moldeddimensions&st=img" alt=""></noscript>
   <!-- END WebTrax -->
-    
+
+
+  
+
+
+
   </body>
 </html>

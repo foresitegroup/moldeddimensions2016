@@ -112,14 +112,8 @@ function email($address, $name="") {
       <div style="clear: both;"></div>
 
       <div class="logo-slogan">
-        <a href="<?php echo $TopDir; ?>."><img src="<?php echo $TopDir; ?>images/logo.png" alt="Molded Dimensions" id="logo"></a>
-
-        <div class="slogan">
-          <strong>MOLDED DIMENSIONS, LLC</strong>
-        </div>
+        <a href="<?php echo $TopDir; ?>."><img src="<?php echo $TopDir; ?>images/logo.png?<?php if ($TopDir == "") echo filemtime('images/logo.png'); ?>" alt="Molded Dimensions" class="logo"></a>
       </div>
-
-      <div style="clear: both;"></div>
 
       <input type="checkbox" id="show-menu" role="button">
       <label for="show-menu" id="menu-toggle"></label>
@@ -128,38 +122,23 @@ function email($address, $name="") {
   </div>
 
   <?php if ($CurrentMenu == "m1") { ?>
-
-  <div class="home-hero-static">
-    <div class="site-width">
-      <div class="cont">
-        <h1>Experienced Rubber and Cast Polyurethane Molders</h1>
-        <div class="text">
-          <p>Since 1954, we have been the service provider of choice for companies across a diverse selection of markets for their polyurethane and rubber molding needs.</p>
-          <a href="/capabilities.php" class="btn">What We Do</a>
+    <div class="home-hero-static">
+      <div class="site-width">
+        <div class="cont">
+          <h1>Experienced Rubber and Cast Polyurethane Molders</h1>
+          <div class="text">
+            <p>Since 1954, we have been the service provider of choice for companies across a diverse selection of markets for their polyurethane and rubber molding needs.</p>
+            <a href="/capabilities.php" class="btn">What We Do</a>
+          </div>
         </div>
       </div>
     </div>
-  </div>
-
   <?php } else { ?>
-  <div class="banner <?php echo $CurrentMenu; ?>">
-    <div class="site-width">
-
-      <h1><?php
-
-      if (isset($HeaderTitle)) {
-  echo $HeaderTitle;
-}
-
-else
-{
-  echo $PageTitle;
-}
-
-
-      ?></h1>
+    <div class="banner <?php echo $CurrentMenu; ?>">
+      <div class="site-width">
+        <h1><?php echo (isset($HeaderTitle)) ? $HeaderTitle : $PageTitle; ?></h1>
+      </div>
     </div>
-  </div>
   <?php } ?>
 
   <div class="site-width main-content<?php echo " $CurrentMenu"; if (!empty($FullWidth)) echo " full-width"; ?>">

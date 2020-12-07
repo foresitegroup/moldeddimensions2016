@@ -370,11 +370,7 @@ IMG.right {
   align-items: center;
 }
 
-#logo {
-  /* float: left; */
-  max-width: 54px;
-  margin-right: 20px;
-}
+.logo { height: 64px; width: auto; }
 
 .slogan {
   max-width: 310px;
@@ -937,10 +933,7 @@ a.btn:hover { text-decoration: underline; }
 
 .md-footer .footer-top .logo-slogan { margin-bottom: 25px; }
 
-.md-footer .footer-top .logo-slogan #logo {
-  max-width: 48px;
-  height: auto;
-}
+.md-footer .footer-top .logo-slogan .logo { height: 57px; width: auto; }
 
 .md-footer .footer-top .logo-slogan .slogan { max-width: 100%; }
 
@@ -1496,7 +1489,7 @@ H1.year {
     margin-bottom: 10px;
   }
 
-  #logo {
+  .logo {
     height: 81px;
     width: auto;
     margin-right: 25px;
@@ -1637,7 +1630,7 @@ H1.year {
     margin: 0;
   }
 
-  #logo {
+  .logo {
     margin-top: 15px;
     height: 109px;
   }
@@ -1839,7 +1832,7 @@ H1.year {
     color: #e21a1b;
   }
 
-  #logo {
+  .logo {
     height: 75px;
     margin-right: 15px;
   }
@@ -1897,7 +1890,7 @@ H1.year {
     font-size: 25px;
   }
 
-  #logo {
+  .logo {
     height: 65px;
     margin-right: 15px;
   }
