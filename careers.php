@@ -18,6 +18,9 @@ include "header.php";
   <br>
 
   <h3>Current Job Openings</h3>
+  <a href="careers-vp-of-operations.php" style="font-weight: bold;">Vice President of Operations</a><br>
+  <br>
+  
   <a href="careers-machine-operators.php" style="font-weight: bold;">Machine Operators 1st, 2nd and 3rd Shift</a><br>
   <!-- No openings at this time.<br> -->
 
