@@ -10,9 +10,13 @@
 
 <article id="post-<?php the_ID(); ?>" <?php post_class('cf'); ?>>
 	<header class="entry-header<?php if ( is_single() ) : echo " blog-single"; endif; ?>">
-		<?php the_title( sprintf( '<h2 class="entry-title"><a href="%s" rel="bookmark">', esc_url( get_permalink() ) ), '</a></h2>' ); ?>
+		<?php
+		the_title( sprintf( '<h2 class="entry-title"><a href="%s" rel="bookmark">', esc_url( get_permalink() ) ), '</a></h2>' );
 
-		<em style="font-size: 90%;">Posted on <?php echo get_the_date(); ?> by <?php echo get_the_author(); ?></em>
+		if (isset($post->newsblog_subtitle)) echo "<em>".$post->newsblog_subtitle."</em><br>\n";
+		?>
+
+		<strong style="font-size: 90%;"><?php echo get_the_date(); ?></strong>
 	</header>
 
 	<div class="entry-content">

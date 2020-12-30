@@ -13,8 +13,11 @@ $TopDir = substr( home_url(), 0, strrpos( home_url(), '/')+1);
 
 $CurrentMenu = "m5";
 
-if ( !is_single() ) :
+if (!is_single()) :
   $PageTitle = "Blog";
+  $categories = get_the_category();
+  if (!empty($categories) && $categories[0]->slug == "news") $PageTitle = "News Feed";
+  
   $Description = "";
   $Keywords = "";
 else :

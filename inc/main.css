@@ -234,12 +234,14 @@ IMG.one-fourth-left,
 IMG.one-half-left,
 IMG.two-thirds-left {
   margin-right: 1%;
+  height: auto;
 }
 
 IMG.one-fourth-right,
 IMG.one-half-right,
 IMG.two-thirds-right {
   margin-left: 1%;
+  height: auto;
 }
 
 IMG.right {
@@ -834,6 +836,44 @@ a.btn:hover { text-decoration: underline; }
   background: #EEEEEE;
   color: #777777;
 }
+
+#home-news { display: flex; justify-content: space-between; }
+
+#home-news A {
+  border-top: 12px solid #C91D1B;
+  box-sizing: border-box;
+  width: 20%;
+  padding: 11px 17px 14px;
+  background: #FFFFFF;
+  color: #707070;
+  font-size: 12px;
+  line-height: 1.2;
+  text-decoration: none;
+  box-shadow: 0 3px 10px 0 rgba(0,0,0,0.25);
+  transition: all 0.2s;
+}
+
+#home-news A H3, #home-news A H4, #home-news A H5, #home-news A H6 {
+  margin: 0; color: #343435; font-weight: 400; line-height: 1.2;
+}
+
+#home-news A H6 { color: #D4D0D0; font-size: 108%; }
+#home-news A H3 { margin: 0.5em 0 1em; color: #C91D1B; font-size: 150%; }
+#home-news A H4 { margin: 0 0 0.25em; font-size: 108%; }
+#home-news A H5 { font-size: 84%; }
+
+#home-news A .line { margin: 2em 0 0.75em; width: 58px; height: 4px; background: #D4D0D0; }
+
+#home-news A:hover {
+  transform: translateY(-12px);
+  border-top-color: #FFFFFF;
+  background: #C91D1B;
+  color: #FFFFFF;
+}
+
+#home-news A:hover H3 { color: #FFFFFF; }
+#home-news A:hover H4, #home-news A:hover H5, #home-news A:hover H6 { color: #94201D; }
+#home-news A:hover .line { background: #94201D; }
 
 .prefooter {
   padding-bottom: 50px;
@@ -1479,6 +1519,10 @@ H1.year {
   }
 }
 
+@media only screen and (max-width: 1180px) {
+  #home-news A { width: 22%; }
+}
+
 @media only screen and (max-width: 915px) {
   .menu UL LI.m1 { display: none; }
 }
@@ -1557,6 +1601,9 @@ H1.year {
   .home-boxes .home-box H2 {
     font-size: 17px;
   }
+
+  #home-news { flex-wrap: wrap; }
+  #home-news A { margin-bottom: 2em; width: 48%; font-size: 16px; }
 }
 
 @media only screen and (max-width: 700px) {
@@ -1809,6 +1856,8 @@ H1.year {
     width: 100%;
     margin: 0 0 1.5em 0;
   }
+
+  #home-news A { width: 100%; }
 }
 
 @media only screen and (max-width: 480px) {

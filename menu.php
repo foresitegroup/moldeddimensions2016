@@ -34,8 +34,8 @@
       <li><a href="<?php echo $TopDir; ?>certifications-awards.php">Certifications &amp; Awards</a></li>
       <li><a href="<?php echo $TopDir; ?>community.php">Community</a></li>
       <li><a href="<?php echo $TopDir; ?>industries-served.php">Industries Served</a></li>
-      <li><a href="<?php echo $TopDir; ?>news-feed.php">News</a></li>
-      <li><a href="<?php echo $TopDir; ?>blog/">Blog</a></li>
+      <li><a href="<?php echo $TopDir; ?>blog/category/news/">News</a></li>
+      <li><a href="<?php echo $TopDir; ?>blog/category/blog/">Blog</a></li>
     </ul>
   </li>
   <li class="m7">

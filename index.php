@@ -61,16 +61,44 @@ include "header.php";
 <div class="site-width">
   <div class="md-content">
     <p>&nbsp;</p>
-    <h2>
-    The MD Difference
-  </h2>
-  <p>We stand out among cast polyurethane and molded rubber product manufacturers because of the service-oriented approach we take with every project. We know when clients are looking for a manufacturer they can trust, they want to find a true partner who will stand by them through the entire new product design and introduction cycle. We work closely with our customers to develop better products, meet project milestones, and offer the best possible results. </p>
+    <h2>The MD Difference</h2>
+    <p>We stand out among cast polyurethane and molded rubber product manufacturers because of the service-oriented approach we take with every project. We know when clients are looking for a manufacturer they can trust, they want to find a true partner who will stand by them through the entire new product design and introduction cycle. We work closely with our customers to develop better products, meet project milestones, and offer the best possible results. </p>
 
-  <p>Since 1954, we’ve been the service provider of choice for companies across a diverse cross-section of markets. Our services as a custom rubber and cast polyurethane molding company have been called upon by the mining, food processing, material handling, small engine, industrial, and defense sectors – as well as many others. But that’s only part of the story. The knowledge and experience gained from the wide variety of projects cross-pollinates, benefiting future projects. Our diverse skills and technological advantages deliver peace of mind to your project, whatever your product needs may be.</p>
+    <p>Since 1954, we’ve been the service provider of choice for companies across a diverse cross-section of markets. Our services as a custom rubber and cast polyurethane molding company have been called upon by the mining, food processing, material handling, small engine, industrial, and defense sectors – as well as many others. But that’s only part of the story. The knowledge and experience gained from the wide variety of projects cross-pollinates, benefiting future projects. Our diverse skills and technological advantages deliver peace of mind to your project, whatever your product needs may be.</p>
 
-  <p>We understand that without the right people, a commitment to quality is nothing more than words on paper. That’s why at the foundation of everything we do is our goal to make Molded Dimensions a place where great people choose to work. Our people strive to do their best every day because they enjoy working here. We know that satisfied employees provide exceptional service and quality products with on-time delivery, which leads directly to satisfied clients. </p>
-
+    <p>We understand that without the right people, a commitment to quality is nothing more than words on paper. That’s why at the foundation of everything we do is our goal to make Molded Dimensions a place where great people choose to work. Our people strive to do their best every day because they enjoy working here. We know that satisfied employees provide exceptional service and quality products with on-time delivery, which leads directly to satisfied clients.</p>
   </div>
+
+  <br><br>
+
+  <h2 class="foot-title"><a href="<?php echo $TopDir; ?>blog/category/blog/">NEWS <span>ABOUT MD</span></a></h2>
+  <div id="home-news">
+    <?php
+    require('blog/wp-load.php');
+
+    function NewsBox($post, $cat) {
+      $TheLink = (isset($post->newsblog_link)) ? $post->newsblog_link : get_the_permalink();
+      echo '<a href="'.$TheLink.'">'."\n";
+        echo "<h6>".$cat."</h6>\n";
+        the_title("<h3>","</h3>");
+        echo fg_excerpt(28, "...");
+        echo '<div class="line"></div>'."\n";
+        if (isset($post->newsblog_byline)) echo "<h4>By ".$post->newsblog_byline."</h4>\n";
+        echo "<h5>".get_the_date()."</h5>\n";
+      echo "</a>\n";
+    }
+
+    query_posts('showposts=3&cat=223');
+    while (have_posts()): the_post();
+      NewsBox($post, "News");
+    endwhile;
+
+    query_posts('showposts=1&cat=222');
+    while (have_posts()): the_post();
+      NewsBox($post, "Blog");
+    endwhile;
+    ?>
+  </div> <!-- /#home-news -->
 </div>
 
 <script type="application/ld+json">
