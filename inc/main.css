@@ -1278,6 +1278,11 @@ a.btn:hover { text-decoration: underline; }
   margin: 0.2em 0 1em 2em;
 }
 
+.entry-content .wp-caption.alignleft,
+.entry-content .wp-caption.alignright { width: 40% !important; }
+
+.entry-content .wp-caption-text { margin: 0; font-size: 80%; line-height: 1.2; }
+
 .entry-content IMG.alignleft, .entry-content IMG.alignright { width: 50%; height: auto; }
 
 .md-content .entry-content UL, .md-content .entry-content OL {
@@ -1290,6 +1295,8 @@ a.btn:hover { text-decoration: underline; }
 .md-content .entry-content OL LI {
   padding: 0 0 5px 0;
 }
+
+.entry-footer:before { content: ""; display: table; clear: both; }
 
 .navigation {
   margin-top: 3em;
