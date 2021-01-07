@@ -10,6 +10,9 @@ if (isset($_POST['submit']) || $_SERVER["QUERY_STRING"] == "dev") {
   $salt = "ForesiteGroupMoldedDimensions";
   ?>
 
+  <!-- Event snippet for Request for Information conversion page -->
+  <script>gtag('event', 'conversion', {'send_to': 'AW-479502533/lQGhCLvk9e8BEMXB0uQB'});</script>
+
   <h1>Thank You</h1>
 
   <div class="two-third">
