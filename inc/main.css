@@ -1760,7 +1760,7 @@ H1.year {
     content: "";
   }
 
-  /* .menu UL LI A:link,
+  .menu UL LI A:link,
   .menu UL LI A:visited {
     color: #B9B9B9;
     width: 100%;
@@ -1768,7 +1768,9 @@ H1.year {
     padding: 13px 12px;
     display: block;
     border-top: 1px solid #353535;
-  } */
+  }
+
+  .menu UL LI A:link::before, .menu UL LI A:visited::before { content: ""; }
 
   .menu UL LI A:hover,
   .menu UL LI A:active,
