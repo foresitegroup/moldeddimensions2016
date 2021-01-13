@@ -88,12 +88,12 @@ include "header.php";
       echo "</a>\n";
     }
 
-    query_posts('showposts=3&cat=223');
+    query_posts('showposts=1&cat=223');
     while (have_posts()): the_post();
       NewsBox($post, "News");
     endwhile;
 
-    query_posts('showposts=1&cat=222');
+    query_posts('showposts=3&cat=222');
     while (have_posts()): the_post();
       NewsBox($post, "Blog");
     endwhile;
