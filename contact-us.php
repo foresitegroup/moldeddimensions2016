@@ -11,12 +11,11 @@ $timestamp = time();
 $salt = "ForesiteGroupMoldedDimensions";
 ?>
 
-<h1>Need More Info?</h1>
+<h1>How Can We Help You?</h1>
 
 <div class="two-third">
   <script type="text/javascript">
     function checkform (form) {
-      if (document.getElementById('department').value == "") { alert('Department required.'); document.getElementById('department').focus(); return false ; }
       if (document.getElementById('name').value == "") { alert('Name required.'); document.getElementById('name').focus(); return false ; }
       if (document.getElementById('email').value == "") { alert('Email required.'); document.getElementById('email').focus(); return false ; }
       if (document.getElementById('phone').value == "") { alert('Phone required.'); document.getElementById('phone').focus(); return false ; }
@@ -24,19 +23,17 @@ $salt = "ForesiteGroupMoldedDimensions";
     }
   </script>
 
-  <form action="contact-us-thank-you.php" method="POST" onSubmit="return checkform(this)" id="contact">
+  <form action="contact-us-thank-you.php" method="POST" enctype="multipart/form-data" onSubmit="return checkform(this)" id="contact">
     <div>
-      Please fill in your request for contact. Remember to select the department you wish to contact.<br>
+      Please fill in your request for contact.<br>
       <br>
       
-      <label for="department">Department <span>*</span></label><br>
-      <select name="department" id="department">
-        <option value="">Please select one...</option>
-        <option value="General Inquiries">General Inquiries</option>
-        <option value="Sales Department">Sales Department</option>
-        <option value="Human Resources">Human Resources</option>
-      </select><br>
-      <br>
+      Subject of Request<br>
+      <label><input type="radio" name="subject" value="Molded Rubber Parts"> Molded Rubber Parts</label> &nbsp; 
+      <label><input type="radio" name="subject" value="Cast Polyurethane Parts"> Cast Polyurethane Parts</label><br>
+      <label><input type="radio" name="subject" value="Other"> Other: <input type="text" name="<?php echo md5("subject_other" . $ip . $salt . $timestamp); ?>" class="other"></label>
+
+      <br><br>
 
       Best to contact me by &nbsp; 
       <input type="radio" name="contact" value="Email" id="email-r"> <label for="email-r">Email</label> &nbsp; 
@@ -59,6 +56,38 @@ $salt = "ForesiteGroupMoldedDimensions";
       <input type="text" name="<?php echo md5("phone" . $ip . $salt . $timestamp); ?>" id="phone"><br>
       <br>
 
+      What Service Can We Supply?<br>
+      <label><input type="radio" name="service" value="Request Information"> Request Information</label> &nbsp; 
+      <label><input type="radio" name="service" value="Request a Quote"> Request a Quote</label><br>
+      <label><input type="radio" name="service" value="Other"> Other: <input type="text" name="<?php echo md5("service_other" . $ip . $salt . $timestamp); ?>" class="other"></label>
+
+      <br><br>
+
+      If requesting a quote, please provide your Part Drawing (suggested file format: PDF) &amp; Solid Model File (suggested file format: .x_t, .iges, .step)<br>
+
+      <div class="upload">
+        <input type="file" name="file1">
+        <button>Select File</button>
+      </div><br>
+      <div class="upload">
+        <input type="file" name="file2">
+        <button>Select File</button>
+      </div><br>
+      <div class="upload">
+        <input type="file" name="file3">
+        <button>Select File</button>
+      </div><br>
+      <div class="upload">
+        <input type="file" name="file4">
+        <button>Select File</button>
+      </div><br>
+      <div class="upload">
+        <input type="file" name="file5">
+        <button>Select File</button>
+      </div><br>
+
+      <br>
+
       <label for="comments">Comments</label><br>
       <textarea name="<?php echo md5("comments" . $ip . $salt . $timestamp); ?>" id="comments"></textarea><br>
       <br>
@@ -75,25 +104,25 @@ $salt = "ForesiteGroupMoldedDimensions";
       <input type="submit" name="submit" value="Submit">
     </div>
   </form>
+
+  <script type="text/javascript">
+    $(document).ready(function(){
+      $('input[name^="file"]').change(function() {
+        var output = $(this).val().split('\\').pop();
+        $(this).parent().after('<span>'+output+'</span>');
+      });
+    });
+  </script>
 </div>
 
 <div class="one-third last">
-  Please feel free to call us directly at 262-284-9455 or email us at <?php email("sales@moldeddimensions.com"); ?>.<br>
+  Please feel free to call us directly at <strong style="color: #C91D1B;">262-284-9455</strong> or email us at <?php email("sales@moldeddimensions.com"); ?>.<br>
   <br>
 
   <h2>Mailing Address</h2>
   <strong>MOLDED DIMENSIONS LLC</strong><br>
   701 Sunset Road, PO Box 364<br>
-  Port Washington WI 53074<br>
-  <br>
-
-  Main Phone: 262-284-9455<br>
-  Main Fax: 262-284-0696<br>
-  <br>
-
-  Engineering Fax: 262-284-9517<br>
-  Urethane Fax: 262-284-9456<br>
-  HR Fax: 262-284-9517
+  Port Washington WI 53074
 </div>
 
 <?php include "footer.php"; ?>

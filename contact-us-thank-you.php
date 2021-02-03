@@ -17,16 +17,13 @@ if (isset($_POST['submit']) || $_SERVER["QUERY_STRING"] == "dev") {
 
   <div class="two-third">
     <?php
-    $SendTo = "sales@moldeddimensions.com";
-
     if (isset($_POST['submit']) && $_POST['confirmationCAP'] == "") {
       require_once "inc/fintoozler.php";
       $response = file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret=".RECAPTCHA_SECRET_KEY."&response=".$_POST['g-recaptcha-response']);
       $responsekeys = json_decode($response);
       
-      if ($response->success) {
+      if ($responsekeys->success) {
         if (
-              $_POST['department'] != "" &&
               $_POST[md5('name' . $_POST['ip'] . $salt . $_POST['timestamp'])] != "" &&
               $_POST[md5('email' . $_POST['ip'] . $salt . $_POST['timestamp'])] != "" &&
               $_POST[md5('phone' . $_POST['ip'] . $salt . $_POST['timestamp'])] != ""
@@ -34,7 +31,7 @@ if (isset($_POST['submit']) || $_SERVER["QUERY_STRING"] == "dev") {
           // All required fields have been filled, so construct the message
           $Message = "";
 
-          $Message .= "Department: " . $_POST['department'] . "\n\n";
+          if (!empty($_POST['contact'])) $Message .= "Best to contact me by " . $_POST['contact'] . "\n\n";
 
           $Message .= "Name: " . $_POST[md5('name' . $_POST['ip'] . $salt . $_POST['timestamp'])] . "\n";
 
@@ -47,19 +44,42 @@ if (isset($_POST['submit']) || $_SERVER["QUERY_STRING"] == "dev") {
 
           $Message .= "\n";
 
+          if (!empty($_POST['service'])) $Message .= "What Service Can We Supply?\n" . $_POST['service'];
+          if ((!empty($_POST['service'])) && ($_POST['service'] == "Other") && (!empty($_POST[md5("service_other" . $_POST['ip'] . $salt . $_POST['timestamp'])]))) $Message .= " - ".$_POST[md5('service_other' . $_POST['ip'] . $salt . $_POST['timestamp'])];
+          if (!empty($_POST['service'])) $Message .= "\n\n";
+
           if (!empty($_POST[md5('comments' . $_POST['ip'] . $salt . $_POST['timestamp'])]))
             $Message .= "Comments:\n" . $_POST[md5('comments' . $_POST['ip'] . $salt . $_POST['timestamp'])] . "\n\n";
 
           $Message = stripslashes($Message);
-
+          
           $Subject = "Contact From Molded Dimensions Website";
-          $SendTo = ($_POST['department'] == "Human Resources") ? "hr@moldeddimensions.com" : "sales@moldeddimensions.com";
-          $Headers = "From: Contact Form <contactform@moldeddimensions.com>\r\n";
-          $Headers .= "Reply-To: " . $_POST[md5('email' . $_POST['ip'] . $salt . $_POST['timestamp'])] . "\r\n";
-          $Headers .= "Cc: prudolf@moldeddimensions.com\r\n";
-          $Headers .= "Bcc: foresitegroupllc@gmail.com\r\n";
+          if (!empty($_POST['subject'])) $Subject = $_POST['subject'];
+          if ((!empty($_POST['subject'])) && ($_POST['subject'] == "Other") && (!empty($_POST[md5("subject_other" . $_POST['ip'] . $salt . $_POST['timestamp'])]))) $Subject .= " - ".$_POST[md5('subject_other' . $_POST['ip'] . $salt . $_POST['timestamp'])];
 
-          mail($SendTo, $Subject, $Message, $Headers);
+          require_once "inc/swiftmailer/swift_required.php";
+
+          $sm = Swift_Message::newInstance();
+          $sm->setTo(array("sales@moldeddimensions.com","prudolf@moldeddimensions.com"));
+          $sm->setBcc(array("foresitegroupllc@gmail.com"));
+          $sm->setFrom(array("donotreply@foresitegrp.com" => "Contact Form"));
+          $sm->setReplyTo($_POST[md5('email' . $_POST['ip'] . $salt . $_POST['timestamp'])]);
+          $sm->setSubject($Subject);
+
+          if ($_FILES['file1']['tmp_name'] != "") $sm->attach(Swift_Attachment::fromPath($_FILES['file1']['tmp_name'])->setFilename($_FILES['file1']['name']));
+          if ($_FILES['file2']['tmp_name'] != "") $sm->attach(Swift_Attachment::fromPath($_FILES['file2']['tmp_name'])->setFilename($_FILES['file2']['name']));
+          if ($_FILES['file3']['tmp_name'] != "") $sm->attach(Swift_Attachment::fromPath($_FILES['file3']['tmp_name'])->setFilename($_FILES['file3']['name']));
+          if ($_FILES['file4']['tmp_name'] != "") $sm->attach(Swift_Attachment::fromPath($_FILES['file4']['tmp_name'])->setFilename($_FILES['file4']['name']));
+          if ($_FILES['file5']['tmp_name'] != "") $sm->attach(Swift_Attachment::fromPath($_FILES['file5']['tmp_name'])->setFilename($_FILES['file5']['name']));
+
+          $sm->setBody($Message);
+
+          // Create the Transport and Mailer
+          $transport = Swift_MailTransport::newInstance();
+          $mailer = Swift_Mailer::newInstance($transport);
+          
+          // Send it!
+          $result = $mailer->send($sm);
 
           echo "Thank you for your interest in Molded Dimensions. Someone will contact you soon!";
         } else {
@@ -73,22 +93,13 @@ if (isset($_POST['submit']) || $_SERVER["QUERY_STRING"] == "dev") {
   </div>
 
   <div class="one-third last">
-    Please feel free to call us directly at 262-284-9455 or email us at <?php email($SendTo); ?>.<br>
+    Please feel free to call us directly at <strong style="color: #C91D1B;">262-284-9455</strong> or email us at <?php email("sales@moldeddimensions.com"); ?>.<br>
     <br>
 
     <h2>Mailing Address</h2>
     <strong>MOLDED DIMENSIONS LLC</strong><br>
     701 Sunset Road, PO Box 364<br>
-    Port Washington WI 53074<br>
-    <br>
-
-    Main Phone: 262-284-9455<br>
-    Main Fax: 262-284-0696<br>
-    <br>
-
-    Engineering Fax: 262-284-9517<br>
-    Urethane Fax: 262-284-9456<br>
-    HR Fax: 262-284-9517
+    Port Washington WI 53074
   </div>
 
   <?php

@@ -84,8 +84,6 @@
           </form>
 
           <a href="<?php echo $TopDir; ?>contact-us.php" class="rc-button">Email Us</a>
-          <a href="<?php echo $TopDir; ?>rfq.php" class="rc-button">Submit RFQ</a>
-          <a href="<?php echo $TopDir; ?>rmi.php" class="rc-button">Newsletter Signup</a>
         </div>
 
         <div class="fr-right">

@@ -1,4 +1,4 @@
-<ul class="cf">
+<ul>
   <li class="m3">
     <a href="<?php echo $TopDir; ?>capabilities.php">Capabilities</a>
     <ul>
@@ -43,8 +43,7 @@
     <ul>
       <li><a href="<?php echo $TopDir; ?>careers.php">Careers</a></li>
       <li><a href="<?php echo $TopDir; ?>directions.php">Directions</a></li>
-      <li><a href="<?php echo $TopDir; ?>rfq.php">RFQ</a></li>
-      <li><a href="<?php echo $TopDir; ?>rmi.php">RMI</a></li>
     </ul>
   </li>
-<ul>
+  <li class="raq"><a href="<?php echo $TopDir; ?>/contact-us.php">Request a Quote</a></li>
+</ul>
