@@ -18,9 +18,6 @@ include "header.php";
   <br>
 
   <h3>Current Job Openings</h3>
-  <a href="careers-talent-acquisition-and-retention-specialist.php" style="font-weight: bold;">Talent Acquisition & Retention Specialist</a><br>
-  <br>
-  
   <a href="careers-engineering-project-manager.php" style="font-weight: bold;">Engineering Project Manager</a><br>
   <br>
 
