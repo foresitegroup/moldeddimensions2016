@@ -1253,6 +1253,8 @@ a.btn:hover { text-decoration: underline; }
 .entry-content .wp-caption.alignleft,
 .entry-content .wp-caption.alignright { width: 40% !important; }
 
+.entry-content .wp-caption.alignnone { width: 100% !important; }
+
 .entry-content .wp-caption-text { margin: 0; font-size: 80%; line-height: 1.2; }
 
 .entry-content IMG.alignleft, .entry-content IMG.alignright { width: 50%; height: auto; }
