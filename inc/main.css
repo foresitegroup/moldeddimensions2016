@@ -56,7 +56,9 @@ H3 {
 
 INPUT[type="text"],
 INPUT[type="email"],
+INPUT[type="tel"],
 INPUT[type="password"],
+INPUT[type="number"],
 TEXTAREA {
   border: 1px solid #CCCCCC;
   box-sizing: border-box;
@@ -1487,6 +1489,214 @@ H1.year {
 
 .upload + SPAN { display: inline-block; padding-left: 0.5em; transform: translateY(25%); }
 
+
+/* ONLINE APPLICATION */
+#onlineapp .hidden { display: none; }
+
+#onlineapp .nav { text-align: center; text-transform: uppercase; }
+
+#onlineapp .pager { display: flex; justify-content: center; }
+
+#onlineapp .pager SPAN,
+#onlineapp .pager A {
+  margin: 0 0.4em;
+  height: 0.8em;
+  width: 0.8em;
+  border-radius: 50%;
+  background: #FFFFFF;
+}
+
+#onlineapp .pager A { background: #FFC4CC; }
+
+#onlineapp .pager SPAN.active,
+#onlineapp .pager A.active { background: #C91D1B; }
+
+#onlineapp .submit,
+#onlineapp INPUT[type="submit"] {
+  display: inline-block;
+  min-width: 300px;
+  box-sizing: border-box;
+  margin: 1em 0;
+  padding: 0.6em 1em;
+  background: #C91D1B;
+  color: #FFFFFF;
+  font-size: 125%;
+  line-height: 1;
+  text-decoration: none;
+  cursor: pointer;
+  border: 0;
+  text-transform: uppercase;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+#onlineapp .pager A:hover,
+#onlineapp INPUT[type="submit"]:hover,
+#onlineapp .submit:hover { background: #AAAAAA; }
+
+#onlineapp .upload BUTTON { text-transform: uppercase; padding: 0.8em 3em; }
+#onlineapp .upload BUTTON SPAN { font-size: 60%; line-height: 1; }
+
+#onlineapp LABEL { display: block; text-transform: uppercase; padding-bottom: 2em; }
+
+#onlineapp INPUT[type="text"],
+#onlineapp INPUT[type="tel"],
+#onlineapp INPUT[type="email"],
+TEXTAREA,
+SELECT {
+  border: 0;
+  padding: 0.5em 0.4em;
+  font-size: 16px;
+  line-height: 1em;
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+#onlineapp INPUT[type="radio"] { display: none; }
+
+#onlineapp INPUT[type="radio"] + LABEL {
+  display: inline-block;
+  width: auto;
+  padding-left: 22px;
+  line-height: 1;
+  position: relative;
+}
+
+#onlineapp INPUT[type="radio"] + LABEL:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  border: 2px solid #C91D1B;
+  border-radius: 50%;
+  width: 13px;
+  height: 13px;
+  cursor: pointer;
+}
+
+#onlineapp INPUT[type="radio"]:checked + LABEL:after {
+  content: "";
+  position: absolute;
+  left: 4px;
+  top: 50%;
+  transform: translateY(-50%);
+  border-radius: 50%;
+  background: #C91D1B;
+  width: 9px;
+  height: 9px;
+}
+
+SELECT {
+  cursor: pointer;
+  padding: 0 2.5em 0 0.4em;
+  background: #FFFFFF url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%23C91D1B' d='M0 7.33l2.829-2.83 9.175 9.339 9.167-9.339 2.829 2.83-11.996 12.17z'/%3E%3C/svg%3E") no-repeat right 0.5em center;
+  background-size: auto 60%;
+  height:  36px;
+}
+
+#onlineapp INPUT.alert, #onlineapp TEXTAREA.alert { outline: 1px solid #C91D1B; }
+#onlineapp INPUT.alert:-ms-input-placeholder { color: #C91D1B; } /* IE11 */
+#onlineapp TEXTAREA.alert:-ms-input-placeholder { color: #C91D1B; } /* IE11 */
+#onlineapp INPUT.alert::placeholder, #onlineapp TEXTAREA.alert::placeholder { color: #C91D1B; opacity: 1; }
+#onlineapp INPUT.alert:focus::placeholder, #onlineapp TEXTAREA.alert:focus::placeholder { color: transparent; }
+
+#onlineapp .flex { display: flex; justify-content: space-between; }
+#onlineapp .flex4 { flex-wrap: wrap; }
+
+#onlineapp .flex LABEL { width: 100%; }
+#onlineapp .flex4 LABEL { width: 23.5%; }
+
+#onlineapp .radio { text-transform: uppercase; margin-bottom: 2em; }
+
+#onlineapp .radio LABEL { padding-bottom: 0; }
+
+#onlineapp .radio.alert {
+  outline: 1px solid #C91D1B;
+  padding: 0.5em;
+  color: #C91D1B;
+  font-weight: bold;
+}
+
+#onlineapp .radio.alert LABEL { color: #343435; font-weight: normal; }
+
+#onlineapp .radio .note {
+  min-height: 1em;
+  padding-bottom: 0.8em;
+  color: #C91D1B;
+  font-size: 60%;
+  line-height: 1;
+}
+
+#onlineapp #firstname { width: 45%; }
+#onlineapp #lastname { width: 45%; }
+#onlineapp #middlei { width: 6%; }
+
+#onlineapp #address { width: 38%; }
+#onlineapp #city { width: 38%; }
+#onlineapp #state { width: 6%; }
+#onlineapp #zip { width: 12%; }
+
+#onlineapp #phone, #onlineapp #email { width: 32%; }
+#onlineapp #age { width: 30%; box-sizing: border-box; padding-left: 2%; }
+
+#onlineapp #time { width: 25%; }
+#onlineapp #salary { width: 24%; }
+#onlineapp #position { width: 32%; }
+#onlineapp #shift { width: 12%; }
+
+#onlineapp #authorized { width: 59%; }
+
+#onlineapp #felony, #onlineapp #pending { width: 25%; }
+#onlineapp #felonyexplain, #onlineapp #pendingexplain { width: 72%; }
+
+#onlineapp #worked { width: 40%; }
+#onlineapp #workedwhen { width: 57%; }
+
+#onlineapp #referred SELECT { width: auto; }
+
+#onlineapp .flex .school, #onlineapp .flex .address, #onlineapp .flex .degree { width: 35%; }
+#onlineapp .flex .from, #onlineapp .flex .to { width: 12%; }
+#onlineapp .flex .graduate { width: 63%; }
+
+#onlineapp .flex .empcompany, #onlineapp .flex .empphone, #onlineapp .flex .empsupervisor { width: 32%; }
+#onlineapp .flex .empaddress { width: 43%; }
+#onlineapp .flex .emptitle { width: 33%; }
+#onlineapp .flex .empfrom, #onlineapp .flex .empto { width: 9%; }
+#onlineapp .flex .empcontact { width: 29%; }
+#onlineapp .flex .empsalary { width: 18%; }
+#onlineapp .flex .empleaving { width: 29%; }
+
+#onlineapp .flex .half { width: 49%; }
+#onlineapp .flex .aasex { width: 16%; }
+#onlineapp .flex .aarace { width: 79%; }
+#onlineapp .flex .aarace LABEL { margin: 0 2em 0.5em 0; }
+
+#onlineapp .aareferred LABEL { margin: 0 2em 0.5em 0; }
+
+#onlineapp .aareferred .flex { justify-content: flex-start; }
+#onlineapp .aareferred .flex > DIV { width: 32%; margin-right: 2%; }
+
+A.careers-button {
+  display: block;
+  width:  100%;
+  margin: 0.5em 0;
+  padding: 0.75em 0.5em;
+  box-sizing: border-box;
+  background: #C91D1B;
+  color: #FFFFFF;
+  font-size: 150%;
+  line-height: 1;
+  text-decoration: none;
+  text-align: center;
+}
+
+A.careers-button:hover { background: #AAAAAA; }
+
+
+
+
 @media only screen and (min-width: 1180px) {
   /* Wide screen */
   .site-width {
@@ -1543,6 +1753,21 @@ H1.year {
 
 @media only screen and (max-width: 1140px) {
   .menu UL LI A { padding-left: 25px; padding-right: 25px; }
+}
+
+@media only screen and (max-width: 1000px) {
+  #onlineapp #address { width: 37%; }
+  #onlineapp #city { width: 37%; }
+  #onlineapp #state { width: 8%; }
+
+  #onlineapp #position { width: 28%; }
+  #onlineapp #shift { width: 16%; }
+
+  #onlineapp #citizen { width: 48%; }
+  #onlineapp #authorized { width: 52%; }
+
+  #onlineapp #felony, #onlineapp #pending { width: 40%; }
+  #onlineapp #felonyexplain, #onlineapp #pendingexplain { width: 57%; }
 }
 
 @media only screen and (max-width: 960px) {
@@ -1725,6 +1950,30 @@ H1.year {
 
   #home-news { flex-wrap: wrap; }
   #home-news A { margin-bottom: 2em; width: 48%; font-size: 16px; }
+
+  #onlineapp .flex { flex-direction: column; }
+
+  #onlineapp #firstname, #onlineapp #lastname, #onlineapp #middlei,
+  #onlineapp #address, #onlineapp #city, #onlineapp #state, #onlineapp #zip,
+  #onlineapp #phone, #onlineapp #email, #onlineapp #age { width: 100%; }
+  #onlineapp #age { padding-left: 0; }
+  #onlineapp #time, #onlineapp #salary, #onlineapp #position, #onlineapp #shift,
+  #onlineapp #citizen, #onlineapp #authorized,
+  #onlineapp #felony, #onlineapp #pending, #onlineapp #felonyexplain, #onlineapp #pendingexplain,
+  #onlineapp #worked, #onlineapp #workedwhen, #onlineapp #referred SELECT { width: 100%; }
+
+  #onlineapp .flex .school, #onlineapp .flex .address, #onlineapp .flex .degree,
+  #onlineapp .flex .from, #onlineapp .flex .to, #onlineapp .flex .graduate { width: 100%; }
+
+  #onlineapp .flex4 LABEL { width: 100%; }
+
+  #onlineapp .flex .empcompany, #onlineapp .flex .empphone, #onlineapp .flex .empsupervisor,
+  #onlineapp .flex .empaddress, #onlineapp .flex .emptitle, #onlineapp .flex .empfrom,
+  #onlineapp .flex .empto, #onlineapp .flex .empcontact, #onlineapp .flex .empsalary,
+  #onlineapp .flex .empleaving { width: 100%; }
+
+  #onlineapp .flex .half, #onlineapp .flex .aasex, #onlineapp .flex .aarace { width: 100%; }
+  #onlineapp .aareferred .flex > DIV { width: 100%; margin-right: 0; }
 }
 
 @media only screen and (max-width: 700px) {

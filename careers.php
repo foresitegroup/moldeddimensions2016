@@ -23,37 +23,15 @@ include "header.php";
 
   <a href="careers-machine-operators.php" style="font-weight: bold;">Machine Operators 1st, 2nd and 3rd Shift</a><br>
   <!-- No openings at this time.<br> -->
-
-  <br>
-  <br>
-
-  <h3>Basic Requirements</h3>
-  <ul>
-    <li>18 years of age.</li>
-    <li>High school diploma or GED, a good work history, and good communication skills.</li>
-    <li>Most production-related positions require standing, walking and light to moderate lifting and physical exertion.</li>
-  </ul>
+  
   <br>
 
-  <h3>How to Apply</h3>
-  <ul>
-    <li>Application, required<br>Download, complete and return the MD <a href="pdf/Job_Application.pdf">application</a> for employment via email to <?php email("hr@moldeddimensions.com"); ?> or by stopping by in person and completing an application.</li>
-    <li>Culture Index Survey, required<br>Complete the <a href="http://www.cindexinc.com/c/86701C">culture index survey</a> on this website or by stopping by in person.</li>
-    <li>Resume, optional<br />You may submit your resume in addition to the MD application via email to <?php email("hr@moldeddimensions.com"); ?> or by stopping by in person.</li>
-  </ul>
-  <br>
+  <a href="online-application.php" class="careers-button">Apply Online</a>
 
-  Please Download <a href="pdf/Job_Application.pdf">Application</a>.<br> Please Complete <a href="http://www.cindexinc.com/c/86701C">Culture Index Survey</a>
+  <a href="pdf/Job_Application.pdf" class="careers-button">Download Printable Application</a>
 </div>
 
 <div class="one-third last">
-  Please follow the two-step process.<br>
-  <ol style="font-style: italic;">
-    <li>Download <a href="pdf/Job_Application.pdf">Application</a>, fill in and send back.</li>
-    <li>Take <a href="http://www.cindexinc.com/c/86701C">Culture Index Survey</a>.</li>
-  </ol>
-  <br>
-
   <strong>MOLDED DIMENSIONS LLC</strong><br>
   701 Sunset Road, PO Box 364<br>
   Port Washington WI 53074<br>
@@ -67,11 +45,7 @@ include "header.php";
   <a href="directions.php">Directions to Molded Dimensions</a><br>
   <br>
 
-  <img src="images/twp2016.png" alt=""><br>
-  <img src="images/twp2015.png" alt=""><br>
-  <img src="images/twp2014.png" alt=""><br>
-  <img src="images/twp2013.png" alt=""><br>
-  <img src="images/twp2012.png" alt=""><br>
+  <img src="images/twp5x.png" alt=""><br>
   <br>
   <img src="images/pma-cert.png" alt="">
 </div>
