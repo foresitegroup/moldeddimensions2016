@@ -493,7 +493,7 @@ IMG.right {
 .menu UL LI UL {
   display: none;
   position: absolute;
-  z-index: 10;
+  z-index: 1000;
   top: 100%;
   left: 0;
   border-top: 3px solid #CBC9C9;
@@ -511,6 +511,36 @@ IMG.right {
   color: #FFFFFF;
   white-space: nowrap;
 }
+
+.cycle-slideshow > DIV {
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: #FFFFFF;
+  display: none;
+}
+
+.cycle-slideshow > DIV:first-of-type { display: block; }
+
+.cycle-slideshow > DIV .site-width {
+  height: 340px;
+  display: flex;
+  align-items: center;
+}
+
+.cycle-slideshow > DIV .site-width > DIV { max-width: 480px; }
+
+.cycle-slideshow > DIV H2 {
+  margin: 0 0 20px;
+  font-size: 30px;
+  line-height: 1.2;
+  color: #FFFFFF;
+}
+
+.cycle-slideshow > DIV.slider-careers H2 { font-size: 50px; }
+
+.cycle-slideshow > DIV .site-width > DIV .btn { margin-top: 36px; }
 
 .site-width.m1 { width: 100%; }
 
@@ -673,7 +703,7 @@ a.btn:hover { text-decoration: underline; }
 .banner.m6 { background-image: url(../images/banner-m6.jpg); }
 .banner.m7 { background-image: url(../images/banner-m7.jpg); }
 
-.cycle-slideshow {
+/*.cycle-slideshow {
   border-top: 1px solid #000000;
   border-bottom: 1px solid #000000;
 }
@@ -728,7 +758,7 @@ a.btn:hover { text-decoration: underline; }
 }
 .cycle-pager span.cycle-pager-active { color: #C91D1B;}
 .cycle-pager > * { cursor: pointer;}
-
+*/
 .main-content {
   padding: 30px 0 90px;
 }
@@ -2012,7 +2042,7 @@ A.careers-button:hover { background: #AAAAAA; }
     margin-right: 0;
   }
 
-  .cycle-slideshow DIV {
+/*  .cycle-slideshow DIV {
     height: 175px;
   }
 
@@ -2031,7 +2061,7 @@ A.careers-button:hover { background: #AAAAAA; }
   .cycle-slideshow DIV A SPAN:before IMG {
     height: auto;
     max-width: 100%;
-  }
+  }*/
 
   .footer-right .fr-left {
     width: 55%;
