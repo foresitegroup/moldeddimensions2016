@@ -23,10 +23,22 @@ include "header.php";
   <br>
 
   <h3>Current Job Openings</h3>
+  <a href="careers-manufacturing-ci-engineer.php" style="font-weight: bold;">Manufacturing/CI Engineer</a><br>
+  <br>
+
+  <a href="careers-molder.php" style="font-weight: bold;">Molder 2nd Shift</a><br>
+  <br>
+
+  <a href="careers-finishing.php" style="font-weight: bold;">Finishing 1st Shift</a><br>
+  <br>
+
+  <a href="careers-quality-engineer-manager.php" style="font-weight: bold;">Quality Engineering Manager</a><br>
+  <br>
+
   <a href="careers-engineering-project-manager.php" style="font-weight: bold;">Engineering Project Manager</a><br>
   <br>
 
-  <a href="careers-machine-operators.php" style="font-weight: bold;">Machine Operators 1st, 2nd and 3rd Shift</a><br>
+  <a href="careers-machine-operators.php" style="font-weight: bold;">Full or Part Time Machine Operators 1st, 2nd and 3rd Shift</a><br>
   <!-- No openings at this time.<br> -->
   
   <br>
@@ -40,7 +52,7 @@ include "header.php";
   <strong>MOLDED DIMENSIONS LLC</strong><br>
   701 Sunset Road, PO Box 364<br>
   Port Washington WI 53074<br>
-  Main Phone: 262-284-9455<br>
+  Phone: 262-416-5093<br>
   <br>
 
   HR Fax: 262-284-9517<br>
