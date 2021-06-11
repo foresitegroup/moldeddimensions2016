@@ -42,8 +42,8 @@ function email($address, $name="") {
       });
     </script>
 
-    <link rel="stylesheet" href="inc/jquery.fancybox.min.css">
-    <script src="inc/jquery.fancybox.min.js"></script>
+    <link rel="stylesheet" href="<?php echo $TopDir; ?>inc/jquery.fancybox.min.css">
+    <script src="<?php echo $TopDir; ?>inc/jquery.fancybox.min.js"></script>
 
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -99,7 +99,10 @@ function email($address, $name="") {
     VP Sales
   </div>
 
-  <div id="notice"><a data-fancybox data-src="#notice-modal" href="javascript:;">COVID-19 Alert: Molded Dimensions is Essential Business: Open and Shipping Product.</a></div>
+  <div id="notice">
+    <!-- <a data-fancybox data-src="#notice-modal" href="javascript:;">COVID-19 Alert: Molded Dimensions is Essential Business: Open and Shipping Product.</a> -->
+    <a href="<?php echo $TopDir; ?>pdf/Job_Fair_6-23-2021.pdf">Attend our Job Fair on June 23rd. Offers made on the spot! Click here for details.</a>
+  </div>
 
   <div class="md-header">
     <div class="mobile-banner"><a href="tel:2622849455">(262) 284-9455</a></div>
