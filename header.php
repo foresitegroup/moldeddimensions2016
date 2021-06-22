@@ -75,6 +75,9 @@ function email($address, $name="") {
       gtag('js', new Date());
       gtag('config', 'AW-479502533');
     </script>
+    
+    <!-- Adams Outdoor Media tracking -->
+    <script type="text/javascript" src="//tag.brandcdn.com/autoscript/moldeddimensions_vfdwuk0wmxfwvda9/moldeddimensions.js"></script>
   </head>
   <body <?php if ($CurrentMenu == "m1") { echo ' class="page-home"'; } ?>>
 
