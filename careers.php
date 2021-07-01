@@ -64,7 +64,7 @@ include "header.php";
 
   <img src="images/twp5x.png" alt=""><br>
   <br>
-  <img src="images/pma-cert.png" alt="">
+  <img src="images/pma-2021.png" alt="">
 </div>
 
 <?php include "footer.php"; ?>
