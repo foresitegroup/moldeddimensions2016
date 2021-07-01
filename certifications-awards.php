@@ -48,7 +48,7 @@ Linda Katz accepted the 2015 Business Recognition Award from the Port Washington
 <br>
 
 <strong>Top 100 Workplaces, The Journal Sentinel in 2012, 2013, 2014, 2015 and 2016</strong><br>
-<img class="right" src="images/twp2016.png" alt="">
+<img class="right" src="images/twp5x.png" alt="">
 This is our most prestigious award and is evidence that Molded Dimensions is a place where people choose to work. MD is proud and honored to be a recipient for five years running.
 <div style="clear: both;"></div>
 <br>
