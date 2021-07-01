@@ -102,10 +102,10 @@ function email($address, $name="") {
     VP Sales
   </div>
 
-  <div id="notice">
+  <!-- <div id="notice"> -->
     <!-- <a data-fancybox data-src="#notice-modal" href="javascript:;">COVID-19 Alert: Molded Dimensions is Essential Business: Open and Shipping Product.</a> -->
-    <a href="<?php echo $TopDir; ?>pdf/Job_Fair_6-23-2021.pdf">Attend our Job Fair on June 23rd. Offers made on the spot! Click here for details.</a>
-  </div>
+    <!-- <a href="<?php //echo $TopDir; ?>pdf/Job_Fair_6-23-2021.pdf">Attend our Job Fair on June 23rd. Offers made on the spot! Click here for details.</a> -->
+  <!-- </div> -->
 
   <div class="md-header">
     <div class="mobile-banner"><a href="tel:2622849455">(262) 284-9455</a></div>
