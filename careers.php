@@ -23,6 +23,12 @@ include "header.php";
   <br>
 
   <h3>Current Job Openings</h3>
+  <a href="careers-customer-service-order-processing.php" style="font-weight: bold;">Customer Service / Order Processing</a><br>
+  <br>
+
+  <a href="careers-maintenance-lead.php" style="font-weight: bold;">Maintenance Lead</a><br>
+  <br>
+
   <a href="careers-manufacturing-ci-engineer.php" style="font-weight: bold;">Manufacturing/CI Engineer</a><br>
   <br>
 
@@ -33,9 +39,6 @@ include "header.php";
   <br>
 
   <a href="careers-quality-engineer-manager.php" style="font-weight: bold;">Quality Engineering Manager</a><br>
-  <br>
-
-  <a href="careers-engineering-project-manager.php" style="font-weight: bold;">Engineering Project Manager</a><br>
   <br>
 
   <a href="careers-machine-operators.php" style="font-weight: bold;">Full or Part Time Machine Operators 1st, 2nd and 3rd Shift</a><br>
