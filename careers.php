@@ -23,7 +23,19 @@ include "header.php";
   <br>
 
   <h3>Current Job Openings</h3>
-  <a href="careers-customer-service-order-processing.php" style="font-weight: bold;">Customer Service / Order Processing</a><br>
+  <a href="careers-account-manager.php" style="font-weight: bold;">Account Manager</a><br>
+  <br>
+
+  <a href="careers-shipping-clerk.php" style="font-weight: bold;">Shipping Clerk</a><br>
+  <br>
+
+  <a href="careers-cmek-operator.php" style="font-weight: bold;">CMEK Operator</a><br>
+  <br>
+
+  <a href="careers-resin-prep-floater.php" style="font-weight: bold;">Resin Prep Floater</a><br>
+  <br>
+
+  <a href="careers-cmec-and-grinding-operator.php" style="font-weight: bold;">CMEC and Grinding Operator</a><br>
   <br>
 
   <a href="careers-maintenance-lead.php" style="font-weight: bold;">Maintenance Lead</a><br>
