@@ -23,28 +23,19 @@ include "header.php";
   <br>
 
   <h3>Current Job Openings</h3>
-  <a href="careers-account-manager.php" style="font-weight: bold;">Account Manager</a><br>
+  <a href="careers-machinist.php" style="font-weight: bold;">Machinist</a><br>
   <br>
 
-  <a href="careers-shipping-clerk.php" style="font-weight: bold;">Shipping Clerk</a><br>
-  <br>
-
-  <a href="careers-cmek-operator.php" style="font-weight: bold;">CMEK Operator</a><br>
+  <a href="careers-shipping-and-trim-floater.php" style="font-weight: bold;">Shipping and Trim Floater</a><br>
   <br>
 
   <a href="careers-resin-prep-floater.php" style="font-weight: bold;">Resin Prep Floater</a><br>
-  <br>
-
-  <a href="careers-cmec-and-grinding-operator.php" style="font-weight: bold;">CMEC and Grinding Operator</a><br>
   <br>
 
   <a href="careers-maintenance-lead.php" style="font-weight: bold;">Maintenance Lead</a><br>
   <br>
 
   <a href="careers-manufacturing-ci-engineer.php" style="font-weight: bold;">Manufacturing/CI Engineer</a><br>
-  <br>
-
-  <a href="careers-molder.php" style="font-weight: bold;">Molder 2nd Shift</a><br>
   <br>
 
   <a href="careers-finishing.php" style="font-weight: bold;">Finishing 1st Shift</a><br>
