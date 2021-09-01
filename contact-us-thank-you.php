@@ -60,7 +60,7 @@ if (isset($_POST['submit']) || $_SERVER["QUERY_STRING"] == "dev") {
           require_once "inc/swiftmailer/swift_required.php";
 
           $sm = Swift_Message::newInstance();
-          $sm->setTo(array("sales@moldeddimensions.com","prudolf@moldeddimensions.com"));
+          $sm->setTo(array("sales@moldeddimensions.com"));
           $sm->setBcc(array("foresitegroupllc@gmail.com","greg@trg-marketing.com","jacob@trg-marketing.com"));
           $sm->setFrom(array("donotreply@foresitegrp.com" => "Contact Form"));
           $sm->setReplyTo($_POST[md5('email' . $_POST['ip'] . $salt . $_POST['timestamp'])]);
