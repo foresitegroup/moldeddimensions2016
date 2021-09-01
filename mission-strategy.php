@@ -17,18 +17,14 @@ Molded Dimensions, LLC is a place where great people choose to work.<br>
 
 <img class="one-half-right" src="images/mission5.jpg" alt="Urethane molder resetting an open cast tool.">
 <h2>Quality Policy</h2>
-Our mission is to create a place where great people choose to work.<br>
+Our mission is to provide peace of mind to our customers, employees, and investors.<br>
 <br>
 
-Our brand promise is to provide peace of mind to our customers and employees.<br>
-<br>
-
-We achieve this through continually improving our:<br>
+We achieve this through continual improvement in our:<br>
 <ul>
-  <li>Employee focus</li>
   <li>Customer satisfaction</li>
-  <li>Operational efficiency</li>
-  <li>Steady profitable growth</li>
+  <li>Employee focus</li>
+  <li>Profitable sales growth</li>
 </ul>
 <br>
 
@@ -36,10 +32,11 @@ We achieve this through continually improving our:<br>
 Al Mejia, CEO<br> -->
 Brian Sprinkman, CEO<br>
 Bill Gasper, CFO &amp; CIO<br>
-Patrick Roddy, VP - Sales &amp; Marketing<br>
+Bobby Desai, VP - Sales &amp; Marketing<br>
+Rick Buboltz, VP - Operations<br>
 Carol Nikolaus, VP - Technical Services<br>
 Kevin Kuhagen, GlocalSource Business Manager<br>
-Tony Lukas, Director of Technical Manufacturing Services<br>
+Tony Lukas, Chemist<br>
 Michelle Scholtus, HR Manager
 
 <?php include "footer.php"; ?>

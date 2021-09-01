@@ -106,15 +106,10 @@ include "header.php";
 
 <div class="clear-space"></div>
 
-<div class="one-half-left">
-  <h1 class="year">2008</h1>
-  <ul>
-    <li>Certified as a Women's Business Enterprise</li>
-    <li>Constructed a second 24,000 square foot building for urethane manufacturing</li>
-  </ul>
-</div>
-
-<div class="one-half-right"><img class="two-thirds-left" src="images/wbe-cert.png" alt="Certified Women's Business Enterprise"></div>
+<h1 class="year">2008</h1>
+<ul>
+  <li>Constructed a second 24,000 square foot building for urethane manufacturing</li>
+</ul>
 
 <div class="clear-space"></div>
 
@@ -197,19 +192,8 @@ include "header.php";
 <div class="one-half-left">
   <h1 class="year">2018</h1>
   <ul>
-    <li>Acquired by an equity partner</li>
+    <li>Acquired by equity partner, Shoreview Partners</li>
     <li>Certified ISO 9001:2015</li>
-  </ul>
-</div>
-
-<div class="one-half-right"></div>
-
-<div class="clear-space"></div>
-
-<div class="one-half-left">
-  <h1 class="year">2019</h1>
-  <ul>
-    <li>Al Mejia named new CEO</li>
   </ul>
 </div>
 
@@ -220,7 +204,6 @@ include "header.php";
 <div class="one-half-left">
   <h1 class="year">2020</h1>
   <ul>
-    <li>Mike Katz named interim CEO</li>
     <li>Brian Sprinkman named CEO</li>
   </ul>
 </div>
