@@ -104,7 +104,7 @@ function email($address, $name="") {
 
   <div id="notice">
     <!-- <a data-fancybox data-src="#notice-modal" href="javascript:;">COVID-19 Alert: Molded Dimensions is Essential Business: Open and Shipping Product.</a> -->
-    <a href="<?php echo $TopDir; ?>pdf/Job_Fair_08-2021.pdf">Attend our Job Fair on August 11. Offers made on the spot! Click here for details.</a>
+    <!-- <a href="<?php //echo $TopDir; ?>pdf/Job_Fair_08-2021.pdf">Attend our Job Fair on August 11. Offers made on the spot! Click here for details.</a> -->
   </div>
 
   <div class="md-header">
