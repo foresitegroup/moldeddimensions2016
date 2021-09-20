@@ -23,6 +23,9 @@ include "header.php";
   <br>
 
   <h3>Current Job Openings</h3>
+  <a href="careers-senior-buyer.php" style="font-weight: bold;">Senior Buyer</a><br>
+  <br>
+
   <a href="careers-machinist.php" style="font-weight: bold;">Machinist</a><br>
   <br>
 
