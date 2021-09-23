@@ -22,39 +22,7 @@ include "header.php";
   <em>Molded Dimensions, LLC is an Equal Opportunity Employer</em><br>
   <br>
 
-  <h3>Current Job Openings</h3>
-  <a href="careers-senior-buyer.php" style="font-weight: bold;">Senior Buyer</a><br>
-  <br>
-
-  <a href="careers-machinist.php" style="font-weight: bold;">Machinist</a><br>
-  <br>
-
-  <a href="careers-shipping-and-trim-floater.php" style="font-weight: bold;">Shipping and Trim Floater</a><br>
-  <br>
-
-  <a href="careers-resin-prep-floater.php" style="font-weight: bold;">Resin Prep Floater</a><br>
-  <br>
-
-  <a href="careers-maintenance-lead.php" style="font-weight: bold;">Maintenance Lead</a><br>
-  <br>
-
-  <a href="careers-manufacturing-ci-engineer.php" style="font-weight: bold;">Manufacturing/CI Engineer</a><br>
-  <br>
-
-  <a href="careers-finishing.php" style="font-weight: bold;">Finishing 1st Shift</a><br>
-  <br>
-
-  <a href="careers-quality-engineer-manager.php" style="font-weight: bold;">Quality Engineering Manager</a><br>
-  <br>
-
-  <a href="careers-machine-operators.php" style="font-weight: bold;">Full or Part Time Machine Operators 1st, 2nd and 3rd Shift</a><br>
-  <!-- No openings at this time.<br> -->
-  
-  <br>
-
-  <a href="online-application.php" class="careers-button">Apply Online</a>
-
-  <a href="pdf/Job_Application.pdf" class="careers-button">Download Printable Application</a>
+  <div id="BambooHR" data-domain="moldeddimensions.bamboohr.com" data-version="1.0.0" data-departmentId=""></div><script src=https://moldeddimensions.bamboohr.com/js/embed.js type="text/javascript" async defer></script>
 </div>
 
 <div class="one-third last">
