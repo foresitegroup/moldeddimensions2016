@@ -50,7 +50,7 @@ include "header.php";
     <div class="title">some of our awards & certifications</div>
     <ul class="cred-logos">
       <li><img alt="PMA's Regulatory Compliance Self-Certification Program Logo" src="images/pma-2021-gray.png"></li>
-      <li><img alt="Bsi award logo" src="images/logo-cred-bsi-01.png"></li>
+      <li><img alt="BSI logo" src="images/logo-cred-bsi.png"></li>
       <li><img alt="Milwaukee Journal Sentinel top place to work award logo" src="images/twp5x-gray.png"></li>
       <li><img alt="Wisconsin Manufacturer of the Year Award logo" src="images/logo-cred-wmy-01.png"></li>
       <li><img src="images/logo-cred-mana.png" alt="MANA Manufacturers & Agents"></li>
