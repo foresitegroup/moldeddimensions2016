@@ -210,4 +210,15 @@ include "header.php";
 
 <div class="one-half-right"></div>
 
+<div class="clear-space"></div>
+
+<div class="one-half-left">
+  <h1 class="year">2021</h1>
+  <ul>
+    <li> Acquired PCO Urethane (Marshfield, WI), greatly expanding urethane capabilities</li>
+  </ul>
+</div>
+
+<div class="one-half-right"><img src="images/pco-urethane.png" alt=""></div>
+
 <?php include "footer.php"; ?>
