@@ -8,3 +8,4 @@ blog/wp-content/themes/moldeddimensions/.DS_Store
 inc/swiftmailer/*
 inc/recaptchalib.php
 inc/fintoozler.php
+.DS_Store
