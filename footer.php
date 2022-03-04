@@ -71,7 +71,7 @@
 
         <div class="footer-menu"><?php include "menu.php"; ?></div>
 
-        <div class="copyright">Copyright &copy; <?php echo date("Y"); ?> Molded Dimensions, LLC <span>|</span> All Rights Reserved</div>
+        <div style="clear: both;"></div>
       </div>
 
       <div class="footer-right cf">
@@ -93,6 +93,13 @@
             <li><i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="<?php echo $TopDir; ?>pdf/ISO_certificate.pdf?<?php echo filemtime("pdf/ISO_certificate.pdf"); ?>">Certified ISO 9001:2015</a></li>
           </ul>
         </div>
+      </div>
+
+      <div style="clear: both;"></div>
+
+      <div class="copyright">
+        Copyright &copy; <?php echo date("Y"); ?> Molded Dimensions, LLC <span>|</span> All Rights Reserved
+        <a href="https://foresitegrp.com" style="float: right; font-size: 0.6875rem; color: #B9B9B9;">WEBSITE BY FORESITE</a>
       </div>
     </div>
   </div>
