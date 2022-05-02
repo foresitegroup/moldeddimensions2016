@@ -89,7 +89,7 @@ include "header.php";
 
 <h1 class="year">2003</h1>
 <ul>
-  <li>Launched GlocalSource business unit</li>
+  <li>Launched GlocalSource business unit; now called "Global Manufacturing"</li>
 </ul>
 
 <div class="clear-space"></div>
@@ -123,7 +123,7 @@ include "header.php";
 <div class="one-half-left">
   <h1 class="year">2011</h1>
   <ul>
-    <li>Added GlocalSource warehouse location</li>
+    <li>Added Global Manufacturing warehouse location</li>
     <li>Wisconsin Manufacturer of the Year Nominee</li>
   </ul>
 </div>

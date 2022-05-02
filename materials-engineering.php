@@ -19,7 +19,7 @@ The Chemist's primary focus includes:
   <li>Special material formulation and certification</li>
   <li>REACH, RoHS and Conflict Mineral certifications</li>
   <li>Material property testing</li>
-  <li>GlocalSource product conformance</li>
+  <li>Global Manufacturing product conformance</li>
 </ul>
 <br>
 
@@ -65,8 +65,8 @@ MD has an on-site materials laboratory for testing and certifying that incoming 
 </ul>
 <br>
 
-<h2>GlocalSource Product Conformance</h2>
-Our <a href="glocalsource.php">GlocalSource</a> service package includes material confirmation of all incoming product lots to ensure the proper raw material is utilized and meets customer specifications.<br>
+<h2>Global Manufacturing Product Conformance</h2>
+Our <a href="global-manufacturing.php">Global Manufacturing</a> service package includes material confirmation of all incoming product lots to ensure the proper raw material is utilized and meets customer specifications.<br>
 <br>
 
 Materials engineering is a large part of our rubber and polyurethane manufacturing success. Our on-site Chemist and laboratory ensure Molded Dimensions provides superior material compounding and testing service.

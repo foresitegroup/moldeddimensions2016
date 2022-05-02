@@ -35,7 +35,7 @@ include "header.php";
     <div class="home-box cf">
       <div class="hb-head">
         <div class="hb-image" style="background-image: url(images/spiff-glocal.jpg);"></div>
-        <h2><a href="glocalsource.php">GlocalSource</a></h2>
+        <h2><a href="global-manufacturing.php">Global Manufacturing</a></h2>
       </div>
       <div class="hb-text">
         This business unit focuses on providing product from worldwide rubber molding manufacturers, supported by MD's local technical expertise and project management. We partner with top custom rubber product manufacturers from around the globe. Our network of partners makes it possible for us to offer competitive part pricing in a world market with the added benefits of our logistics, inventory management, and engineering expertise.

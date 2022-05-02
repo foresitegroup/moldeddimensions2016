@@ -1,13 +1,13 @@
 <?php
 $CurrentMenu = "m4";
-$PageTitle = "Part Example";
-$Description = "This page is a comprehensive list of examples of Molded Dimensions work.";
+$PageTitle = "Molded Rubber Parts | Custom Rubber Molding Products";
+$HeaderTitle = "Molded Rubber & Cast Polyurethane Parts";
+$Description = "Molded Dimensions can produce custom molded rubber parts to fit virtually any application. Learn more about our capabilities here.";
 $Keywords = "molded dimensions, examples of molded dimensions work, elastomer applications, pins, bellows, bladders, plugs, belts, protective boots, protective caps, protective buttons, bumper, couplings, seals, rollers, sprues, squeegees, gears, grips, grommets, wipers, wear pads";
 
 include "header.php";
 ?>
 
-<h1>Examples of Our Work</h1>
 
 <div class="one-half-left part-examples">
   <h3>Bellows</h3>
@@ -291,7 +291,7 @@ include "header.php";
       Protective Boots (Casting)
     </span>
   </a>
-  
+
   <a href="part-example-protective-boots-electronic.php">
     <img src="images/part-examples/protective-boot-electronic.jpg" alt="">
     <span>
@@ -477,4 +477,18 @@ include "header.php";
   </a>
 </div>
 
+<div class="site-width main-content m4 current">
+  <div class="md-content">
+    <p>Molded Dimensions supplies a wide range of cast polyurethane and molded rubber parts that serve numerous applications throughout multiple industries. Since our inception in 1954, customers have depended on us to provide them with molded rubber products that fit their precise needs. Some examples of custom rubber parts we manufacture include protective boots for insulating electronic components and bumpers to serve as mounts for testing equipment. We produce tiny protective silicone caps for protecting munitions in extreme temperatures as well as suction cups used to handle materials in automated processing machinery. No matter what the situation calls for, we have the expertise and in-house technical expertise necessary to ensure optimal results.</p>
+    <h2>Serving Virtually Every Industry</h2>
+    <p>As one of the most diverse manufacturers of cast polyurethane parts and custom molded rubber parts in North America, we serve virtually every market from medical to mining. Our custom molded rubber products and cast polyurethane parts can be found in industries ranging from packaging, automotive and filtration systems, to paper processing, food service and plumbing.</p>
+    <p>We consider this one of our greatest strengths, and not only because it insulates us from fluctuations in any one industry sector. By producing such a diversified lineup of products, our engineers are able to share lessons learned by serving individual clients and utilize that knowledge to serve others. This cross-pollination ensures a high level of quality and innovation across everything we do.&nbsp;</p>
+    <h2>Why Choose Molded Dimensions?</h2>
+    <p>There&rsquo;s a reason why some of our customers have been working with us for more than 60 years. Our longevity, along with our diversity of services, speaks to the exceptional level of value and quality we deliver to our customers. Our in-house engineering experience allows us to create virtually any thermoset elastomer components your operations require. At our production facility in Wisconsin, we have the ability to manufacture precision rubber and cast polyurethane parts in sizes ranging from 1 gram to more than 60 pounds. We also have the capacity to produce just about any size production run.&nbsp;</p>
+    <p>In addition to our domestic production and fulfillment, we also have the ability to offer you global reach through our <a href="global-manufacturing.php">Global Manufacturing</a> business unit. This offering provides you access to worldwide manufacturers, with the added benefit of our local engineering support and project management services to make your products in an increasingly competitive world market. &nbsp;</p>
+    <p>Whether your project is suited for domestic manufacturing or global manufacturing, our rigorous methodology, delivers high-quality cast polyurethane and rubber molded products quickly and reliably. When you choose to work with Molded Dimensions, our project management team takes a close look at your project, designs the necessary tooling, and builds the best process for manufacturing your components. We ensure that no detail is overlooked from concept to design to prototyping, and finally into production.</p>
+    <p>To learn more about how we can put our expertise to work for you, get in touch with us today.</p>
+  </div>
+</div>
+<?php include "btn-contact.php"; ?>
 <?php include "footer.php"; ?>

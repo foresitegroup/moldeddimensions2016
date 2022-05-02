@@ -85,7 +85,7 @@ MD has low-, mid-, and high-volume production capabilities.  Some of our custome
 <br>
 
 <h2>Part or Product Size</h2>
-Precision mechanical components range in size from 1 gram to over 30 pounds. In-house production utilizes presses from 8" square to 24" square, and our GlocalSource presses have capabilities up to 60" square.<br>
+Precision mechanical components range in size from 1 gram to over 30 pounds. In-house production utilizes presses from 8" square to 24" square, and our Global Manufacturing presses have capabilities up to 60" square.<br>
 <br>
 
 <img class="one-half-right" src="images/rubber-molding4.jpg" alt="Injection, compression, and transfer rubber molding work cell.">

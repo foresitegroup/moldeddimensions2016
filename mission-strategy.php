@@ -35,7 +35,6 @@ Bill Gasper, CFO &amp; CIO<br>
 Bobby Desai, VP - Sales &amp; Marketing<br>
 Rick Buboltz, VP - Operations<br>
 Carol Nikolaus, VP - Technical Services<br>
-Kevin Kuhagen, GlocalSource Business Manager<br>
 Tony Lukas, Chemist<br>
 Michelle Scholtus, HR Manager
 
