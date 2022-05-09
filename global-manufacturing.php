@@ -8,10 +8,10 @@ include "header.php";
 ?>
 
 <h1>Global Manufacturing, Local Service</h1>
-Global Manufacturing is our service of providing rubber product from manufacturers around the globe, supported by Molded Dimensions' local, technical service, and support. Your company will benefit from our engineering expertise and program management, including design, logistics and communication.<br>
+We can provide product from worldwide rubber molding manufacturers, supported by MD's local technical expertise and project management. Your company will benefit from our engineering expertise and program management, including design, logistics and communication.<br>
 <br>
 
-<img class="one-half-right" src="images/Global Manufacturing3.jpg" alt="Asian manufactured rubber parts are shipped to worldwide customers.">
+<img class="one-half-right" src="images/glocalsource3.jpg" alt="Asian manufactured rubber parts are shipped to worldwide customers.">
 <h2>What parts fit well with Global Manufacturing?</h2>
 Knowing there are exceptions to every rule, the basics can be summarized:<br>
 <ul>
