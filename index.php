@@ -40,7 +40,7 @@ include "header.php";
       <div class="hb-text">
         This business unit focuses on providing product from worldwide rubber molding manufacturers, supported by MD's local technical expertise and project management. We partner with top custom rubber product manufacturers from around the globe. Our network of partners makes it possible for us to offer competitive part pricing in a world market with the added benefits of our logistics, inventory management, and engineering expertise.
       </div>
-      <a href="glocalsource.php" class="hb-more text">Learn More</a>
+      <a href="global-manufacturing.php" class="hb-more text">Learn More</a>
     </div>
   </div>
 </div>
