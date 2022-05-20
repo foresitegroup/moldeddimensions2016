@@ -372,7 +372,17 @@ IMG.right {
   display: flex;
   -ms-align-items: center;
   align-items: center;
+  justify-content: space-between;
 }
+
+.logo-slogan A {
+  color: #FFFFFF;
+  text-decoration: none;
+  text-align: right;
+  line-height: 1;
+}
+
+.logo-slogan A:hover { text-decoration: underline; }
 
 .logo { height: 64px; width: auto; }
 
