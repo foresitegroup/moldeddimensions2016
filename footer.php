@@ -59,23 +59,23 @@
         <div class="footer-top">
           <div class="logo-slogan">
             <a href="<?php echo $TopDir; ?>."><img src="<?php echo $TopDir; ?>images/logo.png?<?php if ($TopDir == "") echo filemtime('images/logo.png'); ?>" alt="Molded Dimensions" class="logo"></a>
-
-            <a href="https://moldedgroup.com" class="mdg">Molded Dimensions Group</a>
-          </div>
+          </div> <!-- /.logo-slogan -->
 
           <div class="address-social">
             <div class="address-phone">701 Sunset Rd, Port Washington, WI 53074  <span class="phone">(262) 284-9455</span></div>
             <div class="social">
               <a href="https://www.facebook.com/pages/Molded-Dimensions/125505580874509"><i class="fa fa-facebook" aria-hidden="true"></i></a>
               <a href="https://www.linkedin.com/company/molded-dimensions"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-            </div>
-          </div>
-        </div>
+            </div> <!-- /.social -->
+          </div> <!-- /.address-social -->
+
+          <a href="https://moldedgroup.com" class="mdg"><img src="images/logo-mdg-small.webp" alt="Molded Dimensions Group"></a>
+        </div> <!-- /.footer-top -->
 
         <div class="footer-menu"><?php include "menu.php"; ?></div>
 
         <div style="clear: both;"></div>
-      </div>
+      </div> <!-- /.footer-left -->
 
       <div class="footer-right cf">
         <div class="fr-left">

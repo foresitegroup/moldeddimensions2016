@@ -15,7 +15,10 @@ Molded Dimensions, LLC is a molder of custom engineered thermoset elastomers, in
 We are proud of our company and are glad to share our company story. Learn more about Molded Dimensions by checking out our <a href="history.php">history</a> dating back to 1954. Find out about our <a href="mission-strategy.php">strategy</a>, including our brand promise to provide peace of mind to our customers and employees, and our <a href="mission-strategy.php">mission</a> to make Molded Dimensions a place where great people choose to work.<br>
 <br>
 
-<em>"We make the difficult part easy."</em> As part of the <a href="https://moldedgroup.com">Molded Dimensions Group</a>, we answer your most challenging questions concerning plastic, rubber and urethane parts and components.
+<em>"We make the difficult part easy."</em> As part of the <a href="https://moldedgroup.com">Molded Dimensions Group</a>, we answer your most challenging questions concerning plastic, rubber and urethane parts and components.<br>
+<br>
+
+<img src="images/logo-mdg.webp" alt="Molded Dimensions Group" style="max-width: 100%; height: auto;">
 
 <!--<br>
 <br>

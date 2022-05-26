@@ -985,6 +985,8 @@ a.btn:hover { text-decoration: underline; }
   line-height: 1em;
 }
 
+.md-footer .footer-left .footer-top { padding-bottom: 1.5rem; }
+
 .md-footer .footer-top .logo-slogan { margin-bottom: 25px; }
 
 .md-footer .footer-top .logo-slogan .logo { height: 57px; width: auto; }
@@ -997,13 +999,7 @@ a.btn:hover { text-decoration: underline; }
   letter-spacing: 1.5px;
 }
 
-.md-footer .footer-top .address-social {
-  margin-bottom: 25px;
-}
-
-@media only screen and (min-width: 667px) {
-
-}
+.md-footer .footer-top .address-social { margin-bottom: 0.5rem; }
 
 .md-footer .footer-top .address-social .address-phone {
   margin: 0 25px 7px 0;
@@ -1048,6 +1044,8 @@ a.btn:hover { text-decoration: underline; }
 .md-footer .footer-top .address-phone {
   color: white;
 }
+
+.md-footer .footer-left .footer-top .mdg { display: inline-block; }
 
 .footer-menu UL {
   margin: 0;
