@@ -51,6 +51,6 @@ Knowing there are exceptions to every rule, the basics can be summarized:<br>
 MD has a global reach in both production and fulfillment. Product may be produced in North America or Asia, and is shipped to our worldwide customers. MD's ability to offer multiple manufacturing and fulfillment strategies allows the best possible supply chain for your project.<br>
 <br>
 
-Molded Dimensions takes pride in the technical excellence and versatility of our business. The Global Manufacturing business unit is one of three units that contributes to our remarkable company and sets us apart from other domestic manufacturers.
+Molded Dimensions takes pride in the technical excellence and versatility of our business. Our Global Manufacturing capability is one of the factors that sets us apart from other domestic manufacturers.
 
 <?php include "footer.php"; ?>
