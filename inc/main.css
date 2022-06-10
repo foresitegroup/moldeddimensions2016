@@ -1308,7 +1308,12 @@ a.btn:hover { text-decoration: underline; }
 
 .md-content .entry-content UL LI,
 .md-content .entry-content OL LI {
-  padding: 0 0 5px 0;
+  padding: 3px 0;
+}
+
+.md-content .entry-content UL P,
+.md-content .entry-content OL P {
+  display: none;
 }
 
 .entry-footer:before { content: ""; display: table; clear: both; }
