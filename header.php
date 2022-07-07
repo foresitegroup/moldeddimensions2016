@@ -131,7 +131,7 @@ function email($address, $name="") {
     <script src="inc/jquery.cycle2.min.js"></script>
 
     <div class="cycle-slideshow" data-cycle-slides="> div" data-cycle-timeout="7000" data-cycle-speed="1000">
-      <div style="background-image: url(images/slider-careers.jpg);" class="slider-careers">
+      <div style="background-image: url(images/slider-careers.webp);" class="slider-careers">
         <div class="site-width">
           <div>
             <h2>Let Us Mold Your Career!</h2>
