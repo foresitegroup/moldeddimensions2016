@@ -53,12 +53,11 @@ function email($address, $name="") {
     })(window,document,'script','dataLayer','GTM-5QL4CRR');</script>
     <!-- End Google Tag Manager -->
 
-    <!-- BEGIN Google Analytics -->
+    <!-- BEGIN Google Analytics - This will stop working July 1, 2023 -->
     <script type="text/javascript">
       var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-38271523-1']);
       _gaq.push(['_trackPageview']);
-
       (function() {
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -74,6 +73,15 @@ function email($address, $name="") {
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
       gtag('config', 'AW-479502533');
+    </script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-PDRD1KZ3Q3"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-PDRD1KZ3Q3');
     </script>
     
     <!-- Adams Outdoor Media tracking -->
