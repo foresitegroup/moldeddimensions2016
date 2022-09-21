@@ -45,9 +45,8 @@
     <h2 class="foot-title"><a href="our-company.php">LEARN MORE <span>ABOUT MD</span></a></h2>
 
     <a href="history.php" class="homemenu">since 1954</a>
-    <a href="product-development.php" class="homemenu">engineering mindset</a>
     <a href="mission-strategy.php" class="homemenu">exceptional workplace</a>
-    <a href="glocalsource.php" class="homemenu">global reach</a>
+    <a href="global-manufaturing.php" class="homemenu">global reach</a>
     <a href="industries-served.php" class="homemenu">industries served</a>
   </div>
   <?php } ?>
