@@ -8,7 +8,7 @@ include "header.php";
 ?>
 
 <h1>Best in Class Project Management</h1>
-<img class="one-half-right" src="images/project-man2.jpg" alt="The project manager is the hub of the project.">
+<!-- <img class="one-half-right" src="images/project-man2.jpg" alt="The project manager is the hub of the project."> -->
 Project Management is a priority for Molded Dimensions and contributes to our success. We consider ourselves "best in class" for project management and communication.<br>
 <br>
 

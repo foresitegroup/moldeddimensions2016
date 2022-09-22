@@ -20,7 +20,7 @@ At Molded Dimensions, we are proud to be a highly engineering oriented company. 
 When you have experts in polyurethane and rubber mold design and development on your side, you can count on receiving the best results. Our professionals have a wide range of experience and expertise across multiple industries. We understand the unique requirements of your business and strive to ensure that every facet of what we do is geared toward meeting your needs. When you turn to us for polyurethane and rubber product development, you can be confident that no detail will be overlooked as we work to create the highest overall quality in the finished product.<br>
 &nbsp;
 <h2>Project Review</h2>
-<img class="one-half-right" src="images/product-dev2.jpg" alt="Rubber and urethane part project reviews.">
+<!-- <img class="one-half-right" src="images/product-dev2.jpg" alt="Rubber and urethane part project reviews."> -->
 The polyurethane and rubber product development review process starts as soon as the RFQ is received. The technical sales team examines the polyurethane and rubber mold design, critical features and operating environment to ensure the material and design support both manufacturing standards and part function. The review also highlights possible cost saving opportunities. The technical sales team works hand in hand with MD's on-site chemist and engineers until a project is launched and an engineering Project Manager is assigned.<br>
 <a href="project-review.php" class="more-link">LEARN MORE</a>
 <br><br>

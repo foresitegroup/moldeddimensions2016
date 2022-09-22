@@ -10,8 +10,10 @@
     </ul>
   </li>
   <li class="m2">
-    <a href="<?php echo $TopDir; ?>project-review.php">Project Review</a>
+    <a href="<?php echo $TopDir; ?>product-development.php">Product Development</a>
     <ul>
+      <li><a href="<?php echo $TopDir; ?>project-review.php">Project Review</a></li>
+      <li><a href="<?php echo $TopDir; ?>project-management.php">Project Management</a></li>
       <li><a href="<?php echo $TopDir; ?>materials-engineering.php">Materials Engineering</a></li>
       <li><a href="<?php echo $TopDir; ?>quality.php">Quality</a></li>
     </ul>
