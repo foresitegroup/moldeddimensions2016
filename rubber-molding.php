@@ -76,7 +76,6 @@ MD has low-, mid-, and high-volume production capabilities.  Some of our custome
   <li>Grippers</li>
   <li>Tubes</li>
   <li>Covers</li>
-  <li>Straps</li>
   <li>Cushions</li>
   <li>Plug</li>
 </ul>
